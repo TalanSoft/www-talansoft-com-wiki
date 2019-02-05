@@ -88,6 +88,9 @@ A variety of blending methods.
 ![Blending Illustration](//cdn2.talansoft.com/img/docs/material_editor/VLK_Blending.gif)
 
 # Comments
+
+{::options parse_block_html="true" /}
+
 <div class="center">
 <div id='discourse-comments'></div>
 <script type="text/javascript">
