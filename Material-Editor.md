@@ -86,3 +86,16 @@ You can also download and use pre-existing shaders. Just place them in your proj
 ### Blending:
 A variety of blending methods.
 ![Blending Illustration](//cdn2.talansoft.com/img/docs/material_editor/VLK_Blending.gif)
+
+# Comments
+<div id='discourse-comments'></div>
+
+<script type="text/javascript">
+  DiscourseEmbed = { discourseUrl: 'https://forum.talansoft.com/',
+                     discourseEmbedUrl: 'https://forum.talansoft.com/t/tutorial-material-editor/18' };
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
