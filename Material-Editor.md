@@ -88,8 +88,8 @@ A variety of blending methods.
 ![Blending Illustration](//cdn2.talansoft.com/img/docs/material_editor/VLK_Blending.gif)
 
 # Comments
+<div class="center">
 <div id='discourse-comments'></div>
-
 <script type="text/javascript">
   DiscourseEmbed = { discourseUrl: 'https://forum.talansoft.com/',
                      discourseEmbedUrl: 'https://forum.talansoft.com/t/tutorial-material-editor/18' };
@@ -99,3 +99,4 @@ A variety of blending methods.
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
   })();
 </script>
+</div>
