@@ -16,7 +16,7 @@ If a texture is in the diffuse channel, the diffuse modulate option allows you t
 There are 2 methods to enable opacity.
 - **The transparency method:**
 If the diffuse bitmap contains an alpha channel, enabling the transparent flag will enable transparency. Modifying the diffuse channel alpha value will increase or reduce the intensity of the effect. This method is recommended for translucent materials such as glass and windows.
-![Opacity Illustration](//cdn2.talansoft.com/img/docs/material_editor/VLK_Opacity.gif)
+![Opacity Illustration](https://cdn2.talansoft.com/img/docs/material_editor/VLK_Opacity.gif)
 
 - **The cut-out method:**
 Adding an opacity map in the opacity channel will cut-out the transparent pixels in a binary way. This method is recommended for hair & foliage. You can use the TransparentAA flag, which on hardware that supports it, will apply anti-aliasing to the masked edges.
