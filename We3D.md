@@ -49,7 +49,7 @@ Use any app's share/open into feature and select "Copy to We3D" or "Open in We3D
 - Your current IP address will be displayed.
 ![IP](https://forum.talansoft.com/uploads/talansoft/original/1X/36ac5352a213d55455848ac17d25c7f8390d5e20.jpeg)
 - On a computer connected to the same Wi-Fi network, enter this IP Address in your web browser and you will able to directly upload files to your iOS Device by drag & dropping them onto the web page.
-![Online](/uploads/talansoft/original/1X/22df81a3f5686ebf3aafa1caa038fe1ba2fc554d.jpeg)
+![Online](https://forum.talansoft.com/uploads/talansoft/original/1X/22df81a3f5686ebf3aafa1caa038fe1ba2fc554d.jpeg)
 
 You can then copy your VPK files in either the AR or the Regular subfolders.
 
