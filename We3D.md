@@ -15,7 +15,7 @@ Software Requirements: We3D
 
 All scenes are displayed in either the **Regular** or **AR** tabs.
 
-![Home](/uploads/talansoft/original/1X/d23ebc118d018e1afa9e91d669e172342e8f2727.jpeg)
+![Home](https://forum.talansoft.com/uploads/talansoft/original/1X/d23ebc118d018e1afa9e91d669e172342e8f2727.jpeg)
 
 - The **Regular** tab allows you to experience Valkyrie scenes on your phone's screen just like on a computer.
 - The **AR** tab allows you to experience the Valkyrie scenes in Augmented Reality.
@@ -26,7 +26,7 @@ Note that all Valkyrie scenes can be experienced in either modes.
   - To send a Valkyrie scene to a different mode, press on the scene's icon for 1 second and select **Move to Regular / AR**.
   - To delete a Valkyrie scene, press on the scene's icon for 1 second and select **Delete**.
 
-![Transfer](/uploads/talansoft/original/1X/c77210c22de5977d565ccd5ee82cc7b517773be9.gif)
+![Transfer](https://forum.talansoft.com/uploads/talansoft/original/1X/c77210c22de5977d565ccd5ee82cc7b517773be9.gif)
 
 ## How to Download a Valkyrie Scene?
 
@@ -57,7 +57,7 @@ You can then copy your VPK files in either the AR or the Regular subfolders.
 
 To access the **Settings Menu**, navigate to the **Home Screen**, open the **Settings** app and select "We3D".
 
-![Settings](/uploads/talansoft/original/1X/c0880753afdea1a1a9fcd107dc7d312f5da16939.jpeg)
+![Settings](https://forum.talansoft.com/uploads/talansoft/original/1X/c0880753afdea1a1a9fcd107dc7d312f5da16939.jpeg)
 
 - **MSAA 4X** controls the Anti-Aliasing. Turning off this option improves performance at the cost of rendering quality.
 - **Retina Resolution** controls the rendering resolution. Turning off this option improves performance at the cost of rendering quality.
