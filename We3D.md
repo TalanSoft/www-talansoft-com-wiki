@@ -57,7 +57,7 @@ You can then copy your VPK files in either the AR or the Regular subfolders.
 
 To access the **Settings Menu**, navigate to the **Home Screen**, open the **Settings** app and select "We3D".
 
-![Settings](https://forum.talansoft.com/uploads/talansoft/original/1X/c0880753afdea1a1a9fcd107dc7d312f5da16939.jpeg)
+![Settings](/uploads/63cbd94073886c5f57513da05b95a9b7/we3d-options.jpg)
 
 - **MSAA 4X** controls the Anti-Aliasing. Turning off this option improves performance at the cost of rendering quality.
 - **Retina Resolution** controls the rendering resolution. Turning off this option improves performance at the cost of rendering quality.
