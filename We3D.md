@@ -36,7 +36,7 @@ A Valkyrie Scene uses the VPK file extension. There are multiple ways to send a 
 
 - Use a link given to you by someone else, or upload your VPK file to your preferred online storage service.
 - Download it on your iOS device using Safari and select **Open in We3D**.
-![Download](/uploads/talansoft/original/1X/310f6cbfdff12e301837cf2d18cb6ae742d55e9a.gif)
+![Download](https://forum.talansoft.com/uploads/talansoft/original/1X/310f6cbfdff12e301837cf2d18cb6ae742d55e9a.gif)
 
 ### Sharing or copying it from another iOS app
 
@@ -47,7 +47,7 @@ Use any app's share/open into feature and select "Copy to We3D" or "Open in We3D
 - While connected to a Wi-Fi network, open We3D on your iOS Device.
 - Click on the menu on the top-right corner.
 - Your current IP address will be displayed.
-![IP](/uploads/talansoft/original/1X/36ac5352a213d55455848ac17d25c7f8390d5e20.jpeg)
+![IP](https://forum.talansoft.com/uploads/talansoft/original/1X/36ac5352a213d55455848ac17d25c7f8390d5e20.jpeg)
 - On a computer connected to the same Wi-Fi network, enter this IP Address in your web browser and you will able to directly upload files to your iOS Device by drag & dropping them onto the web page.
 ![Online](/uploads/talansoft/original/1X/22df81a3f5686ebf3aafa1caa038fe1ba2fc554d.jpeg)
 
