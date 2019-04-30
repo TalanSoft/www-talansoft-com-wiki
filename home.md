@@ -1,4 +1,4 @@
-#  TalanSoft Product & Services Wiki
+#  TalanSoft Wiki Home
 Welcome to the Wiki section.  
 Please find on this page the answers to most questions you can think of.  
 
