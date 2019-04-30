@@ -46,8 +46,7 @@ There is no text or node based scripting, yet the timeline system is powerful en
 - On a side note, on desktop you can publish directly in an *exe* format for Windows or use the Valkyrie Player which is bundled with the free download of Valkyrie to read the *vpk*.
 
 # Asgard
-
-Automated creation of  your own branded Mobile Applications
+## Automated creation of  your own branded Mobile Applications
 
 - We provide a service that enables a customer to publish a *vpk* file as an iOS and/or Android application in an automated way without requiring any technical knowledge. Once the *vpk* + requested media is uploaded to us (via email, dropbox link, or TalanSoft’s web interface) it will be processed, and within 48 hours a native application will be forwarded to you via a private download link.
 
