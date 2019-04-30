@@ -39,6 +39,8 @@ The VR function is available for google cardboard as of now. Contact us if you h
 Create complex interactions simply by drag & dropping actions, events and entities on your assets in the timeline.  
 There is no text or node based scripting, yet the timeline system is powerful enough to achieve the same results while being more robust and more accessible.
  
+[Back to Wiki Home](Wiki)
+
 # We3D
 
 - We3D can be downloaded for free by anyone on the App Store and is used to read on iOS any application created with Valkyrie Engine in a *vpk* format. It can be used to test out the applications you created on iOS before turning them into standalone mobile apps, or to distribute your application to your own customers.  
