@@ -27,3 +27,5 @@ cd Valkyrie/Vlk
 # Start the valkyrie player
 ./wine_vlk_player PATH_TO_VPK
 ```
+
+Note that if its the first time you use Wine or run Vlk the startup might be a bit slow but next time you run the app it should feel about the same as it does on Windows.
