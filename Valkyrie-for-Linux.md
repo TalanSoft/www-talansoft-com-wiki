@@ -5,13 +5,14 @@ In the meantime you can use Valkyrie on Linux using Wine, since Valkyrie is a cl
 The current recommended Wine build:
 https://cdn2.talansoft.com/ftp/Installers/Valkyrie-v20201130_015337-ubuntu-winex64.zip
 
-Usage using the terminal, assuming you've downloaded the zip above in your `~/Downloads` folder:
+Usage using the terminal:
 ```
 # Install wine
 sudo apt-get install wine
 
-# Unpack Valkyrie
+# Download and unpack Valkyrie
 cd ~/Downloads
+wget https://cdn2.talansoft.com/ftp/Installers/Valkyrie-v20201130_015337-ubuntu-winex64.zip
 unzip Valkyrie-v20201130_015337-ubuntu-winex64.zip
 
 # Go to the newly extracted folder
