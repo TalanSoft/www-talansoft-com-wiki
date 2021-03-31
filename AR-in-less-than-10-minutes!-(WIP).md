@@ -1,5 +1,6 @@
 - [Step 1: Prepare your assets](#step-1)
 - [Step 2: Create a Valkyrie scene](#step-2)
+- [Step 3: Import your assets](#step-3)
 
 # <a name="step-1"></a> Step 1: Prepare your assets
 
@@ -32,3 +33,7 @@ JPG, PNG or TGA for textures (It is recommended to set a maximum texture resolut
 - If you save your scene using `CTRL+S` the changes made to the level you are working on will be saved without creating a new level.
 
 - You have also the possibility to save your scene incrementally using `Cmd+Shift+S / CTRL+SHIFT+S`. A new level will then be created.
+
+# <a name="step-3"></a> Step 3: Import your assets
+
+TODO -> Continue restoration from webarchive
