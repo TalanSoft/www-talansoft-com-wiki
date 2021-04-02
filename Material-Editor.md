@@ -1,4 +1,4 @@
-# One shader to rule them all!
+# Material Editor
 Whether you're into physically based or stylized shaders, Valkyrie's **Material Editor** allows you to create any type of shaders in an intuitive way.
 
 If the material editor is not showing in the Valkyrie workplace, you can display it by either:
