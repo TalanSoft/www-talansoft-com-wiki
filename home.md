@@ -1,14 +1,10 @@
-#  Talansoft Wiki Home
-Welcome to the Wiki section.  
-Please find on this page the answers to most questions you can think of.  
-
-## References
+## Valkyrie References
 - [Forms](./Vlk/RefForms)
 - [Entities](./Vlk/RefEntities)
 - [Events](./Vlk/RefEvents)
 - [Actions](./Vlk/RefActions)
 
-## Guides
+## Valkyrie Guides
 - [Material Editor](Material-Editor)
 - [Action List Part 01 (A-D)](Action_Part01_A-D)
 - [Action List Part 02 (E-F)](Action_Part02_E F)
@@ -18,10 +14,9 @@ Please find on this page the answers to most questions you can think of.
 - [Action List Part 06 (U-Z)](Action_Part06_U Z)
 - [Entity](Entity)
 
-## Features  
+## Product Features  
 - [Valkyrie Engine](features#valkyrie engine)  
 - [We3d](we3d)  
-
 
 ## System Version
 - [Valkyrie for Windows](Valkyrie-for-Windows)
