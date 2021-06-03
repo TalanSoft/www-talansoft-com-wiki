@@ -12,6 +12,8 @@ In this tutorial we are going to explain how to create a simple scene with an an
 - [Step 5 Export your scene](#export-project)
 - [Step 6 Share with the world!](#share)
 
+- [Comments](#comments)
+
 <a name="prepare-assets"></a>
 ## Step 1: Prepare your assets
 After designing your assets with your preferred 3D modelling suite, export them in one of following formats:

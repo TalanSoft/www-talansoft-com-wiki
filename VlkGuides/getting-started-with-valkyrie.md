@@ -10,6 +10,7 @@ This tutorial will teach you the basics to navigate through the Valkyrie Engine 
   - [Workplace](#workplace)
   - [Selection](#selection)
   - [Gizmo](#gizmo)
+- [Comments](#comments)
 
 <a name="create-your-first-project"></a>
 ## Create your first project
@@ -43,7 +44,7 @@ If you close Valkyrie, you can open your app by selecting it in the launcher, or
 Now you might be wondering what you will be able to do, so let us dive into the specificities of the Valkyrie Engine from this point.
 
 <a name="user-interface"></a>
-## User Interface 
+## User Interface
 
 Start by getting to know the function of each panel detailed below.
 
@@ -83,7 +84,7 @@ For instant help, hover your mouse over a menu, button or object while pressing 
 - The console logs all actions performed in the scene and brings potential errors to your attention.
 
 <a name="library"></a>
-## Library Overview 
+## Library Overview
 
 The **Library menu** allows you to import assets inside your application and it is split into 7 tabs:
 ![Library Menu](https://aws1.discourse-cdn.com/standard11/uploads/talansoft/original/1X/a82238140f51d83700488b27723c7ae27f4fb8b9.jpeg)
@@ -133,10 +134,10 @@ The **Library menu** allows you to import assets inside your application and it 
 
 - Refreshes the data folder for newly added and overwritten files.
 
-## Shortcuts 
+## Shortcuts
 
 <a name="navigation"></a>
-### Navigation 
+### Navigation
 
 Use the following controls to navigate in your scene:
 
@@ -153,7 +154,7 @@ Use the following controls to navigate in your scene:
 - **CTRL + Enter**: Toggle Full Screen.
 
 <a name="workplace"></a>
-### Workplace 
+### Workplace
 
 - **CTRL + Hover**: Show tooltips.
 - **CTRL + move** on a form: Rearrange screens layout and dock the panels.
@@ -166,7 +167,7 @@ Use the following controls to navigate in your scene:
 - **CTRL + Alt + P**: Advanced display options.
 
 <a name="selection"></a>
-### Selection 
+### Selection
 
 - **Left Click**: Object Selection.
 - **CTRL + F** or **Alt + 0**: Focus on selected entity.
@@ -181,7 +182,7 @@ Use the following controls to navigate in your scene:
 - **Shift + move/resize a timeline bar**: Move all the timelines of the linked & sub-elements.
 
 <a name="gizmo"></a>
-### Gizmo 
+### Gizmo
 
 - **CTRL + E**: Toggle the scale controls.
 - **CTRL + Q**: Translation mode.
@@ -195,5 +196,4 @@ Use the following controls to navigate in your scene:
 
 <a name="comments"></a>
 # Comments
-
 Join our Discord server to comment and get help: <a href="https://discord.gg/ZuBJtpN4Ce">Join</a> - <a class='btn btn-success' href='https://discord.com/channels/739876867854827582' target='_blank'>Open</a>

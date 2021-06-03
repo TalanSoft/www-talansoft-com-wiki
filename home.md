@@ -2,7 +2,8 @@
 - [Getting Started with Valkyrie](VlkGuides/getting-started-with-valkyrie)
 - [Introduction to interactions](VlkGuides/introduction-to-interactions)
 - [AR in less that 10 minutes](VlkGuides/ar-in-10-mins)
-- [Material Editor](VlkGuides/Material-Editor)
+- [Make a simple User Interface with Valkyrie](VlkGuides/make-a-simple-ui)
+- [The Material Editor](VlkGuides/Material-Editor)
 - [A simple daylight system](VlkGuides/automatic-daylight-system)
 
 # Valkyrie References
@@ -11,9 +12,9 @@
 - [Events](./Vlk/RefEvents)
 - [Actions](./Vlk/RefActions)
 
-# Product Features  
-- [Valkyrie Engine](features#valkyrie engine)  
-- [We3d](we3d)  
+# Product Features
+- [Valkyrie Engine](features#valkyrie engine)
+- [We3d](we3d)
 
 # System Version
 - [Valkyrie for Windows](Valkyrie-for-Windows)
