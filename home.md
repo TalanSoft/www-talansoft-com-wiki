@@ -2,7 +2,7 @@
 Welcome to the Wiki section.  
 Please find on this page the answers to most questions you can think of.  
 
-## How to
+## Guides
 - [Valkyrie for Linux](Valkyrie-for-Linux)
 - [Material Editor](Material-Editor)
 
