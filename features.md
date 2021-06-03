@@ -38,5 +38,7 @@ The VR function is available for google cardboard as of now. Contact us if you h
 - **Complexity Simplified**  
 Create complex interactions simply by drag & dropping actions, events and entities on your assets in the timeline.  
 There is no text or node based scripting, yet the timeline system is powerful enough to achieve the same results while being more robust and more accessible.
- 
-[Back to Wiki Home](https://gitlab.talansoft.com/Pub/Wiki)
+
+# Comments
+
+Join our Discord server to comment and get help: <a href="https://discord.gg/ZuBJtpN4Ce">Join</a> - <a class='btn btn-success' href='https://discord.com/channels/739876867854827582' target='_blank'>Open</a>

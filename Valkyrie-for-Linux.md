@@ -31,3 +31,6 @@ cd Valkyrie/Vlk
 
 Note that if its the first time you use Wine or run Vlk the startup might be a bit slow but next time you run the app it should feel about the same as it does on Windows.
 
+# Comments
+
+Join our Discord server to comment and get help: <a href="https://discord.gg/ZuBJtpN4Ce">Join</a> - <a class='btn btn-success' href='https://discord.com/channels/739876867854827582' target='_blank'>Open</a>

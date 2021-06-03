@@ -20,20 +20,20 @@ If the diffuse bitmap contains an alpha channel, enabling the transparent flag w
 
 - **The cut-out method:**
 Adding an opacity map in the opacity channel will cut-out the transparent pixels in a binary way. This method is recommended for hair & foliage. You can use the TransparentAA flag, which on hardware that supports it, will apply anti-aliasing to the masked edges.
-![Cut-Out Illustration](//cdn2.talansoft.com/img/docs/material_editor/VLK_Cut_Out.gif)
+![Cut-Out Illustration](https://cdn2.talansoft.com/img/docs/material_editor/VLK_Cut_Out.gif)
 
 ### Bump
 The bump channel allows you to use a normal map or a height map. Choose the relevant flag to enable the adequate effect.
-The intensity of the bump can be controlled by modifying the bump's alpha value.
-![Bump Illustration](/uploads/talansoft/original/1X/ac80eebd8826653bfe64d373b501f051fbbcd53c.gif)
+The intensity of the bump can be controlled by modifying the bump's alpha value. The RGB value controls the relief mapping strength.
+![Bump Illustration](https://cdn2.talansoft.com/img/docs/material_editor/VLK_Bump_1.gif)
 
 ### Specular
 The specular channel allows you to create more realistic shaders.
-![Reflections Illustration](//cdn2.talansoft.com/img/docs/material_editor/VLK_Reflections.jpg)
+![Reflections Illustration](https://cdn2.talansoft.com/img/docs/material_editor/VLK_Reflections.jpg)
 The RGB value define the intensity of the specular highlights while the alpha value controls the glossiness.
 
 When creating PBR assets, the glossiness map must be featured in the specular map's alpha channel. It is recommended to use the TGA file format.
-![Glossiness Illustration](//cdn2.talansoft.com/img/docs/material_editor/VLK_Gloss.gif)
+![Glossiness Illustration](https://cdn2.talansoft.com/img/docs/material_editor/VLK_Gloss.gif)
 The alpha value will increase or reduce the intensity of the glossiness, 1 being mirror & 0 being matte.
 
 ### Environment:
@@ -46,7 +46,7 @@ It is used for AO maps or lightmaps. The ambient bitmap is multiplied with the d
 ### Emissive:
 The emissive channel is used to define a shader's self-emission.
 The RGB value defines the color of the emission while the alpha value controls the intensity of the effect.
-![Emissive Illustration](//cdn2.talansoft.com/img/docs/material_editor/VLK_Emissive.gif)
+![Emissive Illustration](https://cdn2.talansoft.com/img/docs/material_editor/VLK_Emissive.gif)
 
 ### Refraction:
 The refraction channel is used to refract light through transparent surfaces.
@@ -89,4 +89,5 @@ A variety of blending methods.
 
 # Comments
 
-https://forum.talansoft.com/t/tutorial-material-editor/18
+Join our Discord server to comment and get help: <a href="https://discord.gg/ZuBJtpN4Ce">Join</a> - <a class='btn btn-success' href='https://discord.com/channels/739876867854827582' target='_blank'>Open</a>
+
