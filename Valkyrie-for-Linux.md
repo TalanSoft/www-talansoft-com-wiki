@@ -1,4 +1,4 @@
-# Valkyrie on Linux
+# Valkyrie for Linux
 We're currently working on a native Linux version of Valkyrie and while it's made good progress its not yet ready to be shared with outside users.
 
 In the meantime you can use Valkyrie on Linux using Wine. While its not the same as a native version we hope that it's enough to get you started on Linux.
