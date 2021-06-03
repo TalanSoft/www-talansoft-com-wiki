@@ -18,6 +18,8 @@ Please find on this page the answers to most questions you can think of.
 
 
 ## System Version
+- [Valkyrie for Windows](Valkyrie-for-Windows)
+- [Valkyrie for macOS](Valkyrie-for-macOS)
 - [Valkyrie for Linux](Valkyrie-for-Linux)
 
 # Comments
