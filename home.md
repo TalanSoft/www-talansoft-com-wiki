@@ -5,6 +5,7 @@
 - [Make a simple User Interface with Valkyrie](VlkGuides/make-a-simple-ui)
 - [The Material Editor](VlkGuides/Material-Editor)
 - [A simple daylight system](VlkGuides/automatic-daylight-system)
+- [Retrieve live bitcoin USD value from a Web API](VlkGuides/retrieve-btc-usd-http-web-api)
 
 # Valkyrie References
 - [Forms](./Vlk/RefForms)
