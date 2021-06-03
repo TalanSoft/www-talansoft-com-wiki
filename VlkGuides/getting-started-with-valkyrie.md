@@ -192,3 +192,8 @@ Use the following controls to navigate in your scene:
 - **CTRL + W**: Rotation mode.
   - **CTRL + rotation drag**: Entity rotates by 15 degrees snaps.
 - **CTRL + R**: Select mode.
+
+<a name="comments"></a>
+# Comments
+
+Join our Discord server to comment and get help: <a href="https://discord.gg/ZuBJtpN4Ce">Join</a> - <a class='btn btn-success' href='https://discord.com/channels/739876867854827582' target='_blank'>Open</a>

@@ -157,3 +157,9 @@ In the below example, we are going to show you how to make a scene in which, whe
 ### Can I create my own Actions and Events? 
 
 - There are over 100 actions & events built in Valkyrie Engine. By combining them in the sequence of your choice, you can create any kind of interactions from those necessary in simple applications to advanced mechanics.
+
+<a name="comments"></a>
+
+# Comments
+
+Join our Discord server to comment and get help: <a href="https://discord.gg/ZuBJtpN4Ce">Join</a> - <a class='btn btn-success' href='https://discord.com/channels/739876867854827582' target='_blank'>Open</a>

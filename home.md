@@ -1,6 +1,7 @@
 # Valkyrie Guides
 - [Getting Started with Valkyrie](VlkGuides/getting-started-with-valkyrie)
-- [An intro to interactions](VlkGuides/introduction-to-interactions)
+- [Introduction to interactions](VlkGuides/introduction-to-interactions)
+- [AR in less that 10 minutes](VlkGuides/ar-in-10-mins)
 - [Material Editor](VlkGuides/Material-Editor)
 - [A simple daylight system](VlkGuides/automatic-daylight-system)
 

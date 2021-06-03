@@ -266,3 +266,9 @@ Copy past the snippet below into your scene to test it.
     	</Entity>
     </VlkSnippet>
     ---VLK-END---
+
+<a name="comments"></a>
+
+# Comments
+
+Join our Discord server to comment and get help: <a href="https://discord.gg/ZuBJtpN4Ce">Join</a> - <a class='btn btn-success' href='https://discord.com/channels/739876867854827582' target='_blank'>Open</a>

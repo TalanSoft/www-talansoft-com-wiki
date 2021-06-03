@@ -87,6 +87,7 @@ You can also download and use pre-existing shaders. Just place them in your proj
 A variety of blending methods.
 ![Blending Illustration](https://cdn2.talansoft.com/img/docs/material_editor/VLK_Blending.gif)
 
+<a name="comments"></a>
 # Comments
 
 Join our Discord server to comment and get help: <a href="https://discord.gg/ZuBJtpN4Ce">Join</a> - <a class='btn btn-success' href='https://discord.com/channels/739876867854827582' target='_blank'>Open</a>
