@@ -1,16 +1,18 @@
+# Valkyrie Guides
+- [Getting Started with Valkyrie](VlkGuides/getting-started-with-valkyrie)
+- [Material Editor](VlkGuides/Material-Editor)
+
+- [A simple daylight system](VlkGuides/automatic-daylight-system)
+
 # Valkyrie References
+
 - [Forms](./Vlk/RefForms)
 - [Entities](./Vlk/RefEntities)
 - [Events](./Vlk/RefEvents)
 - [Actions](./Vlk/RefActions)
 
-# Valkyrie Guides
-- [Material Editor](Material-Editor)
-
-# Valkyrie Tips
-- [A simple daylight system](VlkTips/automatic-daylight-system)
-
 # Product Features  
+
 - [Valkyrie Engine](features#valkyrie engine)  
 - [We3d](we3d)  
 
