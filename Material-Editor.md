@@ -25,7 +25,7 @@ Adding an opacity map in the opacity channel will cut-out the transparent pixels
 ### Bump
 The bump channel allows you to use a normal map or a height map. Choose the relevant flag to enable the adequate effect.
 The intensity of the bump can be controlled by modifying the bump's alpha value. The RGB value controls the relief mapping strength.
-![Bump Illustration](https://cdn2.talansoft.com/img/docs/material_editor/VLK_Bump_1.gif)
+![Bump Illustration](https://cdn2.talansoft.com/img/docs/material_editor/VLK_Bump.gif)
 
 ### Specular
 The specular channel allows you to create more realistic shaders.
