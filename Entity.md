@@ -3,7 +3,7 @@ Description of Entity in Valkyrie.
 
 Description of Entity in Valkyrie. 
 
-[here](Entity.md#Widget)
+[here](#header-Widget)
 
 ## Camera
 Description of the function and details. 
