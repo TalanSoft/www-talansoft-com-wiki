@@ -15,4 +15,4 @@ Add the specified time to the current time of the targeted timeline.
 
 -   **timeline\_play** : If checked (the default) the targeted timeline
     is played after the time jump. This is equivalent to adding an
-    [Action/TimelinePlay](Action/TimelinePlay) beside the action.
+    [Action/TimelinePlay](./Action/TimelinePlay) beside the action.

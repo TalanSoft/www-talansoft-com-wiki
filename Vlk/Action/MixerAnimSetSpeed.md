@@ -3,7 +3,7 @@
 Sets the playback speed factor of the specified animation.
 
 This action applies to all entities which expose the iAnimationMixer
-interface. This is notably the case of the [Character](Entity/Character)
+interface. This is notably the case of the [Character](./Entity/Character)
 entity.
 
 -   **AnimName**: Name of the animation targeted.

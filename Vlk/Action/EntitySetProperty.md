@@ -1,6 +1,6 @@
 # EntitySetProperty
 
-Used in conjunction with [Entity/DataTable](Entity/DataTable) and bound
+Used in conjunction with [Entity/DataTable](./Entity/DataTable) and bound
 properties. **EntitySetProperty** allows to set a value for a property
 in the data table. Using **EntitySetProperty** will overwrite the
 previous property value.

@@ -87,4 +87,4 @@ Note that you can press *F4* in the editor to toggle on/off the
 collision box debug view.
 
 To add rigid body physics to a Character use a parent
-[Entity/Primitive](Entity/Primitive).
+[Entity/Primitive](./Entity/Primitive).

@@ -13,7 +13,7 @@ Sets a UV transform on the specified material of the target entity.
     ignored.
 
 NOTE: The expressions use the same syntax as the
-[EntitySetProperty](Action/EntitySetProperty) action. As such they can
+[EntitySetProperty](./Action/EntitySetProperty) action. As such they can
 be animated by using the time variable. For example to do a simple
 sliding animation you could set the **translate\_x** property to
 `0.25*time`.

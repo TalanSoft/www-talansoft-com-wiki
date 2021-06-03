@@ -4,7 +4,7 @@ Moves the specified entity sidewards in function of the specified
 movement input and **speed** property.
 
 This action should usually be placed in an input Event suchs as
-[Keyboard](Event/Keyboard) or [GameCtrlStick](Event/GameCtrlStick). If
+[Keyboard](./Event/Keyboard) or [GameCtrlStick](./Event/GameCtrlStick). If
 the action is not in an input event it'll assume an input of "1", that
 is it'll directly apply the specified speed every time the action is
 updated.
@@ -17,7 +17,7 @@ local mode).
 <!-- -->
 
 -   **accelerate**: This flag is meaningful only with a
-    [CollideCharacter](Entity/CollideCharacter) entity. It specifies
+    [CollideCharacter](./Entity/CollideCharacter) entity. It specifies
     that the movement should be created indirectly by accelerating the
     object instead of instantly adding to its velocity. Note that the
     this is the behavior you'll want for "indirectly" controlled

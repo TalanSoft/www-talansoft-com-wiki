@@ -10,5 +10,7 @@ do
     MD_FILE="$OUTPUT_DIR/${f%.wiki}.md"
     MD_DIR=`dirname "$MD_FILE"`
     mkdir -p "$MD_DIR"
-    pandoc "$f" --from creole --to gfm --standalone -o "${MD_FILE}"
+    pandoc "$f" --from creole --to gfm --standalone -o "${MD_FILE}.tmp"
+    sed 's~](~](./~g' < "${MD_FILE}.tmp" > "${MD_FILE}"
+    rm "${MD_FILE}.tmp"
 done

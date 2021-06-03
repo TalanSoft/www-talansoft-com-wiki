@@ -1,4 +1,4 @@
 # CCChangeHeight
 
 Sets the height of the target
-[CollideCharacter](Entity/CollideCharacter) entity.
+[CollideCharacter](./Entity/CollideCharacter) entity.

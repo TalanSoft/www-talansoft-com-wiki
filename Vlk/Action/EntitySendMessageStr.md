@@ -1,8 +1,8 @@
 # EntitySendMessageStr
 
 Sends a message to another entity. Usually used with
-[Event/MessageReceivedA](Event/MessageReceivedA) or
-[Event/MessageReceivedStrEq](Event/MessageReceivedStrEq). This version
+[Event/MessageReceivedA](./Event/MessageReceivedA) or
+[Event/MessageReceivedStrEq](./Event/MessageReceivedStrEq). This version
 of EntitySendMessage enables the usage of parameters.
 
 -   **target** : is the name of the object which will receive the

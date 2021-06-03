@@ -1,7 +1,7 @@
 # EntitySendMessage
 
 Sends a message to another entity. Usually used with
-[Event/MessageReceived](Event/MessageReceived).
+[Event/MessageReceived](./Event/MessageReceived).
 
 -   **target** : is the name of the object which will receive the
     message

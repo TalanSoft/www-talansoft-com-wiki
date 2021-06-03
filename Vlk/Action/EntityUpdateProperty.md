@@ -1,6 +1,6 @@
 # EntityUpdateProperty
 
-Used in conjunction with [Entity/DataTable](Entity/DataTable) and bound
+Used in conjunction with [Entity/DataTable](./Entity/DataTable) and bound
 properties. **EntityUpdateProperty** allows to set a value for a
 property in the data table. Using **EntityUpdateProperty** will
 overwrite the previous property value.

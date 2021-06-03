@@ -10,5 +10,5 @@ screen.
     between the cursor and the entity when the action starts. When
     unchecked the center of the entity follows the cursor's position.
 
-NOTE: Behaves like [InputDrag](Action/InputDrag) excepted that it always
+NOTE: Behaves like [InputDrag](./Action/InputDrag) excepted that it always
 follow the primary cursor.

@@ -85,4 +85,3 @@ active.*
 
 -   **Ctrl+S**: Save your work in the active level.
 -   **Ctrl+Shift+S**: Save your work as a new level.
-

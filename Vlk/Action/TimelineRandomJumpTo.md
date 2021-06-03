@@ -20,4 +20,4 @@ timed in the \[min\_time,max\_time\] range.
 
 -   **timeline\_play** : If checked (the default) the targeted timeline
     is played after the time jump. This is equivalent to adding an
-    [Action/TimelinePlay](Action/TimelinePlay) beside the action.
+    [Action/TimelinePlay](./Action/TimelinePlay) beside the action.
