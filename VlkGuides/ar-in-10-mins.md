@@ -11,7 +11,6 @@ In this tutorial we are going to explain how to create a simple scene with an an
 - [Step 4: Set up your scene](#setup-project)
 - [Step 5 Export your scene](#export-project)
 - [Step 6 Share with the world!](#share)
-
 - [Comments](#comments)
 
 <a name="prepare-assets"></a>
