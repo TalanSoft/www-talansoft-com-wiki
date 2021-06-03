@@ -7,6 +7,9 @@
 # Valkyrie Guides
 - [Material Editor](Material-Editor)
 
+# Valkyrie Tips
+- [A simple daylight system](VlkTips/automatic-daylight-system)
+
 # Product Features  
 - [Valkyrie Engine](features#valkyrie engine)  
 - [We3d](we3d)  
