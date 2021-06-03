@@ -3,7 +3,7 @@ Description of Action in Valkyrie.
 
 Description of Action in Valkyrie.
 
-Jump to [DebugTrace](DebugTrace). 
+Jump to [DebugTrace](https://gitlab.talansoft.com/Pub/Wiki/wikis/Action_Part01_A-D/DebugTrace). 
 
 ## AnimAllTo
 Description of the function and details. 
