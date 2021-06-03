@@ -3,7 +3,7 @@ Description of Entity in Valkyrie.
 
 Description of Entity in Valkyrie. 
 
-[Button Here](Entity#Widget)
+[Button Here](https://gitlab.talansoft.com/Pub/Wiki/wikis/Entity#widget)
 
 ## Camera
 Description of the function and details. 
