@@ -48,3 +48,14 @@ Description of the function and details.
 ## EntityUpdateProperty
 Description of the function and details. 
 
+## FactoryCache
+Description of the function and details. 
+
+## FactoryCacheAll
+Description of the function and details. 
+
+## FactorySpawn
+Description of the function and details. 
+
+## FactorySpawnGrid
+Description of the function and details. 
