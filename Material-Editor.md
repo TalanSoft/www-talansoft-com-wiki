@@ -85,7 +85,7 @@ You can also download and use pre-existing shaders. Just place them in your proj
 
 ### Blending:
 A variety of blending methods.
-![Blending Illustration](//cdn2.talansoft.com/img/docs/material_editor/VLK_Blending.gif)
+![Blending Illustration](https://cdn2.talansoft.com/img/docs/material_editor/VLK_Blending.gif)
 
 # Comments
 
