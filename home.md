@@ -5,6 +5,7 @@ Please find on this page the answers to most questions you can think of.
 ## Guides
 - [Valkyrie for Linux](Valkyrie-for-Linux)
 - [Material Editor](Material-Editor)
+- [Actions](Action)
 
 ## Features  
 - [Valkyrie Engine](features#valkyrie engine)  
