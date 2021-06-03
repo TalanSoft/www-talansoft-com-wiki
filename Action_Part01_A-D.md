@@ -3,7 +3,7 @@ Description of Action in Valkyrie.
 
 Description of Action in Valkyrie.
 
-Description of Action in Valkyrie. 
+Jump to [DebugTrace](DebugTrace). 
 
 ## AnimAllTo
 Description of the function and details. 
