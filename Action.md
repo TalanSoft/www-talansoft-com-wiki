@@ -25,3 +25,40 @@ Description of the function and details.
 
 ## AnimScale
 Description of the function and details.
+
+## Billboard
+Description of the function and details.
+
+## CCChangeHeight
+Description of the function and details.
+
+## CCSetAcceleration
+Description of the function and details.
+
+## CCSetDeceleration
+Description of the function and details.
+
+## CCSetMaxVelocity
+Description of the function and details.
+
+## CCSetVelocity
+Description of the function and details.
+
+## DataTableCopy
+Description of the function and details.
+
+## DataTableRead
+Description of the function and details.
+
+## DataTableReadURL
+Description of the function and details.
+
+## DataTableWrite
+Description of the function and details.
+
+## DebugTrace
+Description of the function and details.
+
+## DebugTrace
+Description of the function and details.
+
