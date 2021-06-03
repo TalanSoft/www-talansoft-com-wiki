@@ -3,16 +3,16 @@ Welcome to the Wiki section.
 Please find on this page the answers to most questions you can think of.  
 
 ## Guides
-- [Valkyrie for Linux](Valkyrie-for-Linux)
 - [Material Editor](Material-Editor)
 - [Actions](Action)
+- [Entity](Entity)
 
 ## Features  
 - [Valkyrie Engine](features#valkyrie engine)  
 - [We3d](we3d)  
 
 
-## System Verion
+## System Version
 - [Valkyrie for Linux](Valkyrie-for-Linux)
 
 # Comments
