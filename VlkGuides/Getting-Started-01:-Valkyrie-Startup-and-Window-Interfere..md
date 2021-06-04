@@ -28,15 +28,6 @@ Select a **Name** for your application.
 Choose the directory where you want to save your app in the Location field & proceed by clicking on **Create**. The application will be created and saved in your documents.
 Note that by default, applications are located in **C:/User/USER_NAME/Vlk Projects/** on Windows and **/Users/USER_NAME/Vlk Projects** on macOS.
 
-Once the scene has loaded, you need to drag & drop your project level from the bottom left area on the viewport or the timeline, and confirm that you want to set the level ‘Orbit Camera’ in order to load your application.
-
-Orbit Camera is one of the most basic setup you can create: a sphere, a light and a camera. What this app does, is that when you move the camera with the mouse it orbits around the sphere. Simple.
-
-Whatever the changes you do later on, remember to save your level after each iteration.
-If you close Valkyrie, you can open your app by selecting it in the launcher, or by double-clicking on the Valkyrie (**.vlk**) file in your application directory.
-
-Now you might be wondering what you will be able to do, so let us dive into the specificities of the Valkyrie Engine from this point.
-
 <a name="user-interface"></a>
 ## User Interface
 
