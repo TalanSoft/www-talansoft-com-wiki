@@ -141,7 +141,12 @@ For the full list, [Click Here for Event](https://gitlab.talansoft.com/Pub/Wiki/
 ![Timeline_01](uploads/25cb1df5f84c0c4f1e1c23c4238e97e4/Timeline_01.PNG)
 
 #### Outliner
-On the Left side of the **Timeline Tab**, here contains the list of the every single **Entity**, **Action** and **Event** that is within the viewport of the current level. 
+
+On the Left side of the **Timeline Tab**, 
+
+here contains the list of the every single **Entity**, **Action** and **Event** that is within the viewport of the current level. 
+
+
 
 #### Timeline
 Adjacent to the Right section, the timeline of the entire project and individual time bar for each **Entity**, **Action** and **Event** that is within the viewport of the current level. 
