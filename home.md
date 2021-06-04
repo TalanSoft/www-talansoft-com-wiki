@@ -1,5 +1,5 @@
 # Valkyrie Guides
-- [Getting Started 01: Valkyrie Startup and Intro to User Interface.](VlkGuides/getting-started-01-vlk-startup-and-ui)
+- [Getting Started 01: Valkyrie Startup and Intro to User Interface](VlkGuides/getting-started-01-vlk-startup-and-ui)
 - [Getting Started 03: Introduction to Events & Action](VlkGuides/getting-started-03-intro-events-n-actions)
 - [AR in less that 10 minutes](VlkGuides/ar-in-10-mins)
 - [Make a simple User Interface with Valkyrie](VlkGuides/make-a-simple-ui)
