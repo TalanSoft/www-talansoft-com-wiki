@@ -13,6 +13,7 @@ This tutorial will teach you the basics to navigate through the Valkyrie Engine 
 - [Comments](#comments)
 
 <a name="create-your-first-project"></a>
+
 ## Create your first project
 
 Start the Valkyrie Launcher and you will get two tabs:
@@ -29,6 +30,7 @@ Choose the directory where you want to save your app in the Location field & pro
 Note that by default, applications are located in **C:/User/USER_NAME/Vlk Projects/** on Windows and **/Users/USER_NAME/Vlk Projects** on macOS.
 
 <a name="user-interface"></a>
+
 ## User Interface
 
 Start by getting to know the function of each panel detailed below.
