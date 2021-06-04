@@ -1,4 +1,4 @@
-# Getting Started 01: Valkyrie Startup and Intro to User Interfere.
+# Getting Started 01: Valkyrie Startup and Intro to User Interface.
 
 This tutorial will teach you the basics to navigate through the Valkyrie Engine screens and create your very first app.
 
