@@ -112,17 +112,20 @@ The **Library menu** allows you to import assets inside your application and it 
 
 **b) Entities**
 
-- The **Entities** tab is used to create built-in assets such as: Camera, Mesh & Lights. 
+- The **Entities** tab is used to create built-in assets such as: Camera, Mesh & Lights.
+ 
 For a full list, [Click Here for Entity](https://gitlab.talansoft.com/Pub/Wiki/wikis/Vlk/RefEntities)
 
 **c) Actions**
 
 - This tab contains a list of **Actions** that allow you to create interactions of various complexities. It features a visual logic engine that will empower you to create anything your mind can think of without writing a single line of code.
+
 For the full list, [Click Here for Action](https://gitlab.talansoft.com/Pub/Wiki/wikis/Vlk/RefActions)
 
 **d) Events**
 
 - **Events** are a set of conditions that allow you to define when **Actions** are triggered. For example, to start an animation if the user presses a certain UI element, or to trigger an animation when a character collides with an asset. 
+
 For the full list, [Click Here for Event](https://gitlab.talansoft.com/Pub/Wiki/wikis/Vlk/RefEvents)
 
 **e) Data**
