@@ -1,4 +1,4 @@
-# Introduction to interactions
+# Getting Started *03*: Introduction to Events & Action
 
 Creating interactions without coding is the key strength of Valkyrie Engine.
 
