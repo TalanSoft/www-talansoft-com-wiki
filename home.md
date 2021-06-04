@@ -1,6 +1,6 @@
 # Valkyrie Guides
 - [Getting Started with Valkyrie](VlkGuides/getting-started-with-valkyrie)
-- [Introduction to interactions](VlkGuides/introduction-to-interactions)
+- [Getting Started 03: Introduction to Events & Action](VlkGuides/Getting Started 03: Introduction to Events & Action)
 - [AR in less that 10 minutes](VlkGuides/ar-in-10-mins)
 - [Make a simple User Interface with Valkyrie](VlkGuides/make-a-simple-ui)
 - [The Material Editor](VlkGuides/Material-Editor)
