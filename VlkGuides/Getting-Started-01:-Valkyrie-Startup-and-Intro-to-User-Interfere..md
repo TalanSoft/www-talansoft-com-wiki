@@ -93,10 +93,6 @@ Located on the Top Left of the Screen, 3 major tabs.
 - Move Angular Snap
 - Rotate Angular Snap
 
-
-
-
-
 <a name="library"></a>
 ## Library Overview
 
@@ -112,7 +108,7 @@ The **Library menu** allows you to import assets inside your application and it 
 
 **b) Entities**
 
-- The **Entities** tab is used to create built-in assets such as: Camera, Mesh & Lights.
+- The **Entities** tab is used to create built-in assets such as Camera, Mesh & Lights.
  
 For a full list, [Click Here for Entity](https://gitlab.talansoft.com/Pub/Wiki/wikis/Vlk/RefEntities)
 
@@ -124,7 +120,7 @@ For the full list, [Click Here for Action](https://gitlab.talansoft.com/Pub/Wiki
 
 **d) Events**
 
-- **Events** are a set of conditions that allow you to define when **Actions** are triggered. For example, to start an animation if the user presses a certain UI element, or to trigger an animation when a character collides with an asset. 
+- **Events** are a set of conditions that allow you to define when **Actions** are triggered. Such as User input via virtual button, or to trigger an animation when a character collides with an asset. 
 
 For the full list, [Click Here for Event](https://gitlab.talansoft.com/Pub/Wiki/wikis/Vlk/RefEvents)
 
@@ -139,6 +135,26 @@ For the full list, [Click Here for Event](https://gitlab.talansoft.com/Pub/Wiki/
 **g) Refresh**
 
 - Refreshes the data folder for newly added and overwritten files.
+
+
+## 03 Timeline & Outliner
+![Timeline_01](uploads/25cb1df5f84c0c4f1e1c23c4238e97e4/Timeline_01.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Shortcuts
 
