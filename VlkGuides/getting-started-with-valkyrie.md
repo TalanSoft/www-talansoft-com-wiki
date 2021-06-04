@@ -20,21 +20,15 @@ Start the Valkyrie Launcher and you will get two tabs:
 - **Recent**: the apps you have been working on will be displayed there.
 - **Templates**: these are shortcut templates for you to select in order to create a new app. You can reconfigure the content at your will once opened.
 
-Firstly, start with selecting the **New Project** tab.
+Firstly, swap to the **Templates** tab and select the **New Project** tab.
 You will be prompted to select a template to create a new application.
 
 To better understand the interactions in Valkyrie, we recommend that for your first trial you select the **AnimMixer** template. Once selected, a **Create Project** screen pops up.
 Select a **Name** for your application.
-The directory containing the template you selected is indicated in the Base App field.
 Choose the directory where you want to save your app in the Location field & proceed by clicking on **Create**. The application will be created and saved in your documents.
 Note that by default, applications are located in **C:/User/USER_NAME/Vlk Projects/** on Windows and **/Users/USER_NAME/Vlk Projects** on macOS.
 
-You are now in the Valkyrie workplace. Note that for system performance purpose, the levels are not automatically loaded and the initial screen initially displays a cube.
-From there, you need to drag & drop your project level from the bottom left area on the viewport or the timeline, and confirm that you want to set the level ‘Orbit Camera’ in order to load your application.
-
-Behold, you now have a beautiful sphere before you. With this template, you have successfully created your first app!
-
-Before we start, it is important to understand that you are already in your application. What you see is what you get regardless of the platform you intend to deploy on (Windows, MacOS, IOS…).
+Once the scene has loaded, you need to drag & drop your project level from the bottom left area on the viewport or the timeline, and confirm that you want to set the level ‘Orbit Camera’ in order to load your application.
 
 Orbit Camera is one of the most basic setup you can create: a sphere, a light and a camera. What this app does, is that when you move the camera with the mouse it orbits around the sphere. Simple.
 
