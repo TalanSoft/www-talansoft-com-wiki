@@ -114,7 +114,6 @@ The **Library menu** allows you to import assets inside your application and it 
 
 - The **Entities** tab is used to create built-in assets such as: Camera, Mesh & Lights. 
 For a full list, [Click Here for Entity](./Vlk/RefEntities)
-- [Entities](./Vlk/RefEntities)
 
 **c) Actions**
 
