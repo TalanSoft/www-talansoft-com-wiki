@@ -37,6 +37,9 @@ Start by getting to know the function of each panel detailed below.
 
 ![User Interface Overview](https://aws1.discourse-cdn.com/standard11/uploads/talansoft/original/1X/66ace60f05e5ed616097392d58c364ccc5e38ca1.jpeg)
 
+/FTP/cdn2_sync/img/Getting Started Assets
+
+
 For instant help, hover your mouse over a menu, button or object while pressing **CTRL**, a contextual window will appear featuring the description of the item.
 
 1. **Viewport (Editor)**:
