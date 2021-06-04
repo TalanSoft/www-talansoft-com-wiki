@@ -36,36 +36,16 @@ Note that by default, applications are located in **C:/User/USER_NAME/Vlk Projec
 
 The Image above shows the default User interfere Layout. 
 
-## **Viewport (Editor)**:
-The viewport allows you to visualize all aspects of your scene.
-Making a **Right Click** on **Final** at the **Top-Left Corner** of the Viewport allows you to visualize each channel individually.
-![Viewport Rendering Modes](https://aws1.discourse-cdn.com/standard11/uploads/talansoft/original/1X/5a8d9ba03edc1a40507e7a54dbc09106e9783042.png)
-2. **Library**:
+## 01: Project Manager & Viewport Tools
 
-- The library contains all the imported & built-in assets you can use in your scene.
+![Center_View___Transform_Gif](uploads/c140f5e1b6b4130a9ecc3ff6763e7d5e/Center_View___Transform_Gif.gif)
+Top Left of the Screen, 
 
-1. **Object Configuration (Inspector)**:
 
-- All scene objects can be configured when selected. The object configuration allows you to configure all attributes of the selected item.
 
-1. **Scene Assets**:
 
-- Scene assets displays all the assets, actions & entities present in the scene.
 
-1. **Timeline**:
 
-- The timeline allows you to visualise which assets, actions & entities are active in the timeline.
-- Each layer, asset can have an independent timeline depending on the interactions you wish to create.
-- Note that you can add up to 5 timelines in the workplace.
-
-1. **Material Editor**:
-
-- When an asset is selected, its material properties will be displayed in the material editor.
-- You can customize the materials there to match the output you’re looking for.
-
-1. **Console**:
-
-- The console logs all actions performed in the scene and brings potential errors to your attention.
 
 <a name="library"></a>
 ## Library Overview
