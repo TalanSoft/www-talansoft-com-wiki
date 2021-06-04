@@ -31,18 +31,15 @@ Note that by default, applications are located in **C:/User/USER_NAME/Vlk Projec
 
 <a name="user-interface"></a>
 
-## User Interface
-
-Start by getting to know the function of each panel detailed below.
+# User Interface
 ![Entire_VLK_Scene_01](uploads/1767c222a93469debd828adfa4450168/Entire_VLK_Scene_01.png)
 
+The Image above shows the default User interfere Layout. 
 
-For instant help, hover your mouse over a menu, button or object while pressing **CTRL**, a contextual window will appear featuring the description of the item.
-
-1. **Viewport (Editor)**:
-   The viewport allows you to visualize all aspects of your scene.
-   Making a **Right Click** on **Final** at the **Top-Left Corner** of the Viewport allows you to visualize each channel individually.
-   ![Viewport Rendering Modes](https://aws1.discourse-cdn.com/standard11/uploads/talansoft/original/1X/5a8d9ba03edc1a40507e7a54dbc09106e9783042.png)
+## **Viewport (Editor)**:
+The viewport allows you to visualize all aspects of your scene.
+Making a **Right Click** on **Final** at the **Top-Left Corner** of the Viewport allows you to visualize each channel individually.
+![Viewport Rendering Modes](https://aws1.discourse-cdn.com/standard11/uploads/talansoft/original/1X/5a8d9ba03edc1a40507e7a54dbc09106e9783042.png)
 2. **Library**:
 
 - The library contains all the imported & built-in assets you can use in your scene.
