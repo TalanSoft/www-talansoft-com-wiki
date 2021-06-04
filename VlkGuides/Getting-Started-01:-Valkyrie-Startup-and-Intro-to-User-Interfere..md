@@ -42,22 +42,56 @@ The Image above shows the default User interfere Layout.
 Located on the Top Left of the Screen, 3 major tabs. 
 
 **A) Center (File Manager)** ![Center_View___Transform_Button_01](uploads/baa75bb9baa00f2613b9e552fff56297/Center_View___Transform_Button_01.PNG)
+
 **Application** 
 - Open an existing project
 - Create a New project
 - Reload the open application 
+
 **Levels**
 - Save Current Level
 - Create new level
 - Save the Current Level as
+
 **Tools** 
 - Publish the Application
 
 **B) View (Viewport window)** ![Center_View___Transform_Button_02](uploads/c0ba916d384afcb02a6d41c1d57eb926/Center_View___Transform_Button_02.PNG)
 
+**Layout** 
+- Set Single View
+- Set Two View
 
+**Ultils**
+- Move the Camera to the selected Entity
+- Set to Fullscreen
+- Display Selectable Icons
+- Display Physic Bounding Box
 
+**Render Mode** 
+- Set the regular render mode
+- Set the VR render mode
+- Set the AR render mode
 
+**C) Transform (Gizmo Setting)** ![Center_View___Transform_Button_03](uploads/501a2404d8f8ab0825dac76fb6d45c19/Center_View___Transform_Button_03.PNG)
+
+**Gizmo** 
+- Move Tool
+- Rotate Tool
+- Scale Tool 
+- Selection Tool
+- Clear Selection
+- Show the Selection Box
+- Ground the Enity
+- Transfer WorkCamera Translation to elecr
+
+**Move & Rotate**
+- Set to World Axis
+- Set to Mesh (Local) Axis
+
+*Snapping** 
+- Move Angular Snap
+- Rotate Angular Snap
 
 
 
