@@ -8,11 +8,12 @@ If the material editor is not showing in the Valkyrie workplace, you can display
 Let's now review the different options available in the editor.
 
 ## Channels
-### Diffuse:
+
+### Diffuse
 The diffuse color or texture map.
 If a texture is in the diffuse channel, the diffuse modulate option allows you to multiply a color with the texture.
 
-### Opacity:
+### Opacity
 There are 2 methods to enable opacity.
 - **The transparency method:**
 If the diffuse bitmap contains an alpha channel, enabling the transparent flag will enable transparency. Modifying the diffuse channel alpha value will increase or reduce the intensity of the effect. This method is recommended for translucent materials such as glass and windows.
@@ -36,25 +37,46 @@ When creating PBR assets, the glossiness map must be featured in the specular ma
 ![Glossiness Illustration](https://cdn2.talansoft.com/img/docs/material_editor/VLK_Gloss.gif)
 The alpha value will increase or reduce the intensity of the glossiness, 1 being mirror & 0 being matte.
 
-### Environment:
-Overwrite the Image based lighting specular environment map.
+### Environment
+Overwrite the Image based lighting specular environment map. This is a reflection cubemap or 2d spheremap.
 
-### Ambient:
-The ambient channel uses your model's UV Channel 2.
+### Ambient
 It is used for AO maps or lightmaps. The ambient bitmap is multiplied with the diffuse to blend the shadows.
 
-### Emissive:
+The ambient channel uses your model's UV Channel 2 if its present in the 3d model, when not present it will use first UV channel.
+
+### Emissive
 The emissive channel is used to define a shader's self-emission.
 The RGB value defines the color of the emission while the alpha value controls the intensity of the effect.
 ![Emissive Illustration](https://cdn2.talansoft.com/img/docs/material_editor/VLK_Emissive.gif)
 
-### Refraction:
-The refraction channel is used to refract light through transparent surfaces.
+### Refraction
+The refraction channel is used to refract light through transparent surfaces. It is automatically assigned and you shouldn't put any texture in it.
+
 To enable this effect the transparent flag must be enabled.
 The RGB value define the exit color of the light while the alpha value controls the index of refraction (IOR).
 
+## Sampling
+
+### Filters
+- **Smooth**: Bilinear / Trilinear Filtering depending on the target hardware.
+- **Sharp**: Trilinear / Anisotropic 4x-16x Filtering depending on the target hardware.
+- **Point**: No Filtering. Pixelated look.
+
+### Wrap
+- **Repeat**: The texture will be repeated pixel to pixel (Useful for non-organic UVs).
+- **Clamp**: Stretches the last pixel row (Useful for organic UVs).
+- **Mirror**: The texture will be mirrored pixel to pixel.
+- **Mirror once**: The texture will be mirrored once pixel to pixel.
+- **Border**: Texture pixels outside the [0,1] range will be used as the border color.
+
+### Blending
+A variety of blending methods that defines how the material are blended when set to Transparent.
+![Blending Illustration](https://cdn2.talansoft.com/img/docs/material_editor/VLK_Blending.gif)
+
 ## Misc
-### Flags:
+
+### Flags
 Flags are properties and special effects you can add to your materials. They can be added via the **Flag** field search aid. Certain flags can also be activated through option buttons, for example **diffuse modulate** next to the Diffuse channel.
 
 Some of the options available are:
@@ -64,25 +86,10 @@ Some of the options available are:
 - **No Draw**: Materials will not be drawn.
 - **No Collision**: Collisions will be disabled.
 
-### Shaders:
-- **Vertex Shader**: Vertex Shaders allow you to write customized HLSL shaders affecting your meshes. This is useful to create convincing special effects such as lava, oceans, etc.
-- **Pixel Shader**: Pixel Shaders allow you to write customized HLSL pixel shaders.
+### Polygon Offset
+Set the scale and units used to calculate depth values. This is used to combat <a href="https://en.wikipedia.org/wiki/Z-fighting" target="_blank">Z-fighting</a> when you're using 3d models that you cant fix yourself.
 
-You can code your own shader in TSEdit, that will open once you click the shader field search aid button.
-You can also download and use pre-existing shaders. Just place them in your project folder under VlkApps\PROJECT_NAME\data\shaders
-## Sampler states
-### Filters:
-- **Smooth**: Bilinear / Trilinear Filtering depending on the target hardware.
-- **Sharp**: Trilinear / Anisotropic 4x-16x Filtering depending on the target hardware.
-- **Point**: No Filtering. Pixelated look.
-
-### Wrap:
-- **Repeat**: The texture will be repeated pixel to pixel (Useful for non-organic UVs).
-- **Clamp**: Stretches the last pixel row (Useful for organic UVs).
-- **Mirror**: The texture will be mirrored pixel to pixel.
-- **Mirror once**: The texture will be mirrored once pixel to pixel.
-- **Border**: Texture pixels outside the [0,1] range will be used as the border color.
-
-### Blending:
-A variety of blending methods.
-![Blending Illustration](https://cdn2.talansoft.com/img/docs/material_editor/VLK_Blending.gif)
+- **x** is the factor, it specifies a scale factor that is used to create a
+  variable depth offset for each polygon.
+- **y** is units, it is multiplied by an implementation-specific value to create a
+  constant depth offset. The initial value is 0.
