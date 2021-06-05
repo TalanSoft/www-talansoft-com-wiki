@@ -2,18 +2,6 @@
 
 This tutorial will teach you the basics to navigate through the Valkyrie Engine screens and create your very first app.
 
-- [Create your first application](#create-your-first-project)
-- [User Interface](#user-interface)
-- [Library Overview](#library)
-- Shortcuts
-  - [Navigation](#navigation)
-  - [Workplace](#workplace)
-  - [Selection](#selection)
-  - [Gizmo](#gizmo)
-- [Comments](#comments)
-
-<a name="create-your-first-project"></a>
-
 ## Create your first project
 
 Start the Valkyrie Launcher and you will get two tabs:
@@ -29,36 +17,34 @@ Select a **Name** for your application.
 Choose the directory where you want to save your app in the Location field & proceed by clicking on **Create**. The application will be created and saved in your documents.
 Note that by default, applications are located in **C:/User/USER_NAME/Vlk Projects/** on Windows and **/Users/USER_NAME/Vlk Projects** on macOS.
 
-<a name="user-interface"></a>
-
 # User Interface
 ![Entire_VLK_Scene_01](uploads/1767c222a93469debd828adfa4450168/Entire_VLK_Scene_01.png)
 
-The Image above shows the default User interfere Layout. 
+The Image above shows the default User interfere Layout.
 
 ## 01: Project Manager & Viewport Tools
 
 ![Center_View___Transform_Gif](uploads/c140f5e1b6b4130a9ecc3ff6763e7d5e/Center_View___Transform_Gif.gif)
-Located on the Top Left of the Screen, 3 major tabs. 
+Located on the Top Left of the Screen, 3 major tabs.
 
 **A) Center (File Manager)** ![Center_View___Transform_Button_01](uploads/baa75bb9baa00f2613b9e552fff56297/Center_View___Transform_Button_01.PNG)
 
-**Application** 
+**Application**
 - Open an existing project
 - Create a New project
-- Reload the open application 
+- Reload the open application
 
 **Levels**
 - Save Current Level
 - Create new level
 - Save the Current Level as
 
-**Tools** 
+**Tools**
 - Publish the Application
 
 **B) View (Viewport window)** ![Center_View___Transform_Button_02](uploads/c0ba916d384afcb02a6d41c1d57eb926/Center_View___Transform_Button_02.PNG)
 
-**Layout** 
+**Layout**
 - Set Single View
 - Set Two View
 
@@ -68,17 +54,17 @@ Located on the Top Left of the Screen, 3 major tabs.
 - Display Selectable Icons
 - Display Physic Bounding Box
 
-**Render Mode** 
+**Render Mode**
 - Set the regular render mode
 - Set the VR render mode
 - Set the AR render mode
 
 **C) Transform (Gizmo Setting)** ![Center_View___Transform_Button_03](uploads/501a2404d8f8ab0825dac76fb6d45c19/Center_View___Transform_Button_03.PNG)
 
-**Gizmo** 
+**Gizmo**
 - Move Tool
 - Rotate Tool
-- Scale Tool 
+- Scale Tool
 - Selection Tool
 - Clear Selection
 - Show the Selection Box
@@ -89,11 +75,10 @@ Located on the Top Left of the Screen, 3 major tabs.
 - Set to World Axis
 - Set to Mesh (Local) Axis
 
-*Snapping** 
+*Snapping**
 - Move Angular Snap
 - Rotate Angular Snap
 
-<a name="library"></a>
 ## Library Overview
 
 The **Library menu** allows you to import assets inside your application and it is split into 7 tabs:
@@ -109,7 +94,7 @@ The **Library menu** allows you to import assets inside your application and it 
 **b) Entities**
 
 - The **Entities** tab is used to create built-in assets such as Camera, Mesh & Lights.
- 
+
 For a full list, [Click Here for Entity](https://gitlab.talansoft.com/Pub/Wiki/wikis/Vlk/RefEntities)
 
 **c) Actions**
@@ -120,7 +105,7 @@ For the full list, [Click Here for Action](https://gitlab.talansoft.com/Pub/Wiki
 
 **d) Events**
 
-- **Events** are a set of conditions that allow you to define when **Actions** are triggered. Such as User input via virtual button, or to trigger an animation when a character collides with an asset. 
+- **Events** are a set of conditions that allow you to define when **Actions** are triggered. Such as User input via virtual button, or to trigger an animation when a character collides with an asset.
 
 For the full list, [Click Here for Event](https://gitlab.talansoft.com/Pub/Wiki/wikis/Vlk/RefEvents)
 
@@ -142,14 +127,14 @@ For the full list, [Click Here for Event](https://gitlab.talansoft.com/Pub/Wiki/
 
 #### Outliner
 
-On the Left side of the **Timeline Tab**, 
+On the Left side of the **Timeline Tab**,
 
-here contains the list of the every single **Entity**, **Action** and **Event** that is within the viewport of the current level. 
+here contains the list of the every single **Entity**, **Action** and **Event** that is within the viewport of the current level.
 
 
 
 #### Timeline
-Adjacent to the Right section, the timeline of the entire project and individual time bar for each **Entity**, **Action** and **Event** that is within the viewport of the current level. 
+Adjacent to the Right section, the timeline of the entire project and individual time bar for each **Entity**, **Action** and **Event** that is within the viewport of the current level.
 
 
 
@@ -167,7 +152,6 @@ Adjacent to the Right section, the timeline of the entire project and individual
 
 ## Shortcuts
 
-<a name="navigation"></a>
 ### Navigation
 
 Use the following controls to navigate in your scene:
@@ -184,7 +168,6 @@ Use the following controls to navigate in your scene:
 - **Double mouse right click** on the Final camera mode of a First Person Camera: Start playing the timeline and capture mouse movement input. Press **Esc** to release the input capture.
 - **CTRL + Enter**: Toggle Full Screen.
 
-<a name="workplace"></a>
 ### Workplace
 
 - **CTRL + Hover**: Show tooltips.
@@ -197,7 +180,6 @@ Use the following controls to navigate in your scene:
 - **CTRL + M**: Toggle on/off the Material Editor.
 - **CTRL + Alt + P**: Advanced display options.
 
-<a name="selection"></a>
 ### Selection
 
 - **Left Click**: Object Selection.
@@ -212,7 +194,6 @@ Use the following controls to navigate in your scene:
 - **CTRL + T**: Toggle entity bounding box.
 - **Shift + move/resize a timeline bar**: Move all the timelines of the linked & sub-elements.
 
-<a name="gizmo"></a>
 ### Gizmo
 
 - **CTRL + E**: Toggle the scale controls.
@@ -224,7 +205,3 @@ Use the following controls to navigate in your scene:
 - **CTRL + W**: Rotation mode.
   - **CTRL + rotation drag**: Entity rotates by 15 degrees snaps.
 - **CTRL + R**: Select mode.
-
-<a name="comments"></a>
-# Comments
-Join our Discord server to comment and get help: <a href="https://discord.gg/ZuBJtpN4Ce">Join</a> - <a class='btn btn-success' href='https://discord.com/channels/739876867854827582' target='_blank'>Open</a>

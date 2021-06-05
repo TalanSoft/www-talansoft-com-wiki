@@ -98,7 +98,3 @@ You can do any HTTP GET request which receives a flat JSON object as response.
 If you need to process complex APIs (APIs that respond with deep hierarchies or arrays), you will need to create a small proxy server to provide a clean HTTP interface to your Valkyrie application.
 
 Feel free to ask for help in our Discord server if you need help with getting your data in Valkyrie.
-
-<a name="comments"></a>
-# Comments
-Join our Discord server to comment and get help: <a href="https://discord.gg/ZuBJtpN4Ce">Join</a> - <a class='btn btn-success' href='https://discord.com/channels/739876867854827582' target='_blank'>Open</a>

@@ -1,15 +1,5 @@
 # Make a simple User Interface with Valkyrie
 
-- [Introduction](#intro)
-- [Target User Interface](#target-ui)
-- [Setup UI Layer](#setup-ui-layer)
-- [Bottom center bar element (UI Section 3)](#ui-section-3)
-- [Top Left UI element (UI Section 1)](#ui-section-1)
-- [Right side collapsible menu (UI Section 5)](#ui-section-5)
-- [Conclusion](#conclusion)
-- [Comments](#comments)
-
-<a name="intro"></a>
 ## Introduction
 
 In this tutorial, you will learn how to position your UI elements on the screen.
@@ -28,7 +18,6 @@ You can play with the final result in the *GUI template* included in the Valkyri
 
 Now without further ado, let’s get started!
 
-<a name="target-ui"></a>
 ## Target User Interface
 
 We will reproduce the GUI featured in the concept art below:
@@ -39,7 +28,6 @@ Notice the 5 UI sections in the design:
 
 Let’s first learn how to build the Bottom center bar element (UI Section 3), and then we will take a closer look at the Right side collapsible menu (UI Section 5).
 
-<a name="setup-ui-layer"></a>
 ## Setup UI Layer
 
 Create a new application in Valkyrie Engine or use an existing one.
@@ -70,7 +58,6 @@ Drag & drop the camera entity from the library to your GUI layer. We will call t
 
 All assets entering the field of view of this camera will be visible in the GUI layer.
 
-<a name="ui-section-3"></a>
 ## Bottom center bar element (UI Section 3)
 
 Create a primitive by drag & dropping the Primitive entity into your GUI layer and position it within the field of view of your GUI-Cam.
@@ -120,7 +107,6 @@ You can tweak the primitive’s position if there is a gap between the asset and
 Our UI element is now correctly anchored in the viewport.
 ![img](https://aws1.discourse-cdn.com/standard11/uploads/talansoft/optimized/1X/20163ba350d1819e883230a8da9f9dd4362621c1_2_690x377.png)
 
-<a name="ui-section-1"></a>
 ## Top Left UI element (UI Section 1)
 
 We will repeat this process for all UI elements.
@@ -130,7 +116,6 @@ We will repeat this process for all UI elements.
 
 UI Sections 2 and 4 are skipped in this tutorial as there is little added value to show it.
 
-<a name="ui-section-5"></a>
 ## Right side collapsible menu (UI Section 5)
 
 One of the UI elements is partially hidden. So let’s see how to handle this kind of exception.
@@ -199,12 +184,7 @@ Let’s add a TimelineJumpTo action to both EnterRayHit events and set the time 
 Behold, your UI is now complete! Clicking on the UI element reveals and collapses it. Notice also how the UI elements are anchored to the right side of the screen.
 ![img](https://tsdata2.blob.core.windows.net/img/create_user_interface/32.gif)
 
-<a name="conclusion"></a>
 ## Conclusion
 
 With what you’ve learned, you can add more granularity to your own UI elements and create sophisticated user interfaces.
 The interactions you create in your UI layer can affect elements in the 3D layers underneath, so go ahead and try.
-
-<a name="comments"></a>
-# Comments
-Join our Discord server to comment and get help: <a href="https://discord.gg/ZuBJtpN4Ce">Join</a> - <a class='btn btn-success' href='https://discord.com/channels/739876867854827582' target='_blank'>Open</a>

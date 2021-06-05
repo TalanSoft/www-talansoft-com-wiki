@@ -5,22 +5,13 @@ Software Requirements:
 - [We3D for iOS](https://itunes.apple.com/us/app/we3d/id1044059728?mt=8) to play your project and share it on iPhone & iPad
 
 In this tutorial we are going to explain how to create a simple scene with an animated 3D asset that you can showcase in AR with your mobile.
-- [Step 1: Prepare your assets](#prepare-assets)
-- [Step 2: Create a Valkyrie scene](#create-vlk-project)
-- [Step 3: Import your assets](#import-assets)
-- [Step 4: Set up your scene](#setup-project)
-- [Step 5 Export your scene](#export-project)
-- [Step 6 Share with the world!](#share)
-- [Comments](#comments)
 
-<a name="prepare-assets"></a>
 ## Step 1: Prepare your assets
 After designing your assets with your preferred 3D modelling suite, export them in one of following formats:
 - FBX or DAE for animated & static assets.
 - OBJ is also an option for static assets.
 - JPG, PNG or TGA for textures (It is recommended to set a maximum texture resolution of 2048x2048px).
 
-<a name="create-vlk-project"></a>
 ## Step 2: Create a Valkyrie project
 - Open the Valkyrie Launcher & click on the New App tab.
 - Select the template of your choice & click on create button located at the bottom-right corner.
@@ -42,7 +33,6 @@ After designing your assets with your preferred 3D modelling suite, export them 
 - If you save your scene using **CTRL+S** the changes made to the level you are working on will be saved without creating a new level.
 - You have also the possibility to save your scene incrementally using **CTRL+SHIFT+S**. A new level will then be created.
 
-<a name="import-assets"></a>
 ## Step 3: Import your assets
 
 - Go to your application folder (C:/Users/Username/Documents/VlkApps/App_Name).
@@ -55,7 +45,6 @@ After designing your assets with your preferred 3D modelling suite, export them 
 
 - Your assets will now be displayed in the library.
 
-<a name="setup-project"></a>
 ## Step 4: Set up your project
 
 - Disable the template’s assets you don’t need.
@@ -109,7 +98,6 @@ After designing your assets with your preferred 3D modelling suite, export them 
 - Press **ALT+SPACE** to preview your app’s Final visual result & **CTRL+SPACE** to play it.
   ![15](https://aws1.discourse-cdn.com/standard11/uploads/talansoft/optimized/1X/16526e4a4810b735fc741e1eaaee90f43d2f20c9_2_690x422.gif)
 
-<a name="export-project"></a>
 ## Step 5 Export your scene
 - Click on the **Export** tab and select the file format you wish to export to:
 - Use *Player* to generate a **VPK** file that can be played on iOS devices with our app **We3D**, but also on all Mac / Windows computers that have Valkyrie Engine software installed.
@@ -120,7 +108,6 @@ After designing your assets with your preferred 3D modelling suite, export them 
 - Clicking on the **Explore** button will open the location of the VPK file. By default in (C:/Users/Username/Documents/VlkApps/App_Name/Publish/Level/Player)
   ![17](https://cdn2.talansoft.com/img/docs/AR_Scene/17.png)
 
-<a name="share"></a>
 ## Step 6 Share with the world!
 
 Your VPK file is now ready, there are multiple methods to send it to your iOS devices.
@@ -137,7 +124,3 @@ For Local WiFi Transfer:
 
 After downloading the VPK on your device, open We3D and let the magic happen!
 ![18](https://cdn2.talansoft.com/img/docs/AR_Scene/Dragon-AR-2.png)
-
-<a name="comments"></a>
-# Comments
-Join our Discord server to comment and get help: <a href="https://discord.gg/ZuBJtpN4Ce">Join</a> - <a class='btn btn-success' href='https://discord.com/channels/739876867854827582' target='_blank'>Open</a>
