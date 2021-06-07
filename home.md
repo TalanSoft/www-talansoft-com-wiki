@@ -1,6 +1,6 @@
 # Basic Valkyrie Guides
 - [Getting Started 01: Valkyrie Startup and Intro to User Interface](VlkGuides/getting-started-01-vlk-startup-and-ui)
-- [Getting Started 02: Import and Export](VlkGuides/getting-started-02-Import-and-Export)
+- [Getting Started 02: Import and Export](VlkGuides/getting-started-02-import-and-export)
 - [Getting Started 03: Introduction to Events & Action](VlkGuides/getting-started-03-intro-events-n-actions)
 - [The Material Editor](VlkGuides/Material-Editor)
 
