@@ -3,8 +3,8 @@
 This tutorial will teach you the basics to navigate through the Valkyrie Engine screens and create your very first app.
 
 If you are already familiar with the User Interfere, you may skip this tutorial and check the next few episode.
-* - [Getting Started 02: Import and Export](VlkGuides/getting-started-02-Import-and-Export)
-* - [Getting Started 03: Introduction to Events & Action](VlkGuides/getting-started-03-intro-events-n-actions)
+* [Getting Started 02: Import and Export](VlkGuides/getting-started-02-Import-and-Export)
+* [Getting Started 03: Introduction to Events & Action](VlkGuides/getting-started-03-intro-events-n-actions)
 
 ## Create your first project
 
