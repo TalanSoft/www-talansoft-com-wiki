@@ -132,7 +132,7 @@ Adjacent to the Right section, the timeline of the entire project and individual
 
 #### Outliner
 
-On the Left side of the **Timeline Tab**, the list contains every single **Entity**, **Action** and **Event** that is within the viewport of the current level. From here, each item can be manipulated in a layered system where components are grouped, in a hierarchical arrangement, such that lower layers provide functions and services that support the functions and services of higher layers. 
+On the Left side of the **Timeline Tab**, the list contains every single **Entity**, **Action** and **Event** that is within the viewport of the current level. From here, each item can be manipulated in a layered system where components are grouped, in a hierarchical arrangement, such that lower layers provide functions and services that support the functions and services of higher layers.
 Above the Outliner, a row of icons are located here to help manipulate both the timeline and the outliner. 
 ![Timeline_Icon_01](uploads/e5d26ca8e92d2f81edab9bc6d8f5f4a9/Timeline_Icon_01.PNG)
 
