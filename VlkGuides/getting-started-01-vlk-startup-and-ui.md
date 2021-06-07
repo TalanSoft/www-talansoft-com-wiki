@@ -174,16 +174,18 @@ For more details, [Click Here](https://gitlab.talansoft.com/Pub/Wiki/wikis/VlkGu
 
 ## 06: Windows
 Every Menus and Windows mentioned above can be visibly toggled and eventually the entire menu setup can be customised to your own preference.
-![Menu_Window_Gif_01](uploads/8a71902830fbb1df8f5b5551db79b186/Menu_Window_Gif_01.gif)  
+![Menu_Window_Gif_01](uploads/8a71902830fbb1df8f5b5551db79b186/Menu_Window_Gif_01.gif)   
 
 
-![Undocking_Gif_01](uploads/fbc86f30a68ca8007f0afe7874b3dbec/Undocking_Gif_01.gif)
-To Undock, right click on the tabs of the window and select Undock. 
+![Undocking_Gif_01](uploads/fbc86f30a68ca8007f0afe7874b3dbec/Undocking_Gif_01.gif) 
 
-![Docking_Gif__01](uploads/c136f512992f2e84206f5ff90fc8a0cb/Docking_Gif__01.gif)
-To Dock windows, hold the **Ctrl** and **Left Mouse Click** on the window dock.
-Drag the window to the Square Icons that display the window orientation within the UI. 
-Release both buttons to dock the newly placed windows. 
+* To Undock, right click on the tabs of the window and select Undock.  
+
+![Docking_Gif__01](uploads/c136f512992f2e84206f5ff90fc8a0cb/Docking_Gif__01.gif) 
+
+* To Dock windows, hold the **Ctrl** and **Left Mouse Click** on the window dock.
+* Drag the window to the Square Icons that display the window orientation within the UI. 
+* Release both buttons to dock the newly placed windows. 
 
 
 
