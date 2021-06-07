@@ -177,7 +177,7 @@ Every Menus and Windows mentioned above can be visibly toggled and eventually th
 ![Menu_Window_Gif_01](uploads/8a71902830fbb1df8f5b5551db79b186/Menu_Window_Gif_01.gif)   
 
 
-## Customise User Interfere 
+### Customise User Interfere 
 ![Undocking_Gif_01](uploads/fbc86f30a68ca8007f0afe7874b3dbec/Undocking_Gif_01.gif) 
 
 * To Undock, right click on the tabs of the window and select Undock. (Image Above for Reference)  
