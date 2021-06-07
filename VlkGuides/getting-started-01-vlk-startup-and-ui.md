@@ -140,11 +140,11 @@ Above the Outliner, a row of icons are located here to help manipulate both the 
 ![Timeline_Icon_03](uploads/deaef475c61dd8b9dcc1305bb6dfeef7/Timeline_Icon_03.png)
 Icon List
 Starting from the Left
-**01)** **Expand Layers**: Expand or Collapse every single layers within the Outliner.
-**02)** **Isolate**: Single out a single selected object within the outliner.
-**03)** **Play Button**: Start the timeline from 0:00. 
-**04)** **Pause Button**: Pause at the current position on the play time.
-**05)** **Stop Button**: Halts the entire timeline and reset the timeline play time to 0:00.
+01)**Expand Layers**: Expand or Collapse every single layers within the Outliner.
+02) **Isolate**: Single out a single selected object within the outliner.
+03) **Play Button**: Start the timeline from 0:00. 
+04) **Pause Button**: Pause at the current position on the play time.
+05) **Stop Button**: Halts the entire timeline and reset the timeline play time to 0:00.
 
 ![Timeline_Icon_02](uploads/bde2f9195834c906007e9c5465d3db0a/Timeline_Icon_02.png)
 Icon List
