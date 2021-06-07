@@ -140,25 +140,25 @@ Above the Outliner, a row of icons are located here to help manipulate both the 
 ![Timeline_Icon_03](uploads/deaef475c61dd8b9dcc1305bb6dfeef7/Timeline_Icon_03.png)
 Icon List
 Starting from the Left
-1. **Expand Layers**: Expand or Collapse every single layers within the Outliner.
-2. **Isolate**: Single out a single selected object within the outliner.
-3. **Play Button**: Start the timeline from 0:00. 
-4. **Pause Button**: Pause at the current position on the play time.
-5. **Stop Button**: Halts the entire timeline and reset the timeline play time to 0:00.
+01. **Expand Layers**: Expand or Collapse every single layers within the Outliner.
+02. **Isolate**: Single out a single selected object within the outliner.
+03. **Play Button**: Start the timeline from 0:00. 
+04. **Pause Button**: Pause at the current position on the play time.
+05. **Stop Button**: Halts the entire timeline and reset the timeline play time to 0:00.
 
 ![Timeline_Icon_02](uploads/bde2f9195834c906007e9c5465d3db0a/Timeline_Icon_02.png)
 Icon List
 Starting from the Left
-**01)** **Reload Scene**: Reloads the entire scene.
-**02)** **Toggle Time Bars**: Display the timeline. 
-**03)** **Toggle Timeline**: Hide time bars of the timeline.
-**04)** **Delete Selection**: Delete the selected objects in the Outliner.
-**05)** **Toggle Visibility Actions**: To turn the visibility of the Actions within the Outliner On or Off.
-**06)** **Toggle Visibility Events**: To turn the visibility of the Actions within the Events On or Off.
-**07)** **Toggle Visibility Animations**: To turn the visibility of the Animations within the Outliner On or Off.
-**08)** **Toggle Visibility Children**: To turn the visibility of the Children of Hierarchy within the Outliner On or Off.
-**09)** **Toggle Visibility Camera**: To turn the visibility of the Camera within the Outliner On or Off.
-**10)** **Toggle Visibility Lights**: To turn the visibility of the Light within the Outliner On or Off.
+01. **Reload Scene**: Reloads the entire scene.
+02. **Toggle Time Bars**: Display the timeline. 
+03. **Toggle Timeline**: Hide time bars of the timeline.
+04. **Delete Selection**: Delete the selected objects in the Outliner.
+05. **Toggle Visibility Actions**: To turn the visibility of the Actions within the Outliner On or Off.
+06. **Toggle Visibility Events**: To turn the visibility of the Actions within the Events On or Off.
+07. **Toggle Visibility Animations**: To turn the visibility of the Animations within the Outliner On or Off.
+08. **Toggle Visibility Children**: To turn the visibility of the Children of Hierarchy within the Outliner On or Off.
+09. **Toggle Visibility Camera**: To turn the visibility of the Camera within the Outliner On or Off.
+10. **Toggle Visibility Lights**: To turn the visibility of the Light within the Outliner On or Off.
 
 
 
