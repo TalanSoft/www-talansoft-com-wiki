@@ -125,7 +125,7 @@ For the full list, [Click Here for Event](https://gitlab.talansoft.com/Pub/Wiki/
 
 
 ## 03 Timeline & Outliner
-![Timeline_01](uploads/25cb1df5f84c0c4f1e1c23c4238e97e4/Timeline_01.PNG)
+![Timeloine___Outliner_Gif](uploads/cf87bd9c131b85661cd0d9657fcb1649/Timeloine___Outliner_Gif.gif)
 
 #### Timeline
 Adjacent to the Right section, the timeline of the entire project and individual time bar for each **Entity**, **Action** and **Event** that is within the viewport of the current level.
@@ -160,6 +160,26 @@ Starting from the Left
 09. **Toggle Visibility Camera:** To turn the visibility of the Camera within the Outliner On or Off.
 10. **Toggle Visibility Lights:** To turn the visibility of the Light within the Outliner On or Off.
 
+
+## 04: Inspector
+![Inspector_Gif_01](uploads/395299d5e179c876e7583f0d7ddd0a57/Inspector_Gif_01.gif)
+
+Within the Inspector window, this is the location to go to if you need to setup any in-scene settings of individual selected object such as **Name and Identity**, **Timeline Setting**, **Transform Coordination**, **Layer Settings** and many more other specific settings based on the type of asset.
+
+## 05: Material Editor
+![Material_Editor_gif_01](uploads/650c33a5a4ad999d61d8a47b551ebafb/Material_Editor_gif_01.gif)
+
+The Material Editor allows you to add your texture maps to individual Entities. It also provides the ability to directly manipulate how much a texture can affect in-scene. 
+For more details, [Click Here](https://gitlab.talansoft.com/Pub/Wiki/wikis/VlkGuides/Material-Editor). 
+
+## 06: Windows
+Every Menus and Windows mentioned above can be visibly toggled and eventually the entire menu setup can be customised to your own preference.  
+
+
+To Undock, right click on the tabs of the window and select Undock. 
+
+
+  
 
 
 
