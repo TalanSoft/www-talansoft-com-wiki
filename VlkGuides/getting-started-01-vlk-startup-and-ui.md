@@ -127,16 +127,20 @@ For the full list, [Click Here for Event](https://gitlab.talansoft.com/Pub/Wiki/
 ## 03 Timeline & Outliner
 ![Timeline_01](uploads/25cb1df5f84c0c4f1e1c23c4238e97e4/Timeline_01.PNG)
 
-#### Outliner
-
-On the Left side of the **Timeline Tab**,
-
-here contains the list of the every single **Entity**, **Action** and **Event** that is within the viewport of the current level.
-
-
-
 #### Timeline
 Adjacent to the Right section, the timeline of the entire project and individual time bar for each **Entity**, **Action** and **Event** that is within the viewport of the current level.
+
+#### Outliner
+
+On the Left side of the **Timeline Tab**, the list contains every single **Entity**, **Action** and **Event** that is within the viewport of the current level. From here, each item can be manipulated in a layered system where components are grouped, in a hierarchical arrangement, such that lower layers provide functions and services that support the functions and services of higher layers. 
+Above the Outliner, a row of icons are located here to help manipulate both the timeline and the outliner. 
+![Timeline_Icon_01](uploads/e5d26ca8e92d2f81edab9bc6d8f5f4a9/Timeline_Icon_01.PNG)
+
+
+
+
+
+
 
 
 
