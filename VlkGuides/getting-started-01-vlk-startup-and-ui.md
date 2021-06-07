@@ -141,39 +141,39 @@ Above the Outliner, a row of icons are located here to help manipulate both the 
 Icon List
 Starting from the Left
 1) Expand Layers
-- Expand or Collapse every single layers within the Outliner.
+ - Expand or Collapse every single layers within the Outliner.
 2) Isolate 
-- Single out a single selected object within the outliner.
+ - Single out a single selected object within the outliner.
 3) Play Button
-- Start the timeline from 0:00. 
+ - Start the timeline from 0:00. 
 4) Pause Button
-- Pause at the current position on the play time.
+ - Pause at the current position on the play time.
 5) Stop Button
-- Halts the entire timeline and reset the timeline play time to 0:00.
+ - Halts the entire timeline and reset the timeline play time to 0:00.
 
 ![Timeline_Icon_02](uploads/bde2f9195834c906007e9c5465d3db0a/Timeline_Icon_02.png)
 Icon List
 Starting from the Left
 1) Reload Scene 
-- Reloads the entire scene.
+ - Reloads the entire scene.
 2) Toggle Time Bars
-- Display the timeline. 
+ - Display the timeline. 
 3) Toggle Timeline
-- Hide time bars of the timeline.
+ - Hide time bars of the timeline.
 4) Delete Selection
-- Delete the selected objects in the Outliner.
+ - Delete the selected objects in the Outliner.
 5) Toggle Visibility Actions
-- To turn the visibility of the Actions within the Outliner On or Off.
+ - To turn the visibility of the Actions within the Outliner On or Off.
 6) Toggle Visibility Events
-- To turn the visibility of the Actions within the Events On or Off.
+ - To turn the visibility of the Actions within the Events On or Off.
 7) Toggle Visibility Animations
-- To turn the visibility of the Animations within the Outliner On or Off.
+ - To turn the visibility of the Animations within the Outliner On or Off.
 8) Toggle Visibility Children
-- To turn the visibility of the Children of Hierarchy within the Outliner On or Off.
+ - To turn the visibility of the Children of Hierarchy within the Outliner On or Off.
 9) Toggle Visibility Camera
-- To turn the visibility of the Camera within the Outliner On or Off.
+ - To turn the visibility of the Camera within the Outliner On or Off.
 10) Toggle Visibility Lights 
-- To turn the visibility of the Light within the Outliner On or Off.
+ - To turn the visibility of the Light within the Outliner On or Off.
 
 
 
