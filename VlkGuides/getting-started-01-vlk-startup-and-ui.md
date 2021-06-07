@@ -136,7 +136,28 @@ On the Left side of the **Timeline Tab**, the list contains every single **Entit
 Above the Outliner, a row of icons are located here to help manipulate both the timeline and the outliner. 
 ![Timeline_Icon_01](uploads/e5d26ca8e92d2f81edab9bc6d8f5f4a9/Timeline_Icon_01.PNG)
 
+![Timeline_Icon_03](uploads/deaef475c61dd8b9dcc1305bb6dfeef7/Timeline_Icon_03.png)
+Icon Lists
+Starting from the Left
+1) 
+2)
+3) Play Button
+4) Pause Button
+5) Stop Button
 
+![Timeline_Icon_02](uploads/bde2f9195834c906007e9c5465d3db0a/Timeline_Icon_02.png)
+Icon List
+Starting from the Left
+1) Reload Scene 
+2) Toggle Outliner
+3) Toggle Timeline
+4) Delete Selection
+5) Toggle Visibility Actions
+6) Toggle Visibility Events
+7) Toggle Visibility Animations
+8) Toggle Visibility Children
+9) Toggle Visibility Camera
+10) Toggle Visibility Lights 
 
 
 
