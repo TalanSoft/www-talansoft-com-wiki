@@ -4,7 +4,7 @@
 - [Getting Started 03: Introduction to Events & Action](VlkGuides/getting-started-03-intro-events-n-actions)
 - [The Material Editor](VlkGuides/Material-Editor)
 
-# Advance Valkyrie Guides
+# Advanced Valkyrie Guides
 - [AR in less that 10 minutes](VlkGuides/ar-in-10-mins)
 - [Make a simple User Interface with Valkyrie](VlkGuides/make-a-simple-ui)
 - [A simple daylight system](VlkGuides/automatic-daylight-system)
