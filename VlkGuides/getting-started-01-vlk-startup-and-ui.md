@@ -137,10 +137,10 @@ Above the Outliner, a row of icons are located here to help manipulate both the 
 ![Timeline_Icon_01](uploads/e5d26ca8e92d2f81edab9bc6d8f5f4a9/Timeline_Icon_01.PNG)
 
 ![Timeline_Icon_03](uploads/deaef475c61dd8b9dcc1305bb6dfeef7/Timeline_Icon_03.png)
-Icon Lists
+Icon List
 Starting from the Left
-1) 
-2)
+1) Reload Scene 
+2) Toggle Outliner
 3) Play Button
 4) Pause Button
 5) Stop Button
