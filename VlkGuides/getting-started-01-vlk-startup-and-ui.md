@@ -18,7 +18,7 @@ Choose the directory where you want to save your app in the Location field & pro
 Note that by default, applications are located in **C:/User/USER_NAME/Vlk Projects/** on Windows and **/Users/USER_NAME/Vlk Projects** on macOS.
 
 # User Interface
-![Entire_VLK_Scene_01](uploads/1767c222a93469debd828adfa4450168/Entire_VLK_Scene_01.png)
+![Entire_VLK_Scene_01](uploads/5896105bd7da2603adb97acdd4474367/Entire_VLK_Scene_01.png)
 
 The Image above shows the default User interfere Layout.
 
