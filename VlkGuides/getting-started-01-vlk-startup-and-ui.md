@@ -2,7 +2,7 @@
 
 This tutorial will teach you the basics to navigate through the Valkyrie Engine screens and create your very first app.
 
-If you are already familiar with the User Interfere, you may skip this tutorial and check the next few episode.
+If you are already familiar with the User Interface, you may skip this tutorial and check the next few episode.
 * [Getting Started 02: Import and Export](VlkGuides/getting-started-02-Import-and-Export)
 * [Getting Started 03: Introduction to Events & Action](VlkGuides/getting-started-03-intro-events-n-actions)
 
@@ -24,7 +24,7 @@ Note that by default, applications are located in **C:/User/USER_NAME/Vlk Projec
 # User Interface
 ![Entire_VLK_Scene_01](uploads/5896105bd7da2603adb97acdd4474367/Entire_VLK_Scene_01.png)
 
-The Image above shows the default User interfere Layout.
+The Image above shows the default User interface Layout.
 
 ## 01: Project Manager & Viewport Tools
 
@@ -181,7 +181,7 @@ Every Menus and Windows mentioned above can be visibly toggled and eventually th
 ![Menu_Window_Gif_01](uploads/8a71902830fbb1df8f5b5551db79b186/Menu_Window_Gif_01.gif)   
 
 
-### Customise User Interfere 
+### Customise User Interface 
 ![Undocking_Gif_01](uploads/fbc86f30a68ca8007f0afe7874b3dbec/Undocking_Gif_01.gif) 
 
 * To Undock, right click on the tabs of the window and select Undock. (Image Above for Reference)  
