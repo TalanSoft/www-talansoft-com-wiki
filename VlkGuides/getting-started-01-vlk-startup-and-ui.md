@@ -28,6 +28,7 @@ The Image above shows the default User interfere Layout.
 
 Located on the Top Left of the Screen, 3 major tabs.
 
+
 **A) Center (File Manager)** ![Center_View___Transform_Button_01](uploads/baa75bb9baa00f2613b9e552fff56297/Center_View___Transform_Button_01.PNG)
 
 **Application**
