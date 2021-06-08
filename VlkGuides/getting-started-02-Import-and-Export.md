@@ -49,5 +49,5 @@ This concludes this guide, do click below for the next step or for more differen
 - [Getting Started 04: The Material Editor](VlkGuides/Material-Editor)
 
 Or return back to the guide list.
-- [Guide Home](VlkGuides/home)
+- [Guide Home](https://gitlab.talansoft.com/Pub/Wiki/wikis/home)
 
