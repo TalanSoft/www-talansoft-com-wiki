@@ -4,7 +4,7 @@
 Valkyrie Engine allows you to import any Mesh, Rigs, Animation and Maps (Texture, Alphas, Etc.). 
 
 The Current Version supports this formats
-**.dae** (Collada), **FBX**, **.Obj**, **.Ply**, **.STL**, **.3DS**, **.IFC** and **.ach**.
+**.dae** (Collada), **FBX**, **.Obj**, **.Ply**, **.STL**, **.3DS**, **.IFC**, **.scene** and **.ach**.
 
 ### Step 01 
 With the Current version of Valkyrie, to import any assets, you must first search the project file of the individual Valkyrie Project inside your folder.
