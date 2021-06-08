@@ -16,10 +16,6 @@
 - [Events](./Vlk/RefEvents)
 - [Actions](./Vlk/RefActions)
 
-# Product Features
-- [Valkyrie](./valkyrie-features)
-- [We3d](./we3d-features)
-
 # System Version
 - [Valkyrie for Windows](./Valkyrie-for-Windows)
 - [Valkyrie for macOS](./Valkyrie-for-macOS)
