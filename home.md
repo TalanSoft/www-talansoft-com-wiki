@@ -18,7 +18,7 @@
 
 # Product Features
 - [Valkyrie](./valkyrie-features)
-- [We3d](./we3d)
+- [We3d](./we3d-features)
 
 # System Version
 - [Valkyrie for Windows](./Valkyrie-for-Windows)
