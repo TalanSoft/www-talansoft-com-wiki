@@ -16,5 +16,16 @@ Within Valkyrie, select the File Explorer Icon within the Library tab. All of yo
 Tips: You can refresh the Library tab by back in and out of different tabs.  
 
 # Export
+Within Valkyrie, you have 3 different kind of export setting to choose from.
+
+### Exe File 
+* This method is to create an application version of the entire project. This application can then be played on any device without issue. 
+
+### Player Level File
+
+
+### Project File 
+* This method allows you to compressed your entire project file. Drastically reducing the file size for the ease of file transfer.  
+
 
 
