@@ -10,6 +10,13 @@
 - [A simple daylight system](VlkGuides/automatic-daylight-system)
 - [Retrieve live bitcoin USD value from a Web API](VlkGuides/retrieve-btc-usd-http-web-api)
 
+# Samples
+- [AR](./VlkSamples/AR)
+- [Architecture](./VlkSamples/architecture)
+- [EarthDefender](./VlkSamples/earth-defender)
+- [FlappyBird](./VlkSamples/flappy-bird)
+- [FPS](./VlkSamples/fps)
+
 # Valkyrie References
 - [Forms](./Vlk/RefForms)
 - [Entities](./Vlk/RefEntities)
