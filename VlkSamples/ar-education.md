@@ -1,7 +1,7 @@
 # Downloads
 
-- [Vpk download](https://cdn2.talansoft.com/ftp/samples/AR-Sample-V2.vpk)
-- [Vlk Project download](https://cdn2.talansoft.com/ftp/samples/AR-Sample-V2.zip)
+- [Vpk presentation download](https://cdn2.talansoft.com/ftp/samples/AR-Sample-V2.vpk)
+- [Vlk project download](https://cdn2.talansoft.com/ftp/samples/AR-Sample-V2.zip)
 
 # Pictures
 
