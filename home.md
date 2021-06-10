@@ -11,13 +11,13 @@
 - [Retrieve live bitcoin USD value from a Web API](VlkGuides/retrieve-btc-usd-http-web-api)
 
 # Samples
-- [AR Education](./VlkSamples/ar-education) (AR)
-- [AR Dragon](./VlkSamples/ar-dragon) (AR & 3D)
-- [AR Storm trooper with music](./VlkSamples/ar-storm-trooper) (AR & 3D & Audio)
-- [Architecture](./VlkSamples/architecture) (AR & 3D)
-- [EarthDefender](./VlkSamples/earth-defender) (Simple 3D touch based game)
-- [FlappyBird](./VlkSamples/flappy-bird) (Simple 3D touch based game)
-- [FPS](./VlkSamples/fps) (3D FPS desktop game - mouse & keyboard)
+- [AR Education](./VlkSamples/ar-education) (AR) (wip: desc, tuto)
+- [AR Dragon](./VlkSamples/ar-dragon) (AR & 3D) (wip: desc, tuto)
+- [AR Storm trooper with music](./VlkSamples/ar-storm-trooper) (AR & 3D & Audio) (wip: desc, tuto)
+- [Architecture](./VlkSamples/architecture) (AR & 3D) (wip: desc, tuto)
+- [EarthDefender](./VlkSamples/earth-defender) (Simple 3D touch based game) (wip: screencap, desc, tuto)
+- [FlappyBird](./VlkSamples/flappy-bird) (Simple 3D touch based game) (wip: screencap, desc, tuto)
+- [FPS](./VlkSamples/fps) (3D FPS desktop game - mouse & keyboard) (wip: screencap, desc, tuto)
 
 # Valkyrie References
 - [Forms](./Vlk/RefForms)
