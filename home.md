@@ -11,11 +11,13 @@
 - [Retrieve live bitcoin USD value from a Web API](VlkGuides/retrieve-btc-usd-http-web-api)
 
 # Samples
-- [AR](./VlkSamples/AR)
-- [Architecture](./VlkSamples/architecture)
-- [EarthDefender](./VlkSamples/earth-defender)
-- [FlappyBird](./VlkSamples/flappy-bird)
-- [FPS](./VlkSamples/fps)
+- [AR Education](./VlkSamples/ar-education) (AR)
+- [AR Dragon](./VlkSamples/ar-dragon) (AR & 3D)
+- [AR Storm trooper with music](./VlkSamples/ar-storm-trooper) (AR & 3D & Audio)
+- [Architecture](./VlkSamples/architecture) (AR & 3D)
+- [EarthDefender](./VlkSamples/earth-defender) (Simple 3D touch based game)
+- [FlappyBird](./VlkSamples/flappy-bird) (Simple 3D touch based game)
+- [FPS](./VlkSamples/fps) (3D FPS desktop game - mouse & keyboard)
 
 # Valkyrie References
 - [Forms](./Vlk/RefForms)
