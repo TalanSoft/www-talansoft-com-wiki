@@ -32,7 +32,14 @@ This few section are here to help those who wants to play around with the Valkyr
 
 * Ensure you click the Play Button before you get to interact the game itself.  
 
+### Changing Colour Palettes 
+![FB_05_Edit_Images](uploads/173677cb3fc42c74c610a34ea91ffe1c/FB_05_Edit_Images.PNG)
 
+You can change the Background colour or even background image of the scenic backgrounds.
 
+* Within the Outliner of the Timeline, under **BG Layer**
+* Select any of the 3: **Background**, **Background2**, **BackgroundSky**.
+* While selected, navigate to the **Material Editor** 
+* Under the Diffuse slot, you can change the color palette or the image directly here.
 
 
