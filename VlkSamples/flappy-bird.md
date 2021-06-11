@@ -2,8 +2,8 @@
 Help Amelia Birdhart navigate through a series of Bald Trees! A single touch game with score tracking.  
 
 # Downloads
-- [Vpk presentation download](https://cdn2.talansoft.com/ftp/samples/FlappyBird.vpk), this is the exported presentation that you can play on your phone with [We3D](https://www.talansoft.com/vlk/downloads#we3d) or desktop with [Valkyrie](https://www.talansoft.com/vlk/downloads#vlk).
-- [Vlk project download](https://cdn2.talansoft.com/ftp/samples/FlappyBird.zip), this is the source project that you can tinker with in the [Valkyrie editor](https://www.talansoft.com/vlk/downloads#vlk).
+- [Vpk presentation download](https://cdn2.talansoft.com/ftp/samples/FlappyBird.vpk). This is the exported presentation that you can play on your phone with [We3D](https://www.talansoft.com/vlk/downloads#we3d) or desktop with [Valkyrie](https://www.talansoft.com/vlk/downloads#vlk).
+- [Vlk project download](https://cdn2.talansoft.com/ftp/samples/FlappyBird.zip). This is the source project that you can tinker with in the [Valkyrie editor](https://www.talansoft.com/vlk/downloads#vlk).
 
 # In-game Tutorial
 Objective: Get as far as you can before you crash. 
