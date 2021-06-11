@@ -15,9 +15,13 @@ Help Amelia Birdhart navigate through a series of Bald Trees! A single touch gam
 Objective: Get as far as you can before you crashed. 
 
 **Step 01:** **Left-click** on the word Start to begin the game.
+
 **Step 02:** **Left-Click** anywhere after the countdown to make Amelia Birdhart **fly up**, simply do not press any button to allow Amelia Birdhart to **fly down**. 
-**Step 03:** Avoid hitting any of the Bald Trees and crashing down on the ground. 
-**Step 04:** Once failed, simple **Left Click** the **Restart** on screen to replay and reset the score. 
+
+**Step 03:** Avoid hitting any of the Bald Trees and crashing down on the ground.
+ 
+**Step 04:** Once failed, simple **Left Click** the **Restart** on screen to replay and reset the score.
+ 
 
 ## Screenshot Of Project
 ![FB_04_Title](uploads/04d79b608a3ecc9a2b71806bc6cd24f0/FB_04_Title.png)
