@@ -28,7 +28,7 @@ This few section are here to help those who wants to play around with the Valkyr
 
 * Ensure you click the Play Button before you get to interact the game itself. 
 
-# More screenshots
+# More pics
 ![ED_03_Gameplay01](uploads/0abd95d31b7cfe98f41c1d49224b220d/ED_03_Gameplay01.png)
 ![ED_04_Gameplay02](uploads/e6d591aa1ed0f2245e8eb0eca4d94ba2/ED_04_Gameplay02.png)
 
