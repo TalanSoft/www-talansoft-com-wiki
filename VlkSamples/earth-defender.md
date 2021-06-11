@@ -12,13 +12,13 @@ Join the *Exquisite And Rapid Terrain Helper* or E.A.R.T.H and help defend Earth
 # In-game Tutorial
 Objective: Protect Earth from being destroyed.  
 
-**Step 01:** **Left-click** on the word Start to begin the game.
+**Step 01:** **Tap or Left-click** on the word Start to begin the game.
 
-**Step 02:** **Left-Click** on incoming meteors to destroy them. When Earth gets hit, it takes damages and the health indicator displays much more Earth can take it.  
+**Step 02:** **Tap or Left-click** on incoming meteors to destroy them. When Earth gets hit, it takes damages and the health indicator displays much more Earth can take it.  
 
 **Step 03:** If Earth health reaches 0, it explodes and we are now homeless. 
  
-**Step 04:** Once defeated, simple **Left Click** the **Restart** on screen to replay and reset the score.
+**Step 04:** Once defeated, simple **Tap or Left-click** the **Restart** text on screen to replay and reset the score.
 
 # Tips within Valkyrie 
 This few section are here to help those who wants to play around with the Valkyrie project file. 
