@@ -7,7 +7,7 @@
 Help Amelia Birdhart navigate through a series of Bald Trees! A single touch game with score tracking.  
 
 # In-game Tutorial
-Objective: Get as far as you can before you crashed. 
+Objective: Get as far as you can before you crash. 
 
 **Step 01:** **Left-click** on the word Start to begin the game.
 
