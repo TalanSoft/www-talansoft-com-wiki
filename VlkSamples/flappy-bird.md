@@ -1,10 +1,9 @@
-# Downloads
-
-- [Vpk presentation download](https://cdn2.talansoft.com/ftp/samples/FlappyBird.vpk)
-- [Vlk project download](https://cdn2.talansoft.com/ftp/samples/FlappyBird.zip)
-
 # Flappy Bird Valky-prototype
 Help Amelia Birdhart navigate through a series of Bald Trees! A single touch game with score tracking.  
+
+# Downloads
+- [Vpk presentation download](https://cdn2.talansoft.com/ftp/samples/FlappyBird.vpk), this is the exported presentation that you can play on your phone with We3D or desktop with Valkyrie.
+- [Vlk project download](https://cdn2.talansoft.com/ftp/samples/FlappyBird.zip), this is the source project that you can thinker with in the Valkyrie editor.
 
 # In-game Tutorial
 Objective: Get as far as you can before you crash. 
