@@ -10,13 +10,13 @@ Help Amelia Birdhart navigate through a series of Bald Trees! A single touch gam
 # In-game Tutorial
 Objective: Get as far as you can before you crash. 
 
-**Step 01:** **Left-click** on the word Start to begin the game.
+**Step 01:** **Tap or Left-click** on the word Start to begin the game.
 
-**Step 02:** **Left-Click** anywhere after the countdown to make Amelia Birdhart **fly up**, simply do not press any button to allow Amelia Birdhart to **fly down**. 
+**Step 02:** **Tap or Left-click** anywhere after the countdown to make Amelia Birdhart **fly up**, simply do not press any button to allow Amelia Birdhart to **fly down**. 
 
 **Step 03:** Avoid hitting any of the Bald Trees and crashing down on the ground.
  
-**Step 04:** Once failed, simple **Left Click** the **Restart** on screen to replay and reset the score.
+**Step 04:** After you hit a tree and you fall to the ground, **Tap or Left-click** the **Restart** text on screen to replay and reset the score.
 
 # Tips within Valkyrie 
 This few section are here to help those who wants to play around with the Valkyrie project file. 
