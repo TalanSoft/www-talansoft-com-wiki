@@ -3,15 +3,10 @@
 - [Vpk presentation download](https://cdn2.talansoft.com/ftp/samples/FlappyBird.vpk)
 - [Vlk project download](https://cdn2.talansoft.com/ftp/samples/FlappyBird.zip)
 
-# Pictures
-
-TODO
-
-* Tags/Stats: Time to make, categories (3D, AR, Game, IoT, ...)
 # Flappy Bird Valky-prototype
 Help Amelia Birdhart navigate through a series of Bald Trees! A single touch game with score tracking.  
 
-## In-game Tutorial
+# In-game Tutorial
 Objective: Get as far as you can before you crashed. 
 
 **Step 01:** **Left-click** on the word Start to begin the game.
@@ -23,12 +18,21 @@ Objective: Get as far as you can before you crashed.
 **Step 04:** Once failed, simple **Left Click** the **Restart** on screen to replay and reset the score.
  
 
-## Screenshot Of Project
+# Screenshot Of Project
 ![FB_04_Title](uploads/04d79b608a3ecc9a2b71806bc6cd24f0/FB_04_Title.png)
 ![FB_02_Gameplay01](uploads/27bce13456a80692fbc7931da235b2e9/FB_02_Gameplay01.png)
 ![FB_03_Gameplay02](uploads/fb3985fb2046daa917a68520d452f095/FB_03_Gameplay02.png)
 
 
-* How to interact with the presentation? Example: WASD to move around, right click + mouse move to look around. Click start to start the game.
-* How to use the template? Example: once you’re Valkyrie, how to you start and maybe what can you do with it, like hmmm, change the score, background whatever.
-* (Optional) How did we make this from scratch.
+# Tips within Valkyrie 
+This few section are here to help those who wants to play around with the Valkyrie project file. 
+
+### Playing from Valkyrie itself 
+![Play_Function_Gif_01](uploads/9932ad62396b16ce7ada2391f1a74ef9/Play_Function_Gif_01.gif)
+
+* Ensure you click the Play Button before you get to interact the game itself.  
+
+
+
+
+
