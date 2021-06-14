@@ -33,11 +33,10 @@
         when it is loaded. This can be used to fix normals if the
         characters are not correctly setup and you don't have access to
         the source or don't want to modify it.
-    -   *ComputeTangentFrame*: Whether to compute the characeter's
+    -   *ComputeTangentFrame*: Whether to compute the character's
         tangent frames when it is loaded, this is used for normal
         mapping, if not set the tangent frames are computed within the
-        pixel shader which is usally slower than precomputing it at load
-        time.
+        pixel shader which is usually slower than precomputing it at load time.
     -   *NoPhysics*: Never load any physics data for the character.
     -   *PhysicsOnly*: Only load the physics data of the character, the
         character is never drawn on screen.
