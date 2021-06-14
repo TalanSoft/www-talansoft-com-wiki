@@ -40,7 +40,7 @@
     -   *NoPhysics*: Never load any physics data for the character.
     -   *PhysicsOnly*: Only load the physics data of the character, the
         character is never drawn on screen.
-    -   *PhysicsDynamicScaling*: Notify that the charater is going to be
+    -   *PhysicsDynamicScaling*: Notify that the character is going to be
         scaled dynamically while the level is running and that its mesh
         will be used as collision shape. This is notably slower (20-30%
         slower) on mobile devices and thus is not the default.
@@ -76,7 +76,7 @@ used.
     physics flags in **create\_flags**. The other shape types will use
     the character's bounding volume as basis to compute a reasonable
     approximation of the character's shape. Note that *Minkowski*,
-    *Compound* and *Heightfield* can't be used effectivly with a
+    *Compound* and *Heightfield* can't be used effectively with a
     Character entity.
 -   **size**: If not zero specifies the reference size to use for the
     bounding volume physics shapes, such as *Box*, *Sphere* or
