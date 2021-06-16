@@ -6,14 +6,19 @@ Valkyrie Engine allows you to import any Mesh, Rigs, Animation and Maps (Texture
 The Current Version supports this formats
 **.dae** (Collada), **FBX**, **.Obj**, **.Ply**, **.STL**, **.3DS**, **.IFC**, **.scene** and **.ach**.
 
-### Step 01 
-With the Current version of Valkyrie, to import any assets, you must first search the project file of the individual Valkyrie Project inside your folder.
-Look for the **Data** Folder and place all and any assets you wish to add for that said project (Texture, 3D Mesh, Rigs, Etc.) 
 
-### Step 02
-Within Valkyrie, select the File Explorer Icon within the Library tab. All of your imported data will appear here.
+### Step 01
+![Data_File_Gif_01](uploads/08baeb8ed8f0b20b8518130797d1f676/Data_File_Gif_01.gif)
+Within Valkyrie, select the **Data Folder Icon** to quickly launch the Data Folder of your current project. 
 
-Tips: You can refresh the Library tab by back in and out of different tabs.  
+### Step 02 
+Drag any related files and assets you wish to add for that project in this Data Folder. (Texture, 3D Mesh, Rigs, Etc.) 
+
+### Step 03
+![Data_File_VLK_Gif_01](uploads/cba3740b9be3fda82b84374f7a8341e6/Data_File_VLK_Gif_01.gif)
+To review all your imports within Valkyrie, select the **File Explorer Icon** within the **Library** section. All of your imported data will appear here.
+
+Tips: You can refresh the Library tab by selecting the **Refresh Icon** beside the **File Explorer Icon**.  
 
 # Export
 Within Valkyrie, you have 3 different kind of export setting to choose from.
