@@ -10,7 +10,7 @@ For example, focus the camera on the subject when the user presses on it | Open 
 
 ### Where can I find actions & events?
 
-- Create an Orbit Camera from the template accessible in the **Valkyrie Launcher**.
+- Create a **Camera** from the template accessible in the **Library**.
 - **Drag & Drop** the Orbit Camera level into the viewport. In this scene, an interaction is already created to orbit the camera around the sphere.
   ![Load](https://cdn2.talansoft.com/img/docs/introduction_interactions/load_level.gif)
 
