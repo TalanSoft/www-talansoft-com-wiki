@@ -29,7 +29,7 @@ Within Valkyrie, you have 3 different kind of export setting to choose from.
 * This method is to create an application version of the entire project. This application can then be played on any device without issue. 
 
 ##### Player Level File
-
+* This method creates a file version of a specific level. However unlike **Exe Export**, you require the Valkyrie Software itself to open the Level File. 
 
 ##### Project File 
 * This method allows you to compressed your entire project file. Drastically reducing the file size for the ease of file transfer.  
