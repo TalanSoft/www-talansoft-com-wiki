@@ -9,6 +9,7 @@ The Current Version supports this formats
 
 ### Step 01
 ![Data_File_Gif_01](uploads/08baeb8ed8f0b20b8518130797d1f676/Data_File_Gif_01.gif)
+
 Within Valkyrie, select the **Data Folder Icon** to quickly launch the Data Folder of your current project. 
 
 ### Step 02 
@@ -16,6 +17,7 @@ Drag any related files and assets you wish to add for that project in this Data 
 
 ### Step 03
 ![Data_File_VLK_Gif_01](uploads/cba3740b9be3fda82b84374f7a8341e6/Data_File_VLK_Gif_01.gif)
+
 To review all your imports within Valkyrie, select the **File Explorer Icon** within the **Library** section. All of your imported data will appear here.
 
 Tips: You can refresh the Library tab by selecting the **Refresh Icon** beside the **File Explorer Icon**.  
