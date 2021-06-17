@@ -39,6 +39,6 @@ You can change the Background colour or even background image of the scenic back
 # More pics
 ![FB_02_Gameplay01](uploads/27bce13456a80692fbc7931da235b2e9/FB_02_Gameplay01.png)
 ![FB_03_Gameplay02](uploads/fb3985fb2046daa917a68520d452f095/FB_03_Gameplay02.png)
-![fb_02_gameplay01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/tutorial_sample_images/fb_02_gameplay01)
-![fb_03_gameplay02](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/tutorial_sample_images/fb_03_gameplay02)
+![fb_02_gameplay01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/tutorial_sample_images/fb_02_gameplay01.png)
+![fb_03_gameplay02](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/tutorial_sample_images/fb_03_gameplay02.png)
 
