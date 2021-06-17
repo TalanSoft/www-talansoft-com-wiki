@@ -2,7 +2,7 @@
 # Earth Defender
 Join the *Exquisite And Rapid Terrain Helper* or E.A.R.T.H and help defend Earth against the numerous dangerous meteors! A single touch game with score tracking.  
 
-![ED_02_TitleScreen](uploads/bab904369bcad35a7088c57848bb9b0c/ED_02_TitleScreen.png)
+![ed_02_titlescreen.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/ed_02_titlescreen.png)  
 
 # Downloads
 
@@ -24,13 +24,15 @@ Objective: Protect Earth from being destroyed.
 This few section are here to help those who wants to play around with the Valkyrie project file. 
 
 ### Playing from Valkyrie itself 
-![ED_Play_Function_GIF_01](uploads/d189d33507c9632d1f622cc44e4f556c/ED_Play_Function_GIF_01.gif)
+![ed_02_titlescreen.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/recent/ed_play function_gif_01.gif)  
 
 * Ensure you click the Play Button before you get to interact the game itself. 
 
 # More pics
 ![ED_03_Gameplay01](uploads/0abd95d31b7cfe98f41c1d49224b220d/ED_03_Gameplay01.png)
 ![ED_04_Gameplay02](uploads/e6d591aa1ed0f2245e8eb0eca4d94ba2/ED_04_Gameplay02.png)
+![ed_03_gameplay01.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/ed_03_gameplay01.png)  
+![ed_04_gameplay01.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/ed_04_gameplay01.png)  
 
 
 
