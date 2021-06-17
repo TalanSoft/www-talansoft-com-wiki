@@ -1,7 +1,7 @@
 # Flappy Bird Valky-prototype
 Help Amelia Birdhart navigate through a series of Bald Trees! A single touch game with score tracking.  
 
-![fb_04_title.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_image/fb_04_title.png)  
+![fb_04_title.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/fb_04_title.png)  
 
 # Downloads
 - [Vpk presentation download](https://cdn2.talansoft.com/ftp/samples/FlappyBird.vpk). This is the exported presentation that you can play on your phone with [We3D](https://www.talansoft.com/vlk/downloads#we3d) or desktop with [Valkyrie](https://www.talansoft.com/vlk/downloads#vlk).
@@ -22,7 +22,7 @@ Objective: Get as far as you can before you crash.
 This few section are here to help those who wants to play around with the Valkyrie project file. 
 
 ### Playing from Valkyrie itself 
-![play_function_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_images/tutorial_sample_images/recent/play_function_gif_01.gif)  
+![play_function_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tutorial_sample_images/recent/play_function_gif_01.gif)  
 
 * Ensure you click the Play Button before you get to interact the game itself.  
 
