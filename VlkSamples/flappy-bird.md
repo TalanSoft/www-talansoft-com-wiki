@@ -22,12 +22,12 @@ Objective: Get as far as you can before you crash.
 This few section are here to help those who wants to play around with the Valkyrie project file. 
 
 ### Playing from Valkyrie itself 
-![play_function_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tutorial_sample_images/recent/play_function_gif_01.gif)  
+![play_function_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/recent/play_function_gif_01.gif)  
 
 * Ensure you click the Play Button before you get to interact the game itself.  
 
 ### Changing Colour Palettes 
-![fb_05_edit_images.png](https://cdn2.talansoft.com/ftp/img/tutorial_basic_images/tutorial_sample_images/fb_05_edit_images.png)
+![fb_05_edit_images.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/fb_05_edit_images.png)
 
 You can change the Background colour or even background image of the scenic backgrounds.
 
