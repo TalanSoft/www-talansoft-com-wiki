@@ -37,6 +37,6 @@ You can change the Background colour or even background image of the scenic back
 * Under the Diffuse slot, you can change the color palette or the image directly here.
 
 # More pics
-![fb_02_gameplay01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_images/tutorial_sample_images/fb_02_gameplay01.png)
-![fb_03_gameplay02](https://cdn2.talansoft.com/ftp/img/tutorial_basic_images/tutorial_sample_images/fb_03_gameplay02.png)
+![fb_02_gameplay01](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tutorial_sample_images/fb_02_gameplay01.png)
+![fb_03_gameplay02](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tutorial_sample_images/fb_03_gameplay02.png)
 
