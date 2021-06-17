@@ -24,7 +24,7 @@ Objective: Protect Earth from being destroyed.
 This few section are here to help those who wants to play around with the Valkyrie project file. 
 
 ### Playing from Valkyrie itself 
-![ed_02_titlescreen.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/recent/ed_play function_gif_01.gif)  
+![ed_play_function_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/recent/ed_play_function_gif_01.gif)  
 
 * Ensure you click the Play Button before you get to interact the game itself. 
 
@@ -32,7 +32,7 @@ This few section are here to help those who wants to play around with the Valkyr
 ![ED_03_Gameplay01](uploads/0abd95d31b7cfe98f41c1d49224b220d/ED_03_Gameplay01.png)
 ![ED_04_Gameplay02](uploads/e6d591aa1ed0f2245e8eb0eca4d94ba2/ED_04_Gameplay02.png)
 ![ed_03_gameplay01.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/ed_03_gameplay01.png)  
-![ed_04_gameplay01.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/ed_04_gameplay01.png)  
+![ed_04_gameplay02.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/ed_04_gameplay02.png)  
 
 
 
