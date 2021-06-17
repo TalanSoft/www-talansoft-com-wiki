@@ -29,12 +29,13 @@ The Image above shows the default User interface Layout.
 ## 01: Project Manager & Viewport Tools
 
 ![Center_View___Transform_Gif](uploads/c140f5e1b6b4130a9ecc3ff6763e7d5e/Center_View___Transform_Gif.gif)
-![center_view_transform_gif_01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/center_view/center_view_transform_gif_01.gif)
+![center_view_transform_button_01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/center_view/center_view_transform_button_01.png)
 
 Located on the Top Left of the Screen, 3 major tabs.
 
 
 **A) Center (File Manager)** ![Center_View___Transform_Button_01](uploads/baa75bb9baa00f2613b9e552fff56297/Center_View___Transform_Button_01.PNG)
+![center_view_transform_gif_01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/center_view/center_view_transform_gif_01.gif)
 
 **Application**
 - Open an existing project
