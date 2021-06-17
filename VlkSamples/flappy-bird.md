@@ -1,7 +1,7 @@
 # Flappy Bird Valky-prototype
 Help Amelia Birdhart navigate through a series of Bald Trees! A single touch game with score tracking.  
 
-![fb_04_title.png](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/tutorial_sample_images/fb_04_title.png)  
+![fb_04_title.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_image/fb_04_title.png)  
 
 # Downloads
 - [Vpk presentation download](https://cdn2.talansoft.com/ftp/samples/FlappyBird.vpk). This is the exported presentation that you can play on your phone with [We3D](https://www.talansoft.com/vlk/downloads#we3d) or desktop with [Valkyrie](https://www.talansoft.com/vlk/downloads#vlk).
@@ -37,6 +37,6 @@ You can change the Background colour or even background image of the scenic back
 * Under the Diffuse slot, you can change the color palette or the image directly here.
 
 # More pics
-![fb_02_gameplay01](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tutorial_sample_images/fb_02_gameplay01.png)
-![fb_03_gameplay02](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tutorial_sample_images/fb_03_gameplay02.png)
+![fb_02_gameplay01](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/fb_02_gameplay01.png)
+![fb_03_gameplay02](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/fb_03_gameplay02.png)
 
