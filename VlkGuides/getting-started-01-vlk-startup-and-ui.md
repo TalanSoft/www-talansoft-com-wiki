@@ -131,7 +131,7 @@ For the full list, [Click Here for Event](https://gitlab.talansoft.com/Pub/Wiki/
 
 
 ## 03 Timeline & Outliner
-![Timeloine___Outliner_Gif](uploads/cf87bd9c131b85661cd0d9657fcb1649/Timeloine___Outliner_Gif.gif)
+![timeline_outliner_gif.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/timeline_grp/timeline_outliner_gif.gif)
 
 #### Timeline
 Adjacent to the Right section, the timeline of the entire project and individual time bar for each **Entity**, **Action** and **Event** that is within the viewport of the current level.
