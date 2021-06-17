@@ -34,8 +34,8 @@ The Image above shows the default User interface Layout.
 Located on the Top Left of the Screen, 3 major tabs.
 
 
-**A) Center (File Manager)** ![Center_View___Transform_Button_01](uploads/baa75bb9baa00f2613b9e552fff56297/Center_View___Transform_Button_01.PNG)
-![center_view_transform_gif_01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/center_view/center_view_transform_button_01.png)
+**A) Center (File Manager)** 
+![center_view_transform_button_01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/center_view/center_view_transform_button_01.png)
 
 **Application**
 - Open an existing project
@@ -50,7 +50,7 @@ Located on the Top Left of the Screen, 3 major tabs.
 **Tools**
 - Publish the Application
 
-**B) View (Viewport window)** ![Center_View___Transform_Button_02](uploads/c0ba916d384afcb02a6d41c1d57eb926/Center_View___Transform_Button_02.PNG)
+**B) View (Viewport window)** ![center_view_transform_button_02](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/center_view/center_view_transform_button_02.png)
 
 **Layout**
 - Set Single View
@@ -67,7 +67,7 @@ Located on the Top Left of the Screen, 3 major tabs.
 - Set the VR render mode
 - Set the AR render mode
 
-**C) Transform (Gizmo Setting)** ![Center_View___Transform_Button_03](uploads/501a2404d8f8ab0825dac76fb6d45c19/Center_View___Transform_Button_03.PNG)
+**C) Transform (Gizmo Setting)** ![center_view_transform_button_03](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/center_view/center_view_transform_button_03.png)
 
 **Gizmo**
 - Move Tool
