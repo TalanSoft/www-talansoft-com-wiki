@@ -184,11 +184,11 @@ Every Menus and Windows mentioned above can be visibly toggled and eventually th
 
 
 ### Customise User Interface 
-![Undocking_Gif_01](uploads/fbc86f30a68ca8007f0afe7874b3dbec/Undocking_Gif_01.gif) 
+![undocking_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/windows_menu/undocking_gif_01.gif) 
 
 * To Undock, right click on the tabs of the window and select Undock. (Image Above for Reference)  
 
-![Docking_Gif__01](uploads/c136f512992f2e84206f5ff90fc8a0cb/Docking_Gif__01.gif) 
+![docking_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/windows_menu/docking_gif_01.gif)
 
 * To Dock windows, hold the **Ctrl** and **Left Mouse Click** on the window dock.
 * Drag the window to the Square Icons that display the window orientation within the UI. 
