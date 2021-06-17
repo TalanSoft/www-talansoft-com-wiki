@@ -23,6 +23,7 @@ Note that by default, applications are located in **C:/User/USER_NAME/Vlk Projec
 
 # User Interface
 ![Entire_VLK_Scene_01](uploads/5896105bd7da2603adb97acdd4474367/Entire_VLK_Scene_01.png)
+![Entire_VLK_Scene_01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/entire_vlk_scene_01.png)
 
 The Image above shows the default User interface Layout.
 
