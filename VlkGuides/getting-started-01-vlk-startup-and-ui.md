@@ -168,19 +168,19 @@ Starting from the Left
 
 
 ## 04: Inspector
-![Inspector_Gif_01](uploads/395299d5e179c876e7583f0d7ddd0a57/Inspector_Gif_01.gif)
+![inspector_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/inspector/inspector_gif_01.gif)  
 
 Within the Inspector window, this is the location to go to if you need to setup any in-scene settings of individual selected object such as **Name and Identity**, **Timeline Setting**, **Transform Coordination**, **Layer Settings** and many more other specific settings based on the type of asset.
 
 ## 05: Material Editor
-![Material_Editor_gif_01](uploads/650c33a5a4ad999d61d8a47b551ebafb/Material_Editor_gif_01.gif)
+![material_editor_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/material_editor/material_editor_gif_01.gif)  
 
 The Material Editor allows you to add your texture maps to individual Entities. It also provides the ability to directly manipulate how much a texture can affect in-scene. 
 For more details, [Click Here](https://gitlab.talansoft.com/Pub/Wiki/wikis/VlkGuides/Material-Editor). 
 
 ## 06: Windows
 Every Menus and Windows mentioned above can be visibly toggled and eventually the entire menu setup can be customised to your own preference.
-![Menu_Window_Gif_01](uploads/8a71902830fbb1df8f5b5551db79b186/Menu_Window_Gif_01.gif)   
+![menu_window_gif 01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/windows_menu/menu_window_gif 01.gif)  
 
 
 ### Customise User Interface 
