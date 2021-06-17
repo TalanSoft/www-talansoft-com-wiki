@@ -22,14 +22,14 @@ Choose the directory where you want to save your app in the Location field & pro
 Note that by default, applications are located in **C:/User/USER_NAME/Vlk Projects/** on Windows and **/Users/USER_NAME/Vlk Projects** on macOS.
 
 # User Interface
-![Entire_VLK_Scene_01](uploads/5896105bd7da2603adb97acdd4474367/Entire_VLK_Scene_01.png)
-![Entire_VLK_Scene_01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/entire_vlk_scene_01.png)
+![entire_vlk_scene_01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/entire_vlk_scene_01.png)
 
 The Image above shows the default User interface Layout.
 
 ## 01: Project Manager & Viewport Tools
 
 ![Center_View___Transform_Gif](uploads/c140f5e1b6b4130a9ecc3ff6763e7d5e/Center_View___Transform_Gif.gif)
+![center_view_transform_gif_01](https://cdn2.talansoft.com/FTP/cdn2_sync/img/tutorial_basic_image/center_view/center_view_transform_gif_01.gif)
 
 Located on the Top Left of the Screen, 3 major tabs.
 
