@@ -141,9 +141,9 @@ Adjacent to the Right section, the timeline of the entire project and individual
 On the Left side of the **Timeline Tab**, the list contains every single **Entity**, **Action** and **Event** that is within the viewport of the current level. From here, each item can be manipulated in a layered system where components are grouped, in a hierarchical arrangement, such that lower layers provide functions and services that support the functions and services of higher layers.
 
 Above the Outliner, a row of icons are located here to help manipulate both the timeline and the outliner. 
-![Timeline_Icon_01](uploads/e5d26ca8e92d2f81edab9bc6d8f5f4a9/Timeline_Icon_01.PNG)
+![timeline_01.png](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/timeline_grp/timeline_01.png) 
 
-![Timeline_Icon_03](uploads/deaef475c61dd8b9dcc1305bb6dfeef7/Timeline_Icon_03.png)
+![timeline_icon_03.png](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/timeline_grp/timeline_icon_03.png)  
 Icon List
 Starting from the Left
 01. **Expand Layers:** Expand or Collapse every single layers within the Outliner.
@@ -152,7 +152,7 @@ Starting from the Left
 04. **Pause Button:** Pause at the current position on the play time.
 05. **Stop Button:** Halts the entire timeline and reset the timeline play time to 0:00.
 
-![Timeline_Icon_02](uploads/bde2f9195834c906007e9c5465d3db0a/Timeline_Icon_02.png)
+![timeline_icon_02.png](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/timeline_grp/timeline_icon_02.png) 
 Icon List
 Starting from the Left
 01. **Reload Scene:** Reloads the entire scene.
