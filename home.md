@@ -1,6 +1,6 @@
 # Basic Valkyrie Guides
 - [Getting Started 01: Valkyrie Startup and Intro to User Interface](VlkGuides/getting-started-01-vlk-startup-and-ui)
-- [Getting Started 02: Import and Export](VlkGuides/Physics Response Table)
+- [Getting Started 02: Import and Export](VlkGuides/import_and_export)
 - [Getting Started 03: The Material Editor](VlkGuides/Material-Editor)
 
 
