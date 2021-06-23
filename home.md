@@ -1,8 +1,8 @@
 # Basic Valkyrie Guides
 - [Getting Started 01: Valkyrie Startup and Intro to User Interface](VlkGuides/getting-started-01-vlk-startup-and-ui)
-- [Getting Started 02: Introduction to Events & Action](VlkGuides/getting-started-02-intro-events-n-actions)
+- [Getting Started 02: Import and Export](VlkGuides/Physics Response Table)
 - [Getting Started 03: The Material Editor](VlkGuides/Material-Editor)
-- [Getting Started 04: Import and Export](VlkGuides/getting-started-04-import-and-export)
+
 
 # Advanced Valkyrie Guides
 - [AR in less that 10 minutes](VlkGuides/ar-in-10-mins)
