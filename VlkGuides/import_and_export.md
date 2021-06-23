@@ -52,8 +52,7 @@ Under the Left top corner menu, under the **Center** menu and the **Tools** Tab,
 #
 
 This concludes this guide, do click below for the next step or for more different guides. 
-- [Getting Started 03: Introduction to Events & Action](VlkGuides/getting-started-03-intro-events-n-actions)
-- [Getting Started 04: The Material Editor](VlkGuides/Material-Editor)
+- [Getting Started 03: The Material Editor](VlkGuides/Material-Editor)
 
 Or return back to the guide list.
 - [Guide Home](https://gitlab.talansoft.com/Pub/Wiki/wikis/home)
