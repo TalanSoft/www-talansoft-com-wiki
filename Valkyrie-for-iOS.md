@@ -1,7 +1,7 @@
 Valkyrie projects can be shared and viewed on any iOS device with the We3D app.
 
-You can download We3D on the AppStore [here](https://itunes.apple.com/us/app/we3d/id1044059728?mt=8):
-<a href="https://itunes.apple.com/us/app/we3d/id1044059728?mt=8" target="_blank" class="mt-2 umami--click--bt_download_we3d_ios_appstore" style="display: inline-block; overflow: hidden; background: url(&quot;https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg&quot;) no-repeat; width: 135px; height: 40px;"></a>
+You can download We3D on the AppStore [here](https://itunes.apple.com/us/app/we3d/id1044059728?mt=8), or scan the qrcode below:<br/>
+<a href="https://itunes.apple.com/us/app/we3d/id1044059728?mt=8" target="_blank"><img src="uploads/1e9defb15430613ee74ac30dab1f080a/qr-code-2.jpg" width="150" /></a>
 
 # Minimum requirements
 We3D requires a device with iOS 11 or above that can use ARKit.
