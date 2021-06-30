@@ -11,6 +11,7 @@
 - [Retrieve live bitcoin USD value from a Web API](VlkGuides/retrieve-btc-usd-http-web-api)
 
 # Samples
+- [Car Configurator](./VlkSamples/Car-Configurator) (AR &3D) (wip: desc, tuto)
 - [AR Education](./VlkSamples/ar-education) (AR) (wip: desc, tuto)
 - [AR Dragon](./VlkSamples/ar-dragon) (AR & 3D) (wip: desc, tuto)
 - [AR Storm trooper with music](./VlkSamples/ar-storm-trooper) (AR & 3D & Audio) (wip: desc, tuto)
