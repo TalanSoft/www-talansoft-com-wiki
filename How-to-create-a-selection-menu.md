@@ -71,3 +71,13 @@ We are now going to create a rule to define what happens when the **button_name*
 ![step_13](https://cdn2.talansoft.com/ftp/img/selection_menu_tutorial/selection_menu_13.gif)
 
 All that's left to do is to move this **Primitive** with the white circle texture at the location of the button that was clicked.
+
+To achieve this, let's create a **PropertyChanged** event into the **DataTable**.
+- Set the **Property** to **button_name**
+- Set the **Type** to **String**
+- Delete the **Value** field
+- Set **Compare** to **Always**
+
+![step_14](https://cdn2.talansoft.com/ftp/img/selection_menu_tutorial/selection_menu_14.gif)
+
+The **PropertyChanged** event will always be triggered when the **button_name** property of the **DataTable** changes.
