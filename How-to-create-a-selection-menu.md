@@ -82,6 +82,12 @@ To achieve this, let's create a **PropertyChanged** event into the **DataTable**
 
 The **PropertyChanged** event will always be triggered when the **button_name** property of the **DataTable** changes.
 
+- Drag & Drop the **AnimMoveTo** action into the **PropertyChanged** event
+- Drag & Drop the **Primitive** with the white circle texture into the **target**
+- Set the **dest** to **dt://./@button_name**
+- Set the **spring_s** value to **250**
+- Set the **end_time** to **1** second
 ![step_15](https://cdn2.talansoft.com/ftp/img/selection_menu_tutorial/selection_menu_15.gif)
 
+Now, every time you click on a button, the white circle will automatically move to the position of the clicked button
 ![step_16](https://cdn2.talansoft.com/ftp/img/selection_menu_tutorial/selection_menu_16.gif)
