@@ -41,7 +41,7 @@ It's time to make the buttons interactive.
 The **EnterRayHit** event allows entities to detect clicks and is triggered every time a click is detected. So now, all of the **Primitives** are clickable but we need to specify what happens when they are clicked.
 
 Before we proceed, we need to create a property in the **DataTable** that will store the buttons when they are clicked.
-- Select the **DataTable** and click on the **+** icon at the bottom right of the inspector.
+- Select the **[DataTable](VlkEntity/DataTable)** and click on the **+** icon at the bottom right of the inspector.
 - A dialog box will ask you to choose a name for the property. You can name the property with the name of your choice but in this case we'll name it **buttom_name**.
 ![step_09](https://cdn2.talansoft.com/ftp/img/selection_menu_tutorial/selection_menu_09.gif)
 
