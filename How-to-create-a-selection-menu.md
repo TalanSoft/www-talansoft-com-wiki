@@ -10,7 +10,7 @@ In the Entity Library, Drag & Drop a DataTable into the Center-Anchor Dummy.
 The position of this Dummy object is controlled by the ViewportAnchor action and is configured to be at the center of the screen.
 
 Now we need to make the DataTable relative to its parent object (Center-Anchor) & center it.
-- Click on the **DataTable** in the timeline.
+- Click on the **[DataTable](Vlk/Entity/DataTable)** in the timeline.
 - In the inspector, turn on the **Relative** flag.
 - Click on **SetIdentity** to move the **DataTable** to the same position as its parent object (Center-Anchor).
 ![step_02](https://cdn2.talansoft.com/ftp/img/selection_menu_tutorial/selection_menu_02.gif)
