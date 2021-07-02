@@ -81,3 +81,7 @@ To achieve this, let's create a **PropertyChanged** event into the **DataTable**
 ![step_14](https://cdn2.talansoft.com/ftp/img/selection_menu_tutorial/selection_menu_14.gif)
 
 The **PropertyChanged** event will always be triggered when the **button_name** property of the **DataTable** changes.
+
+![step_15](https://cdn2.talansoft.com/ftp/img/selection_menu_tutorial/selection_menu_15.gif)
+
+![step_16](https://cdn2.talansoft.com/ftp/img/selection_menu_tutorial/selection_menu_16.gif)
