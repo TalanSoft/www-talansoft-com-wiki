@@ -5,6 +5,8 @@ It is recommended to read the following guides before starting this tutorial:
 - Understanding Object hierarchies
 - Understanding DataTables
 
+[**Vlk Project Download**](https://cdn2.talansoft.com/ftp/samples/Selection-Menu-Tutorial.zip)
+
 ---
 
 In the Entity Library, Drag & Drop a DataTable into the Center-Anchor Dummy.
