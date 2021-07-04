@@ -3,8 +3,8 @@
 - [Getting Started 02: Import and Export](VlkGuides/import_and_export)
 - [Getting Started 03: The Material Editor](VlkGuides/Material-Editor)
 
-
 # Advanced Valkyrie Guides
+- [How to create a selection menu](VlkGuides/How-to-create-a-selection-menu)
 - [AR in less that 10 minutes](VlkGuides/ar-in-10-mins)
 - [Make a simple User Interface with Valkyrie](VlkGuides/make-a-simple-ui)
 - [A simple daylight system](VlkGuides/automatic-daylight-system)
