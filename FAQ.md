@@ -7,3 +7,8 @@
 | .vlk extension, is your project file you can edit in Valkyrie editor. |
 | .vpk extension, is your compiled executable file that can be run if Valkyrie editor is installed on your computer, or with the We3D iOS app on mobile. |
 | .exe extension, is your compiled executable file that can be run on any Windows computer (in Valkyrie editor you can choose between exporting your project as a vpk or an exe). |
+
+| **Which executable should I use to run the Valkyrie applications?** |
+| ------ |
+| On most recent computers, the processors are 64-bit. You should then run the x64 version. |
+| If your system is 32-bit, you should run the x86 version. |
