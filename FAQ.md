@@ -13,7 +13,6 @@
 | On most recent computers, the processors are 64-bit. You should then run the x64 version. |
 | If your system is 32-bit, you should run the x86 version. |
 
-| **I have noticed this message when I try to open the zipped vlk file of a template I downloaded from your website** |
-| ![image](uploads/458ba03920075b29c55c6e4061d2a5c0/image.png) |
+| **I have noticed this message when I try to open the zipped vlk file of a template I downloaded from your website** ![image](uploads/458ba03920075b29c55c6e4061d2a5c0/image.png) |
 | ------ |
 | Like all applications, vlk files need to be unzipped in order to be run :p |
