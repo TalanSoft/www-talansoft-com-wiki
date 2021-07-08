@@ -5,7 +5,7 @@ This template is an example of what can be made in Vlk with no-code for the real
 
 This template can be used on Valkyrie's app, We3D, that allows you to view it in 3D and AR. 
 
-![We3D_requirements](https://gitlab.talansoft.com/Pub/Wiki/wikis/Valkyrie-for-iOS)
+*[We3D Requirements](https://gitlab.talansoft.com/pub/wiki/wikis/valkyrie-for-iOS)
 
 ![img](https://cdn2.talansoft.com/ftp/img/www/Design-and-Construction-1600x1200-v2.jpg)
 
