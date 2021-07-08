@@ -15,20 +15,20 @@ This template can be used on Valkyrie's app, We3D, that allows you to view it in
 - [Vlk project download](https://cdn2.talansoft.com/ftp/samples/Architecture-Template-V2.zip)
 
 # Instructions
-- Press & Hold **Left Click** to **Move the camera** 
-- Press & Hold **Right Click** to **Rotate the Camera** 
-- Use the **Mouse Wheel** to **Zoom In / Out** 
+- Use **W,S,A,D** keys to move **backwards, forwards** and **side to side**
+- Press & Hold **Right Click** to **Rotate** the Camera 
+- **Left Click** to complete **Basic Actions**
 
 # Functionalities
-Click on the glasses icon to view the house from street view. 
+**Left Click** on the glasses icon to view the house from **Street View**. 
 ![Street_view_01](https://media.giphy.com/media/D3zjlv07VYjf0VwcMk/giphy.gif)
 
-Use the W,S,A,D keys and hold right click on the mouse to move around the house. 
+Use the **W,S,A,D** keys and hold **Right Click** on the mouse to **Move** around the house. 
 ![Moving_around_02](https://media.giphy.com/media/6aUP3dZjsG3HcTpmxI/giphy.gif)
 
-Click on a door, and it will open to enable you to move between rooms.
+**Left Click** on a door, and it will **Open** to enable you to move between rooms.
 ![Opening_door_03](https://media.giphy.com/media/ZaubihlkDVljNg9BeK/giphy.gif)
 
-Click on the planet icon to switch back to birds eye view. 
+**Left Click** on the planet icon to switch back to **Birds Eye View**. 
 ![Bird's_eye_view_04](https://media.giphy.com/media/USBqrAC2ppWzChPmcc/giphy.gif)
 
