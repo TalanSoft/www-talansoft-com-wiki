@@ -1,7 +1,7 @@
 # Camera
 
 A camera entity sets what the user will see from a certain point of
-view, it behaves much like a real camera or the eyes of a person.
+view. It behaves much like a real camera or the eyes of a person.
 
 -   **fov** *(bound)*: Set the camera's vertical field of view in
     degrees. This is used with perspective projection only (the default
@@ -13,7 +13,7 @@ view, it behaves much like a real camera or the eyes of a person.
     visible. Polygons further than that distance are clipped (cut) to
     that boundary.
 -   **frustum\_culling**: Whether frustum culling is enabled.
--   **occlusion\_culling**: Whether occlusion culling is enabled, note
+-   **occlusion\_culling**: Whether occlusion culling is enabled. Note
     that occlusion culling doesn't work on every platform.
 
 <!-- -->
