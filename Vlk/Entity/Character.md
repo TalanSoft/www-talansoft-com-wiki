@@ -3,11 +3,11 @@
 -   **occluder**: Whether the character will be an occluder when
     occlusion culling is enabled.
 -   **drawop\_culling**: Whether to do visibility culling per draw
-    operation in the character instead of using only the character's
-    bounding volume. A draw operation is one part of the character, this
-    is usefull for when a character is a huge scene, which is common for
-    environements. As an example, if the Character is a city with this
-    flag on each building is culled individually, without it everything
+    operation in the character, instead of using only the character's
+    bounding volume. A draw operation is one part of the character. This
+    is useful for when a character is a huge scene, which is common for
+    environments. As an example, if the Character is a city with this
+    flag on each building is culled individually. Without it everything
     would be drawn every frame as long as any part of the city is
     visible.
 
@@ -17,31 +17,31 @@
     -   *Animated*: Whether the character will be used with extra
         animations. Without this flag all the individual parts of the
         character are collapsed and optimized to speed up rendering.
-        With the flag on the original structure of the character is
+        With the flag on, the original structure of the character is
         preserved so that animations can be applied to the character's
         bones or nodes.
     -   *AnimatedCollapseNodes*: Collapse nodes which are not touched by
         any animation in the base character when loading an animated
         character.
     -   *StaticIfNoAnim*: Import as static (aka without the *Animated*
-        flag) if they aren't any animation in the base character.
+        flag) if there isn't any animation in the base character.
     -   *SharedAnimations*: Animations are shared between all the
         Characters using the same base character file.
     -   *SharedMaterials*: Materials are shared between all the
         Characters using the same base character file.
     -   *ComputeNormals*: Whether to compute the character's normals
         when it is loaded. This can be used to fix normals if the
-        characters are not correctly setup and you don't have access to
+        characters are not correctly setup, and you don't have access to
         the source or don't want to modify it.
     -   *ComputeTangentFrame*: Whether to compute the character's
-        tangent frames when it is loaded, this is used for normal
-        mapping, if not set the tangent frames are computed within the
+        tangent frames when it is loaded. This is used for normal
+        mapping. If not set, the tangent frames are computed within the
         pixel shader which is usually slower than precomputing it at load time.
     -   *NoPhysics*: Never load any physics data for the character.
     -   *PhysicsOnly*: Only load the physics data of the character, the
         character is never drawn on screen.
     -   *PhysicsDynamicScaling*: Notify that the character is going to be
-        scaled dynamically while the level is running and that its mesh
+        scaled dynamically while the level is running, and that its mesh
         will be used as collision shape. This is notably slower (20-30%
         slower) on mobile devices and thus is not the default.
     -   *PhysicsHull*: The physics data is a convex hull of the
@@ -50,9 +50,9 @@
 <!-- -->
 
 -   **fading**: If not -1/-1, specifies the start and end distance at
-    which the character is faded out of the view. In the transation zone
+    which the character is faded out of the view. In the transition zone
     (between start and end) a shader is applied to fade out the
-    character smoothly, the particular fading effect depends of the
+    character smoothly. The particular fading effect depends of the
     rendering pipeline in use.
 
 ## LODs
