@@ -10,5 +10,5 @@ Using our industry specific templates, your designers can easily make immersive 
 Our intuitive timeline-based interface streamlines production pipelines, allowing quick and easy mixing of multi-format digital assets into interactive designs and prototypes.  
 
 Check out this smart city template:  
-<a href="https://www.talansoft.com/md/docs/home#_Samples_"><img src= "https://cdn2.talansoft.com/ftp/img/www/Industrials-1600x1200.jpg" alt="Your AR template" width="256"></a>  
+<a href="https://www.talansoft.com/md/docs/home#_Samples_"><img src= "https://cdn2.talansoft.com/ftp/img/www/Industrials-1600x1200.jpg" alt="Your smart city template" width="256"></a>  
 ### Try Valkyrie [**free**](https://www.talansoft.com/vlk/downloads)  
