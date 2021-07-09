@@ -8,6 +8,6 @@ Now you can make immersive AR experiences in real-time without endless video ren
 
 Our intuitive timeline-based interface streamlines production pipelines, allowing  easy mixing of multi-format digital assets into interactive designs and prototypes.  
 
-Check out this [AR template](https://www.talansoft.com/md/docs/VlkSamples/ar-storm-trooper)  
-![img](https://cdn2.talansoft.com/ftp/img/www/Marketing-and-Creative-Agencies.jpg)  
-Try Valkyrie [**free**](https://www.talansoft.com/vlk/downloads)  
+Check out this AR template:  
+<a href="https://www.talansoft.com/md/docs/VlkSamples/ar-storm-trooper"><img src= "https://cdn2.talansoft.com/ftp/img/www/Marketing-and-Creative-Agencies.jpg" alt="Your AR template" width="256"></a>  
+### Try Valkyrie [**free**](https://www.talansoft.com/vlk/downloads)  
