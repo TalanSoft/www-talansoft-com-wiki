@@ -1,7 +1,7 @@
 # Game studio
 ## Faster no-code prototyping platform
 
-**Video of Flappy Birds game**
+**Video of Flappy Birds game or FPS**
 
 Valkyrie no-code creative platform lets you easily create cutting edge interactive prototypes. Combine digital assets using life-like AR to stand out from the competition. Now your artists can prototype game ideas without a developer and export a binary that runs on all platforms (no Xcode! or Android Studio). Instantly share your work across all common mobile platforms.  
 
