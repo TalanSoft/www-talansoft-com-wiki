@@ -1,5 +1,5 @@
 # Educators
-## Gamilfy learning experiences without coding
+## Gamify learning experiences without coding
 
 **Video of Earth Defender game or similar simple interactive game example**
 
