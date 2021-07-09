@@ -9,6 +9,6 @@ Import your AutoCAD or Revit files directly and quickly, then combine them with 
 
 Our intuitive timeline-based interface streamlines production pipelines, allowing  easy mixing of multi-format digital assets into interactive walkthroughs, designs and prototypes.  
 
-Check out this smart city template:  
+Check out this architecture template:  
 <a href="https://www.talansoft.com/md/docs/VlkSamples/architecture"><img src= "https://cdn2.talansoft.com/ftp/img/www/Design-and-Construction-1600x1200-v2.jpg" alt="Your Architecture template" width="256"></a>  
 ### Try Valkyrie [**free**](https://www.talansoft.com/vlk/downloads)  
