@@ -25,4 +25,4 @@ allow properties to be added and changed and for events to be triggered.
     the actions set as children to the PropertyChanged event.
 
 The DataTable preserves the values of its properties as set in the
-inspector, it restores them when playback stops.
+inspector. It restores them when playback stops.
