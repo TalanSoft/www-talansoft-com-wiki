@@ -11,7 +11,7 @@ A light entity represents a light source in the environment.
         torchlight.
 -   **light\_flags**:
     -   *Static*: Whether the light is static. A static light can be
-        further optimized, for example it could be baked in a lightmap
+        further optimized. For example it could be baked in a lightmap
         or its shadow map can be precomputed instead of updated every
         frame.
     -   *Specular*: Whether the light produces specular reflections.
