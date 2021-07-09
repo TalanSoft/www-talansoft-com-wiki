@@ -2,7 +2,7 @@
 # Car Configurator
 Customize your Tesla with the Car Configurator. Choose the colors, design & engine of your future car before ordering it!
 
-This sample is a a practical example of what can be made in Vlk with no-code for the automotive industry.
+This sample is a a practical example of what can be made in Vlk with no-code for the automotive industry. Of course you can tweak it as you please to fit the needs of any other industry.  
 
 ![tesla_01](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_01.jpg)  
 
