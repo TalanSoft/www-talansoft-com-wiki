@@ -7,7 +7,7 @@ Valkyrie no-code creative platform lets you easily create customized enterprise 
 
 Get inspired by our past projects where designers created and published interactive dashboards for data centers, malls, airports and manufacturing sites.  
 
-Using our industry specific EyeOT-3D template, your designers can easily make mobile immersive AR monitoring and management experiences in real-time without any programming or endless rendering.  
+Using our industry specific EyeOT-3D template, your designers can easily make mobile immersive 3D & AR monitoring and management experiences in real-time without any programming or endless video rendering.  
 
 Managers can monitor their facilities, manage their maintenance activities and control their connected devices from anywhere in the world with mobile 3D dashboards made with Valkyrie.  
 
