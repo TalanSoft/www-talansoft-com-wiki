@@ -1,4 +1,4 @@
-# \*\*AnimAllTo\*\*
+# AnimAllTo
 
 Use **AnimAllTo** to interpolate over time all positional states of an
 entity to match those of a destination entity.
