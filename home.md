@@ -26,8 +26,9 @@
 - [Events](./Vlk/RefEvents)
 - [Actions](./Vlk/RefActions)
 
-# Frequently Asked Questions
-- [Valkyrie editor](./FAQ)
+# Resources
+- [Frequently Asked Questions](./resources/faq)
+- [Toolkit](./resources/tools)
 
 # System Version
 - [Valkyrie for Windows](./Valkyrie-for-Windows)
