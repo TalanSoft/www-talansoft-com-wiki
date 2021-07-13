@@ -26,7 +26,7 @@
 - [Events](./Vlk/RefEvents)
 - [Actions](./Vlk/RefActions)
 
-# Resources
+# Resources [WIP]
 - [Frequently Asked Questions](./resources/faq)
 - [Toolkit](./resources/tools)
 
