@@ -2,4 +2,95 @@
 
 A quick guide presenting some of the best 3rd party software you can use to create assets for importing in Valkyrie
 
+
+
+
+
+- [3D-Coat]	Commercial software	
+- [3D Slash]	Freemium	
+- [3DVIA Shape]	Commercial software	
+- [AC3D]	Commercial software	
+- [Adobe] Dimension	Commercial software	
+- [Alibre Design]	Commercial software	
+- [Aladdin4D]	Commercial software	
+- [Amapi]	Commercial software	
+- [Anim8or]	Freeware	
+- [Animation:Master]	Commercial software	
+- [ArchiCAD]	Commercial software	
+- [Art of Illusion]	GNU General Public License +	
+- [AutoCAD]	Commercial software	
+- [AutoQ3D Community]	GNU GPLv2 +	
+- [AutoQ3D]	Commercial software	
+- [Autodesk 3ds Max]	Commercial software	
+- [Autodesk Inventor]	Commercial software	
+- [Autodesk Maya]	Commercial software	
+- [Autodesk Mudbox]	Commercial software	
+- [Autodesk Revit]	Commercial software	
+- [Autodesk Softimage]	Commercial software	
+- [Autodesk Fusion 360]	Commercial software	
 - [Blender](https://www.blender.org/): Open source 3D creation. Free to use for any purpose, forever.
+- [BricsCAD]	Commercial software	
+- [BRL-CAD]	GNU LGPL and BSD	
+- [Bryce]	Commercial software	
+- [CATIA]	Commercial software	
+- [Carrara]	Commercial software	
+- [Cheetah3D]	Commercial software	
+- [Cinema 4D]	Commercial software	
+- [CityEngine]	Commercial software	
+- [Clara.io]	Freemium	
+- [Daz Studio]	Freeware	
+- [DesignSpark Mechanical]	Freemium	
+- [Electric Image Animation System]	Commercial software	
+- [Exa Corporation]	Commercial software	
+- [Flux]	Freeware	
+- [Form-Z]	Commercial software	
+- [FreeCAD]	GNU LGPL	
+- [Geomodeller3D]	Commercial software	
+- [Hexagon]	Commercial software	
+- [Houdini]	Commercial software	
+- [IRONCAD]	Commercial software	
+- [KeyCreator]	Commercial software	
+- [LightWave 3D]	Commercial software	
+- [Makers Empire 3D]	Freemium	
+- [MASSIVE]	Commercial software	
+- [Metasequoia]	Commercial software	
+- [MicroStation]	Commercial software	
+- [MikuMikuDance]	Freeware	
+- [Milkshape 3D]	Commercial software	
+- [Modo]	Commercial software	
+- [NX]	Commercial software	
+- [Onshape]	Commercial software	
+- [Open CASCADE]	GNU LGPL	
+- [OpenSCAD]	GNU GPL	
+- [Oculus Medium]	Commercial software	
+- [Poser]	Commercial software	
+- [PowerAnimator]	Commercial software	
+- [Promine]	Commercial software	
+- [Pro/ENGINEER]	Commercial software	
+- [Quake Army Knife]	GNU GPL	
+- [Realsoft 3D]	Commercial software	
+- [Remo 3D]	Commercial software	
+- [RFEM]	Commercial software	
+- [Rhinoceros 3D]	Commercial software	
+- [ScanIP]	Commercial software	
+- [Sculptris]	Freeware	
+- [Seamless3d]	MIT	
+- [SelfCAD]	Freemium	
+- [Shade 3D]	Commercial software	
+- [SharkCAD]	Commercial software	
+- [Silo]	Commercial software	
+- [SketchUp]	Freemium	
+- [Solid Edge]	Commercial software	
+- [solidThinking]	Commercial software	
+- [SolidWorks]	Commercial software	
+- [SpaceClaim]	Commercial software	
+- [Strata 3D]	Commercial software	
+- [Sweet Home 3D]	GNU GPL	
+- [Swift 3D]	Commercial software	
+- [Tekla Structures]	Commercial software	
+- [TrueSpace]	Freeware	
+- [Wings 3D]	BSD	
+- [Wolfram Mathematica]	Commercial software	
+- [ViaCAD]	Commercial software	
+- [ZBrush]	Commercial software	
+- [Zmodeler]	Commercial software	
