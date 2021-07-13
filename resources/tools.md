@@ -73,13 +73,13 @@ A quick guide presenting some of the best 3rd party software you can use to crea
 - [RFEM]	Commercial software	
 - [Rhinoceros 3D]	Commercial software	
 - [ScanIP]	Commercial software	
-- [Sculptris]	Freeware	
+- [Sculptris](https://www.sculpteo.com/en/glossary/sculptris-definition/): 3D Sculpting Tool, Integrated in **Zbrush** as well. Free software.		
 - [Seamless3d]	MIT	
 - [SelfCAD]	Freemium	
 - [Shade 3D]	Commercial software	
 - [SharkCAD]	Commercial software	
 - [Silo]	Commercial software	
-- [SketchUp]	Freemium	
+- [SketchUp](https://sketchup.com/): 3D Interior and Exterior architectural modeling. Freemium. 	
 - [Solid Edge]	Commercial software	
 - [solidThinking]	Commercial software	
 - [SolidWorks]	Commercial software	
@@ -92,5 +92,5 @@ A quick guide presenting some of the best 3rd party software you can use to crea
 - [Wings 3D]	BSD	
 - [Wolfram Mathematica]	Commercial software	
 - [ViaCAD]	Commercial software	
-- [ZBrush]	Commercial software	
-- [Zmodeler]	Commercial software	
+- [ZBrush](http://pixologic.com/): 3D Sculpting Tool. Commercial software.	
+- [Zmodeler](https://www.zmodeler3.com/): 3D Hard Surface modeling Tool, Integrated in **Zbrush** as well. Commercial software.	
