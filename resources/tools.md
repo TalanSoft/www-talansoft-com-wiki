@@ -21,10 +21,10 @@ A quick guide presenting some of the best 3rd party software you can use to crea
 - [AutoCAD]	Commercial software	
 - [AutoQ3D Community]	GNU GPLv2 +	
 - [AutoQ3D]	Commercial software	
-- [Autodesk 3ds Max]	Commercial software	
+- [Autodesk 3ds Max] (https://www.autodesk.com.sg/products). 3D Modeling, Rigging, Animation, Renderer & Visual Effects Tool. 	Commercial software.	
 - [Autodesk Inventor]	Commercial software	
-- [Autodesk Maya]	Commercial software	
-- [Autodesk Mudbox]	Commercial software	
+- [Autodesk Maya](https://www.autodesk.com.sg/products). 3D Modeling, Rigging, Animation, Renderer & Visual Effects Tool. 	Commercial software.		
+- [Autodesk Mudbox](https://www.autodesk.com.sg/products). 3D Modeling and Sculpting Tool. Commercial software.	
 - [Autodesk Revit]	Commercial software	
 - [Autodesk Softimage]	Commercial software	
 - [Autodesk Fusion 360]	Commercial software	
@@ -35,7 +35,7 @@ A quick guide presenting some of the best 3rd party software you can use to crea
 - [CATIA]	Commercial software	
 - [Carrara]	Commercial software	
 - [Cheetah3D]	Commercial software	
-- [Cinema 4D]	Commercial software	
+- [Cinema 4D](https://www.maxon.net/en/cinema-4d). 3D Modeling, Rigging, Animation, Renderer & Visual Effects Tool. 	Commercial software.			
 - [CityEngine]	Commercial software	
 - [Clara.io]	Freemium	
 - [Daz Studio]	Freeware	
@@ -47,7 +47,7 @@ A quick guide presenting some of the best 3rd party software you can use to crea
 - [FreeCAD]	GNU LGPL	
 - [Geomodeller3D]	Commercial software	
 - [Hexagon]	Commercial software	
-- [Houdini]	Commercial software	
+- [Houdini](https://www.sidefx.com/). 3D Modeling, Rigging, Animation, Renderer & Visual Effects Tool. 	Commercial software.		
 - [IRONCAD]	Commercial software	
 - [KeyCreator]	Commercial software	
 - [LightWave 3D]	Commercial software	
