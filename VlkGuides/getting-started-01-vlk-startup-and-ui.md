@@ -35,59 +35,65 @@ Located on the Top Left of the Screen, 3 major tabs.
 
 
 **A) Center (File Manager)** 
-![center_view_transform_button_01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/center_view/center_view_transform_button_01.png)
+
+![center_view_transform_button_01](uploads/4d5e3e2ad9ca4577c07b17724064af71/Screenshot_2021-07-14_at_11.15.53_AM)
 
 **Application**
-- Open an existing project
-- Create a New project
-- Reload the open application
+
+1. Open an existing project
+2. Create a New project
+3. Reload the open application
 
 **Levels**
-- Save Current Level
-- Create new level
-- Save the Current Level as
+1. Save Current Level
+2. Create new level
+3. Save the Current Level as
 
 **Tools**
-- Publish the Application
+1. Publish the Application
 
-**B) View (Viewport window)** ![center_view_transform_button_02](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/center_view/center_view_transform_button_02.png)
+**B) View (Viewport window)** 
+
+![center_view_transform_button_02](uploads/a3dbbbe218cf757c117a8627565adcaf/Screenshot_2021-07-14_at_11.16.48_AM)
 
 **Layout**
-- Set Single View
-- Set Two View
+1. Set Single View
+2. Set Two View
 
-**Ultils**
-- Move the Camera to the selected Entity
-- Set to Fullscreen
-- Display Selectable Icons
-- Display Physic Bounding Box
+**Utils**
+1. Move the Camera to the selected Entity
+2. Set to Fullscreen
+3. Display Selectable Icons
+4. Display Physic Bounding Box
 
 **Render Mode**
-- Set the regular render mode
-- Set the VR render mode
-- Set the AR render mode
+1. Set the regular render mode
+2. Set the VR render mode
+3. Set the AR render mode
 
-**C) Transform (Gizmo Setting)** ![center_view_transform_button_03](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/center_view/center_view_transform_button_03.png)
+**C) Transform (Gizmo Setting)** 
+
+![center_view_transform_button_03](uploads/43f09a8f4615bc42804033bc8205b076/Screenshot_2021-07-14_at_11.24.32_AM)
 
 **Gizmo**
-- Move Tool
-- Rotate Tool
-- Scale Tool
-- Selection Tool
-- Clear Selection
-- Show the Selection Box
-- Ground the Enity
-- Transfer WorkCamera Translation to elecr
+1. Move Tool
+2. Rotate Tool
+3. Scale Tool
+4. Selection Tool
+5. Clear Selection
+6. Show the Selection Box
+7. Ground the Entity
+8. Transfer WorkCamera Translation to elecr
 
 **Move & Rotate**
-- Set to World Axis
-- Set to Mesh (Local) Axis
+1. Set to World Axis
+2. Set to Mesh (Local) Axis
 
-*Snapping**
-- Move Angular Snap
-- Rotate Angular Snap
+**Snapping**
+1. Move Angular Snap
+2. Rotate Angular Snap
 
-## Library Overview
+# 02 Library Overview
 
 The **Library menu** allows you to import assets inside your application and it is split into 7 tabs:
 ![Library Menu](https://aws1.discourse-cdn.com/standard11/uploads/talansoft/original/1X/a82238140f51d83700488b27723c7ae27f4fb8b9.jpeg)
@@ -95,6 +101,7 @@ The **Library menu** allows you to import assets inside your application and it 
 **a) Levels**
 
 - Your project will be saved as a **Level** and displayed in this tab. If your scenes are complex, you can split them into different levels and call them individually via a master level.
+- To change between levels, drag the selected level from the library and drop it in the timeline
 - We recommend in addition that you save your work in progress incrementally under new levels so that you can go back to a previous iteration if anything goes wrong.
 - Modifying attributes in a later iteration does not affect previous iterations.
 - All iterations / levels will be displayed in this tab.
