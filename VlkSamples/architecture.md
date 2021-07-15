@@ -7,7 +7,7 @@ This template can be used on Valkyrie's app, We3D, that allows you to view it in
 
 - [We3D Requirements](https://gitlab.talansoft.com/pub/wiki/wikis/valkyrie-for-iOS)
 
-![img](https://cdn2.talansoft.com/ftp/img/www/Design-and-Construction-1600x1200-v2.jpg)
+![img](https://cdn2.talansoft.com/ftp/img/www/design-and-construction-1600x1200-v2.jpg)
 
 # Downloads
 
@@ -21,14 +21,14 @@ This template can be used on Valkyrie's app, We3D, that allows you to view it in
 
 # Functionalities
 **Left Click** on the glasses icon to view the house from **Street View**. 
-![Street_view_01](https://media.giphy.com/media/D3zjlv07VYjf0VwcMk/giphy.gif)
+![Street_view_01](https://media.giphy.com/media/d3zjlv07vyjf0vwcmk/giphy.gif)
 
 Use the **W,S,A,D** keys and hold **Right Click** on the mouse to **Move** around the house. 
-![Moving_around_02](https://media.giphy.com/media/6aUP3dZjsG3HcTpmxI/giphy.gif)
+![Moving_around_02](https://media.giphy.com/media/6aup3dzjsG3hctpmxi/giphy.gif)
 
 **Left Click** on a door, and it will **Open** to enable you to move between rooms.
-![Opening_door_03](https://media.giphy.com/media/ZaubihlkDVljNg9BeK/giphy.gif)
+![Opening_door_03](https://media.giphy.com/media/zaubihlkcvljng9bek/giphy.gif)
 
 **Left Click** on the planet icon to switch back to **Birds Eye View**. 
-![Bird's_eye_view_04](https://media.giphy.com/media/USBqrAC2ppWzChPmcc/giphy.gif)
+![Bird's_eye_view_04](https://media.giphy.com/media/usbqrac2ppwzchpmcc/giphy.gif)
 
