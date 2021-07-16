@@ -10,7 +10,7 @@ This sample is a a practical example of what can be made in Vlk with no-code for
 
 - [Vpk Download](https://cdn2.talansoft.com/ftp/samples/Tesla-Template-Version-1.vpk). This is the exported application that you can experience on your phone with [We3D](https://www.talansoft.com/vlk/downloads#we3d) or desktop with [Valkyrie](https://www.talansoft.com/vlk/downloads#vlk).
 - [Vlk Project Download](https://cdn2.talansoft.com/ftp/samples/Tesla-Template-Version-1.zip). This is the source project that you can tinker with in the [Valkyrie editor](https://www.talansoft.com/vlk/downloads#vlk).
-- [Try it in your browser.](https://intern.talansoft.com/webplayer/Vlk/bin/web-js/VlkPlayerSA_ra.html?OpenFile=/webplayer/_Packages/Tesla-Template-Version-1.vpk)
+- [Try it in your browser.](https://cdn2.talansoft.com/ftp/webplayer/v20210715/Vlk/bin/web-js/VlkPlayerSA_ra.html?OpenFile=https://cdn2.talansoft.com/ftp/samples/Tesla-Template-Version-1.vpk)
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=YXCvhsdOVjA"><img src="https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_yt_placeholder.png" alt="How to create a product customizer without coding"></a>
