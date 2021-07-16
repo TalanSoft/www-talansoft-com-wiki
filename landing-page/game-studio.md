@@ -10,3 +10,5 @@ Our intuitive timeline-based interface streamlines production pipelines, allowin
 Check out this game template:  
 <a href="https://www.talansoft.com/md/docs/VlkSamples/fps"><img src= "https://cdn2.talansoft.com/ftp/img/www/Games-1600x1200.jpg" alt="Your FPS template" width="256"></a>  
 ### Try Valkyrie [**free**](https://www.talansoft.com/vlk/downloads)  
+
+You can also try on our web player this [flappy bird](https://cdn2.talansoft.com/ftp/webplayer/v20210715/Vlk/bin/web-js/VlkPlayerSA_ra.html?OpenFile=https://cdn2.talansoft.com/ftp/samples/FlappyBird.vpk) game  that was developed in Valkyrie
