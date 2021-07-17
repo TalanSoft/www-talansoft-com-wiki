@@ -1,9 +1,9 @@
 # 3D artists & designers
 ## Easily create interactive apps, prototypes and designs
 
-**Video of Flappy Birds game or the Tesla video**
-
 Valkyrie no-code creative platform lets you easily create cutting edge interactive applications, designs or life-like AR experiences to stand out from the crowd.  
+
+![iOS-dragon_on_keyboard-Iphone](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/ios-dragon_on_keyboard-Iphone-5.5b-v2.png)  
 
 You are millions of designers in the world but only a handful of you are also software engineers. Designers have great ideas. We empower you to flesh these ideas into applications without programming, without the help from anyone else.  
 
@@ -15,4 +15,4 @@ Check out this AR template:
 <a href="https://www.talansoft.com/md/docs/VlkSamples/ar-dragon"><img src= "https://cdn2.talansoft.com/ftp/img/www/Dragon-AR-3.png" alt="Your education template" width="256"></a>  
 ### Try Valkyrie [**free**](https://www.talansoft.com/vlk/downloads)  
 
-Should you be keen, there are more templates available here, and the list will keep growing!
+Should you be keen, there are more templates available [here](https://www.talansoft.com/md/docs/home#_Samples_), and the list will keep growing!
