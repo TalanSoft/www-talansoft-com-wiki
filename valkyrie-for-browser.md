@@ -1,4 +1,4 @@
-The web player can run vpk properly with the following browsers:
+The web player runs vpk properly with the following browsers:
 * macOS: Safari, Firefox, Chrome  
 * Windows: Firefox, Chrome, Edge (the new Webkit based version)  
 * Linux: Firefox & Chrome  
