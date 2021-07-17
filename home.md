@@ -35,3 +35,4 @@
 - [Valkyrie for macOS](./Valkyrie-for-macOS)
 - [Valkyrie & We3D for iOS](./Valkyrie-for-iOS)
 - [Valkyrie for Linux](./Valkyrie-for-Linux)
+- [Valkyrie for web browser](./Valkyrie-for-browser)
