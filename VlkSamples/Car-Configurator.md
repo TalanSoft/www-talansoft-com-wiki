@@ -15,7 +15,7 @@ This sample is a a practical example of what can be made in Vlk with no-code for
 # Editor guide
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=YXCvhsdOVjA"><img src="https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_yt_placeholder.png" alt="How to create a product customizer without coding"></a>
+  <a href="https://www.youtube.com/watch?v=YXCvhsdOVjA" target="_blank"><img src="https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_yt_placeholder.png" alt="How to create a product customizer without coding"></a>
 </div>
 
 # Vpk guide
