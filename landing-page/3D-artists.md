@@ -5,7 +5,7 @@
 
 Valkyrie no-code creative platform lets you easily create cutting edge interactive applications, designs or life-like AR experiences to stand out from the crowd.  
 
-There are 65 million designers and modelers in the world of which only 11 million are software developers. Designers have great ideas. We empower them to flesh these ideas into applications.  
+You are millions of designers in the world but only a handful of you are also software engineers. Designers have great ideas. We empower you to flesh these ideas into applications without programming, without the help from anyone else.  
 
 Prepare for the reality of tomorrow’s market and become a professional capable of designing a beautiful user interface & package it in a software application that has a business impact. Compete for higher paying development work without having to learn how to code!    
 
@@ -14,3 +14,5 @@ Our intuitive timeline-based interface streamlines production pipelines, allowin
 Check out this AR template:  
 <a href="https://www.talansoft.com/md/docs/VlkSamples/ar-dragon"><img src= "https://cdn2.talansoft.com/ftp/img/www/Dragon-AR-3.png" alt="Your education template" width="256"></a>  
 ### Try Valkyrie [**free**](https://www.talansoft.com/vlk/downloads)  
+
+Should you be keen, there are more templates available here, and the list will keep growing!
