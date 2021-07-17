@@ -6,8 +6,11 @@ Join the *Exquisite And Rapid Terrain Helper* or E.A.R.T.H and help defend Earth
 
 # Downloads
 
-- [Vpk presentation download](https://cdn2.talansoft.com/ftp/samples/EarthDefender.vpk). This is the exported presentation that you can play on your phone with [We3D](https://www.talansoft.com/vlk/downloads#we3d) or desktop with [Valkyrie](https://www.talansoft.com/vlk/downloads#vlk).
+- [Vpk Download](https://cdn2.talansoft.com/ftp/samples/EarthDefender.vpk). This is the exported presentation that you can experience on your phone with [We3D](https://www.talansoft.com/vlk/downloads#we3d) or desktop with [Valkyrie](https://www.talansoft.com/vlk/downloads#vlk).
 - [Vlk project download](https://cdn2.talansoft.com/ftp/samples/EarthDefender.zip). This is the source project that you can tinker with in the [Valkyrie editor](https://www.talansoft.com/vlk/downloads#vlk).
+
+# Web player
+For a quick peek, [try it in your browser](https://cdn2.talansoft.com/ftp/webplayer/v20210715/Vlk/bin/web-js/VlkPlayerSA_ra.html?OpenFile=https://cdn2.talansoft.com/ftp/samples/EarthDefender.vpk)
 
 # In-game Tutorial
 Objective: Protect Earth from being destroyed.  
@@ -21,7 +24,7 @@ Objective: Protect Earth from being destroyed.
 **Step 04:** Once defeated, simple **Tap or Left-click** the **Restart** text on screen to replay and reset the score.
 
 # Tips within Valkyrie 
-This few section are here to help those who wants to play around with the Valkyrie project file. 
+This few section are here to help those who wants to play around with the Valkyrie project file.  
 
 ### Playing from Valkyrie itself 
 ![ed_play_function_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/recent/ed_play_function_gif_01.gif)  
@@ -34,5 +37,9 @@ This few section are here to help those who wants to play around with the Valkyr
 ![ed_03_gameplay01.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/ed_03_gameplay01.png)  
 ![ed_04_gameplay02.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/ed_04_gameplay02.png)  
 
+# Links
+You might also be interested in these templates:  
+- [Flappy Bird](https://www.talansoft.com/md/docs/VlkSamples/flappy-bird)
+- [AR dragon](https://www.talansoft.com/md/docs/VlkSamples/ar-dragon)
 
 
