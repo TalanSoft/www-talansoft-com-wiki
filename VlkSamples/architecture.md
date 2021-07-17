@@ -1,18 +1,14 @@
 # Architecture
 With the architecture template you are able to view a house or apartment, moving through rooms, and opening doors. 
 
-This template is an example of what can be made in Vlk with no-code for the real estate and interior design industries.
-
-This template can be used on Valkyrie's app, We3D, that allows you to view it in 3D and AR. 
-
-- [We3D Requirements](https://gitlab.talansoft.com/pub/wiki/wikis/valkyrie-for-iOS)
+This template is an example of what can be made in Valkyrie without coding for the real estate and interior design industries.
 
 ![img](https://cdn2.talansoft.com/ftp/img/www/design-and-construction-1600x1200-v2.jpg)
 
 # Downloads
 
-- [Vpk presentation download](https://cdn2.talansoft.com/ftp/samples/Architecture-Template-V2.vpk)
-- [Vlk project download](https://cdn2.talansoft.com/ftp/samples/Architecture-Template-V2.zip)
+- [Vpk Download](https://cdn2.talansoft.com/ftp/samples/Architecture-Template-V2.vpk). This is the exported application that you can experience on your phone with [We3D](https://www.talansoft.com/vlk/downloads#we3d) or desktop with [Valkyrie](https://www.talansoft.com/vlk/downloads#vlk).
+- [Vlk Project Download](https://cdn2.talansoft.com/ftp/samples/Architecture-Template-V2.zip). This is the source project that you can tinker with in the [Valkyrie editor](https://www.talansoft.com/vlk/downloads#vlk).
 
 # Instructions
 - Use **W,S,A,D** keys to move **backwards, forwards** and **side to side**
@@ -32,3 +28,6 @@ Use the **W,S,A,D** keys and hold **Right Click** on the mouse to **Move** aroun
 **Left Click** on the planet icon to switch back to **Birds Eye View**. 
 ![Bird's_eye_view_04](https://media.giphy.com/media/usbqrac2ppwzchpmcc/giphy.gif)
 
+You might also be interested in these templates:  
+- [Car configurator](https://www.talansoft.com/md/docs/VlkSamples/Car-Configurator)
+- [FPS](https://www.talansoft.com/md/docs/VlkSamples/fps)
