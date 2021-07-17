@@ -4,8 +4,11 @@ Help Amelia Birdhart navigate through a series of Bald Trees! A single touch gam
 ![fb_04_title.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/fb_04_title.png)  
 
 # Downloads
-- [Vpk presentation download](https://cdn2.talansoft.com/ftp/samples/FlappyBird.vpk). This is the exported presentation that you can play on your phone with [We3D](https://www.talansoft.com/vlk/downloads#we3d) or desktop with [Valkyrie](https://www.talansoft.com/vlk/downloads#vlk).
+- [Vpk Download](https://cdn2.talansoft.com/ftp/samples/FlappyBird.vpk). This is the exported application that you can experience on your phone with [We3D](https://www.talansoft.com/vlk/downloads#we3d) or desktop with [Valkyrie](https://www.talansoft.com/vlk/downloads#vlk).
 - [Vlk project download](https://cdn2.talansoft.com/ftp/samples/FlappyBird.zip). This is the source project that you can tinker with in the [Valkyrie editor](https://www.talansoft.com/vlk/downloads#vlk).
+
+# Web player
+For a quick peek, [try it in your browser](https://cdn2.talansoft.com/ftp/webplayer/v20210715/Vlk/bin/web-js/VlkPlayerSA_ra.html?OpenFile=https://cdn2.talansoft.com/ftp/samples/FlappyBird.vpk)
 
 # In-game Tutorial
 Objective: Get as far as you can before you crash. 
@@ -40,3 +43,7 @@ You can change the Background colour or even background image of the scenic back
 ![fb_02_gameplay01](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/fb_02_gameplay01.png)
 ![fb_03_gameplay02](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/fb_03_gameplay02.png)
 
+# Links
+You might also be interested in these templates:  
+- [Earth Defender](https://www.talansoft.com/md/docs/VlkSamples/earth-defender)
+- [AR dragon](https://www.talansoft.com/md/docs/VlkSamples/ar-dragon)
