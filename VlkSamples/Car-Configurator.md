@@ -12,7 +12,7 @@ This sample is a a practical example of what can be made in Vlk with no-code for
 - [Vlk Project Download](https://cdn2.talansoft.com/ftp/samples/Tesla-Template-Version-1.zip). This is the source project that you can tinker with in the [Valkyrie editor](https://www.talansoft.com/vlk/downloads#vlk).
 
 # Web player
-For a quick peek, [try it in your browser](https://cdn2.talansoft.com/ftp/webplayer/v20210715/Vlk/bin/web-js/VlkPlayerSA_ra.html?OpenFile=https://cdn2.talansoft.com/ftp/samples/Tesla-Template-Version-1.vpk)
+For a quick peek, [try it in your browser](https://www.talansoft.com/vlk/samples/wip/Tesla-Template-Version-1.vpk)
 
 # Video
 <div align="center">
