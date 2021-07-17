@@ -33,6 +33,7 @@
 # System Version
 - [Valkyrie for Windows](./Valkyrie-for-Windows)
 - [Valkyrie for macOS](./Valkyrie-for-macOS)
-- [Valkyrie & We3D for iOS](./Valkyrie-for-iOS)
 - [Valkyrie for Linux](./Valkyrie-for-Linux)
-- [Valkyrie for web browser](./Valkyrie-for-browser)
+- [We3D - Valkyrie player for iOS](./Valkyrie-for-iOS)
+- [We3D - Valkyrie player for Android](./Valkyrie-for-android)
+- [Valkyrie player for web browser](./Valkyrie-for-browser)
