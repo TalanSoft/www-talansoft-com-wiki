@@ -5,8 +5,8 @@ Classic FPS environment that enables your avatar to walk freely in a 3D world. T
 
 # Downloads
 
-- [Vpk Download](https://cdn2.talansoft.com/ftp/samples/FPS-Sample.vpk)
-- [Vlk project download](https://cdn2.talansoft.com/ftp/samples/FPS-Sample.zip)
+- [Vpk Download](https://cdn2.talansoft.com/ftp/samples/FPS-Sample.vpk). This is the exported application that you can experience on your phone with [We3D](https://www.talansoft.com/vlk/downloads#we3d) or desktop with [Valkyrie](https://www.talansoft.com/vlk/downloads#vlk).
+- [Vlk project download](https://cdn2.talansoft.com/ftp/samples/FPS-Sample.zip). This is the source project that you can tinker with in the [Valkyrie editor](https://www.talansoft.com/vlk/downloads#vlk).
 
 # Links
 You might also be interested in these templates:  
