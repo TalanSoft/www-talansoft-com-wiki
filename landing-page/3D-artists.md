@@ -3,7 +3,7 @@
 
 Valkyrie no-code creative platform lets you easily create cutting edge interactive applications, designs or life-like AR experiences to stand out from the crowd.  
 
-![iOS-dragon_on_keyboard-Iphone](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/ios-dragon_on_keyboard-Iphone-5.5b-v2.png)  
+<img src= "https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/ios-dragon_on_keyboard-Iphone-5.5b-v2.png" alt="AR dragon on my keyboard" width="256"></a>  
 
 You are millions of designers in the world but only a handful of you are also software engineers. Designers have great ideas. We empower you to flesh these ideas into applications without programming, without the help from anyone else.  
 
