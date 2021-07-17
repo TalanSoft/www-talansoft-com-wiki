@@ -7,3 +7,11 @@ Teach your students how to use AR to anchor different 3D models, animated or sta
 
 - [Vpk download](https://cdn2.talansoft.com/ftp/samples/AR-Sample-V2.vpk). This is the exported application that you can experience on your phone with [We3D](https://www.talansoft.com/vlk/downloads#we3d) or desktop with [Valkyrie](https://www.talansoft.com/vlk/downloads#vlk).
 - [Vlk project download](https://cdn2.talansoft.com/ftp/samples/AR-Sample-V2.zip). This is the source project that you can tinker with in the [Valkyrie editor](https://www.talansoft.com/vlk/downloads#vlk).
+
+# Web player
+For a quick peek, [try it in your browser](https://www.talansoft.com/vlk/samples/ar-education/AR-Sample-V2.vpk)  
+
+# Links
+You might also be interested in these templates:  
+- [Car Configurator](https://www.talansoft.com/md/docs/VlkSamples/car-configurator)
+- [AR dragon](https://www.talansoft.com/md/docs/VlkSamples/ar-dragon)
