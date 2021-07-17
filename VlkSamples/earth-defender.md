@@ -1,6 +1,6 @@
 
 # Earth Defender
-Join the *Exquisite And Rapid Terrain Helper* or E.A.R.T.H and help defend Earth against the numerous dangerous meteors! A single touch game with score tracking.  
+Join the *Exquisite And Rapid Terrain Helper* or E.A.R.T.H and help defend Earth against a shower of dangerous meteors! A single touch game with score tracking.  
 
 ![ed_02_titlescreen.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/ed_02_titlescreen.png)  
 
