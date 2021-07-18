@@ -96,6 +96,6 @@ You might also be interested in these templates:
 - [Car configurator](./Car-Configurator)
 
 #Additional Screenshots 
-![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/09_ingame_01.PNG)
+![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/09_ingame_01.png)
 
-![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/10_ingame02_01.PNG)
+![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/10_ingame02_01.png)
