@@ -1,8 +1,6 @@
 # Architecture
 ## Create interactive models faster and easier
 
-**Condo walkthrough on sidewalk video**
-
 Easily create interactive walkthroughs of your projects with Valkyrie no-code creative platform. Make real-time immersive AR experiences & 3D demos without endless video rendering and without programming.  
  
 Import your AutoCAD or Revit files directly and quickly, then combine them with other digital assets into interactive projects.  
