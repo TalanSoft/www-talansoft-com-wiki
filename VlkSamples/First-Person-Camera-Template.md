@@ -24,27 +24,42 @@ The camera view follows the usage of the Mouse
 ### Drag the Building Pieces 
 
 #### 1) Locate the Objects 
-a) Go to the Data Files.
+**a)** Go to the Data Files.
  
 ![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/02_datalogo.PNG)
  
-b) All assets are located in the **Assets Folder**.
+**b)** All assets are located in the **Assets Folder**.
  
-c) Pick the object you want to use and **Drag it** into either the **Viewport** or **Timeline** directly.
+**c)** Pick the object you want to use and **Drag it** into either the **Viewport** or **Timeline** directly.
 
 
 #### 2) Setting up the Object Collision
-a) Under the **Inspector tab**, locate the sub-section under it called **Physic**. 
+**a)** Under the **Inspector tab**, locate the sub-section under it called **Physic**. 
 
 ![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/03_physic_tab.PNG)
 
-b) In the **Shape_type**, change the shape design to **Mesh**
+**b)** In the **Shape_type**, change the shape design to **Mesh**
 
-c) Right below it, **Size** set the size of the collision, ensure all 3 values are at least **1.00**. 
+**c)** Right below it, **Size** set the size of the collision, ensure all 3 values are at least **1.00**. 
 
-d) This now allows the object to be have collision, allowing your camera to not go through it.
+**d)** This now allows the object to be have collision, allowing your camera to not go through it.
 
-e) **Debug Tip**. Sometimes when doing this, the object may disappear. A quick way to solve this is to have that missing object selected in your timeline. 
+**e)** **Debug Tip**. Sometimes when doing this, the object may disappear. A quick way to solve this is to have that missing object selected in your timeline. 
+
+![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/04_refresh.PNG)
+
+#### 3) Setting up the Shared Materials
+This is an **Optional** step, however it provides an ease & conveniences for allowing multiple duplicated objects to share the same Material setting globally. 
+
+**a)** Under the **Inspector tab**, locate the sub-section under it call **Character**. 
+
+![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/05_character_tab.PNG)
+
+**b)** Enable the option **share_materials**. 
+
+![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/06_shared_material.PNG) 
+
+**c)** **Debug Tip**. Sometimes when doing this, the object may disappear. A quick way to solve this is to have that missing object selected in your timeline. 
 
 ![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/04_refresh.PNG)
 
