@@ -20,5 +20,3 @@ Whoever the commissioner, whatever they want from an interactive dashboard, you 
 * Real-Time CCTV Playback is supported for all IP Camera Brands through the appropriate middleware.  
 * Internal and external video surveillance through MJPEG & RTSP protocol.  
 * Unify all feeds from Any BMS, PSIM, IoT system, Connectivity hardware, submeters…
-
-### Try Valkyrie [**free**](https://www.talansoft.com/vlk/downloads)  
