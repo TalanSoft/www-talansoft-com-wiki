@@ -14,5 +14,5 @@ An iconic character & a good song... Surprise people with this groovy storm troo
 
 You might also be interested in these templates:
 
-- [AR education](./VlkSamples/ar-education)
-- [AR dragon](./VlkSamples/ar-dragon)
+- [AR education](./ar-education)
+- [AR dragon](./ar-dragon)
