@@ -12,5 +12,5 @@ Classic FPS environment that enables your avatar to walk freely in a 3D world. T
 # Links
 
 You might also be interested in these templates:
-- [Flappy bird](./VlkSamples/flappy-bird)
-- [Car configurator](./VlkSamples/Car-Configurator)
+- [Flappy bird](./flappy-bird)
+- [Car configurator](./Car-Configurator)
