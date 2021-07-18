@@ -11,14 +11,14 @@
 - [Retrieve live bitcoin USD value from a Web API](VlkGuides/retrieve-btc-usd-http-web-api)
 
 # Project Templates
-- [Car Configurator](./VlkSamples/Car-Configurator) (AR & 3D)
-- [AR Education](./VlkSamples/ar-education) (AR)
-- [AR Dragon](./VlkSamples/ar-dragon) (AR & 3D)
-- [AR Storm Trooper with music](./VlkSamples/ar-storm-trooper) (AR & 3D & Audio)
-- [Architecture](./VlkSamples/architecture) (AR & 3D)
-- [Earth Defender](./VlkSamples/earth-defender) (Simple 3D touch based game)
-- [Flappy Bird](./VlkSamples/flappy-bird) (Simple 3D touch based game)
-- [First Person Camera Environment](./VlkSamples/First-Person-Camera-Environment ) (3D FPS desktop game - mouse & keyboard)
+- [Car Configurator](./VlkSamples/Car-Configurator) (Web, AR, 3D)
+- [AR Education](./VlkSamples/ar-education) (Web, AR, 3D)
+- [AR Dragon](./VlkSamples/ar-dragon) (AR, 3D)
+- [AR Storm Trooper with music](./VlkSamples/ar-storm-trooper) (Web, AR, 3D, Audio)
+- [Architecture](./VlkSamples/architecture) (Web, AR, 3D)
+- [Earth Defender](./VlkSamples/earth-defender) (Web, 3D, touch based game)
+- [Flappy Bird](./VlkSamples/flappy-bird) (Web, 3D, touch based game)
+- [FPS Environment](./VlkSamples/First-Person-Camera-Environment) (3D, mouse & keyboard game)
 
 # Valkyrie References
 - [Forms](./Vlk/RefForms)
