@@ -4,7 +4,7 @@ Classic First Person Camera environment that enables you to walk freely in your 
 This Project Template allows you to quickly generate environment for you to prototype your ideas with. 
 Do ensure that Valkyrie is installed on your computer for this Project Template to run smoothly. 
 
-![01_ingame_03](https://cdn2.talansoft.com/ftp/img/first_person_camera/01_ingame_03.png)
+![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/01_ingame_03.png)
 Captured inside Valkyrie. 
 
 # How to play
@@ -25,7 +25,7 @@ The camera view follows the usage of the Mouse
 
 ##### 1) Locate the Objects 
 a) Go to the Data Files. 
-![02_data_logo_01](https://cdn2.talansoft.com/ftp/img/first_person_camera/01_ingame_03.png)
+![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/02_datalogo.PNG)
  
 b) All assets are located in the **Assets Folder**.
  
