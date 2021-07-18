@@ -1,4 +1,4 @@
-# First Person Camera Template
+# First Person Camera Environment 
 
 Classic First Person Camera environment that enables you to walk freely in your 3D world. This Project Template includes a set of modular building & prop pieces for you to use to create your own environment as well. 
 This Project Template allows you to quickly generate environment for you to prototype your ideas with. 
