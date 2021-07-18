@@ -44,5 +44,5 @@ You can change the Background colour or even background image of the scenic back
 
 # Links
 You might also be interested in these templates:
-- [Earth Defender](./VlkSamples/earth-defender)
-- [AR dragon](./VlkSamples/ar-dragon)
+- [Earth Defender](./earth-defender)
+- [AR dragon](./ar-dragon)
