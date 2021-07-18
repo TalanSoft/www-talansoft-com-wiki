@@ -14,6 +14,6 @@ Our intuitive timeline-based interface streamlines production pipelines, allowin
 Check out this AR template:  
 <a href="VlkSamples/ar-dragon"><img src= "https://cdn2.talansoft.com/ftp/img/www/Dragon-AR-3.png" alt="Your education template" width="256"></a>
 
-### Try Valkyrie <a href="https://www.talansoft.com/vlk/downloads">free</a>
+### Try Valkyrie [**free**](https://www.talansoft.com/vlk/downloads)  
 
-Should you be keen, there are more templates available [here](https://www.talansoft.com/md/docs/home#_Samples_), and the list will keep growing!
+Should you be keen, there are more templates available <a href="https://www.talansoft.com/md/docs/home#_Samples_">here</a>, and the list will keep growing!
