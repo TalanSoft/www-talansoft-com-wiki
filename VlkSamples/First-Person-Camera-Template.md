@@ -44,7 +44,7 @@ The camera view follows the usage of the Mouse
 
 **d)** This now allows the object to be have collision, allowing your camera to not go through it.
 
-**e)** **Debug Tip**. Sometimes when doing this, the object may disappear. A quick way to solve this is to have that missing object selected in your timeline. 
+**e)** **Debug Tip**. Sometimes when doing this, the object may disappear. A quick way to solve this is to have that missing object selected in your timeline. Then select the **Refresh** button.  
 
 ![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/04_refresh.PNG)
 
