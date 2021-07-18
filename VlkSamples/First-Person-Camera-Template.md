@@ -25,6 +25,7 @@ The camera view follows the usage of the Mouse
 
 ##### 1) Locate the Objects 
 a) Go to the Data Files. 
+![02_data_logo_01](https://cdn2.talansoft.com/ftp/img/first_person_camera/02_data_logo_01.png)
  
 b) All assets are located in the **Assets Folder**.
  
