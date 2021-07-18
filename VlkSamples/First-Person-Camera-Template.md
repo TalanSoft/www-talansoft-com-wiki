@@ -4,7 +4,7 @@ Classic First Person Camera environment that enables you to walk freely in your 
 This Project Template allows you to quickly generate environment for you to prototype your ideas with. 
 Do ensure that Valkyrie is installed on your computer for this Project Template to run smoothly. 
 
-![img](https://cdn2.talansoft.com/FTP/cdn2_sync/img/first_person_camera/01_ingame_03.png)
+![img](https://cdn2.talansoft.com/volume1/FTP/cdn2_sync/img/first_person_camera/01_ingame_03.png)
 
 # How to play
 
