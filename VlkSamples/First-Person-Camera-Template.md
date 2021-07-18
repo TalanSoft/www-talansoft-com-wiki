@@ -4,7 +4,7 @@ Classic First Person Camera environment that enables you to walk freely in your 
 This Project Template allows you to quickly generate environment for you to prototype your ideas with. 
 Do ensure that Valkyrie is installed on your computer for this Project Template to run smoothly. 
 
-![img](https://cdn2.talansoft.com/ftp/img/www/Games-1600x1200.jpg)
+![img](https://cdn2.talansoft.com/FTP/cdn2_sync/img/first_person_camera)
 
 # How to play
 
@@ -23,11 +23,17 @@ The camera view follows the usage of the Mouse
 ### Drag the Building Pieces 
 
 ##### 1) Locate the Objects 
-a) Go to the Data Files 
-b) All assets are located in the **Assets Folder** 
+a) Go to the Data Files. 
+ 
+b) All assets are located in the **Assets Folder**.
+ 
 c) Pick the object you want to use and **Drag it** into either the **Viewport** or **Timeline** directly.
 
-##### 2) 
+
+##### 2) Setting up the Object Collision
+a) Under the **Inspector tab**, locate the sub-section under it called **Physic**. 
+
+b) In the **Shape_type**, select the 
 
 
 
