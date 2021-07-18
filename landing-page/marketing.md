@@ -1,8 +1,6 @@
 # Marketing & Creative agencies
 ## Let your design team create interactive apps and prototypes
 
-**Video of stormtrooper or MikuMikuDance**
-
 Valkyrie no-code creative platform lets you easily create cutting edge interactive campaigns for your clients using life-like AR to stand out from the competition. No coding; no more outsourcing; do it all in-house with minimal effort! As a result you keep more revenue and increase pour profit margin.  
 
 Now you can make immersive AR experiences in real-time without endless video rendering and without any programming.  
