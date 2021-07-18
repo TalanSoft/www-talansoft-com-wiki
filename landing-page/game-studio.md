@@ -8,8 +8,10 @@ Valkyrie no-code creative platform lets you easily create cutting edge interacti
 Our intuitive timeline-based interface streamlines production pipelines, allowing quick and easy mixing of multi-format digital assets into interactive designs and prototypes.  
 
 Check out this game template:  
+
 <a href="https://www.talansoft.com/md/docs/VlkSamples/fps"><img src= "https://cdn2.talansoft.com/ftp/img/www/Games-1600x1200.jpg" alt="Your FPS template" width="256"></a>  
 ### Try Valkyrie [**free**](https://www.talansoft.com/vlk/downloads)  
 
 You can also try on our web player this flappy bird game that was developed in Valkyrie:  
+
 <a href="https://www.talansoft.com/vlk/samples/wip/FlappyBird.vpk"><img src= "https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/fb_04_title.png" alt="Your smart city template" width="256"></a>  
