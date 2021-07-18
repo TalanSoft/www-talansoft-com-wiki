@@ -5,7 +5,7 @@ Valkyrie no-code creative platform lets you easily create cutting edge interacti
 
 <img src= "https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/ios-dragon_on_keyboard-Iphone-5.5b-v2.png" alt="AR dragon on my keyboard" width="128"></a>
 
-You are millions of Designers in the world but only a handful of you double as software engineers. You have great ideas! We empower you to flesh these ideas into applications without programming, without the help from anyone else.
+You are millions of Designers in the world but only a handful of you double as software engineers. We empower you to materialize your great ideas into applications without programming, without the help from anyone else.
 
 Prepare for the reality of tomorrow’s market and become a professional capable of designing a beautiful user interface & package it in a software application that has a business impact. Compete for higher paying development work without having to learn how to code!
 
