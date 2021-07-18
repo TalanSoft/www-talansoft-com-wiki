@@ -11,7 +11,7 @@
 - [Retrieve live bitcoin USD value from a Web API](VlkGuides/retrieve-btc-usd-http-web-api)
 
 # Project Templates
-- [Car Configurator](./VlkSamples/Car-Configurator) (AR &3D)
+- [Car Configurator](./VlkSamples/Car-Configurator) (AR & 3D)
 - [AR Education](./VlkSamples/ar-education) (AR)
 - [AR Dragon](./VlkSamples/ar-dragon) (AR & 3D)
 - [AR Storm Trooper with music](./VlkSamples/ar-storm-trooper) (AR & 3D & Audio)
