@@ -15,7 +15,7 @@ Our intuitive timeline-based interface streamlines production pipelines, allowin
 
 ### Try Valkyrie [**free**](https://www.talansoft.com/vlk/downloads)  
 
-### Real-time connectivity
+## Real-time connectivity
 Whoever the commissioner, whatever they want from an interactive dashboard, you can implement all your specification requirements with Valkyrie:
 * Real-Time CCTV Playback is supported for all IP Camera Brands through the appropriate middleware.  
 * Internal and external video surveillance through MJPEG & RTSP protocol.  
