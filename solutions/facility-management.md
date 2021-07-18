@@ -17,7 +17,7 @@ Managers can monitor their facilities, manage their maintenance activities and c
 
 Check out this IoT-connected **digital twin template**:
 
-<a href="/md/docs/home#_Samples_"><img src= "https://cdn2.talansoft.com/ftp/img/www/Facility-Management-1600x1200.jpg" alt="Your digital twin template" /></a>
+<a href="/md/docs/home#_Project_Templates_"><img src= "https://cdn2.talansoft.com/ftp/img/www/Facility-Management-1600x1200.jpg" alt="Your digital twin template" /></a>
 
 ### Try Valkyrie [**free**](/vlk/downloads)
 
