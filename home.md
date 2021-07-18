@@ -18,7 +18,7 @@
 - [Architecture](./VlkSamples/architecture) (AR & 3D)
 - [Earth Defender](./VlkSamples/earth-defender) (Simple 3D touch based game)
 - [Flappy Bird](./VlkSamples/flappy-bird) (Simple 3D touch based game)
-- [FPS](./VlkSamples/fps) (3D FPS desktop game - mouse & keyboard)
+- [First Person Camera Environment](./VlkSamples/First-Person-Camera-Environment ) (3D FPS desktop game - mouse & keyboard)
 
 # Valkyrie References
 - [Forms](./Vlk/RefForms)
