@@ -11,7 +11,7 @@ Using our industry specific EyeOT-3D template, your designers can easily make mo
 
 Managers can monitor their facilities, manage their maintenance activities and control their connected devices from anywhere in the world with mobile 3D dashboards made with Valkyrie.  
 
-Check out this IoT connected digital twin template:  
+**Check out this IoT connected digital twin template**:  
 <a href="https://www.talansoft.com/md/docs/home#_Samples_"><img src= "https://cdn2.talansoft.com/ftp/img/www/Facility-Management-1600x1200.jpg" alt="Your digital twin template" width="256"></a>  
 
 ### Try Valkyrie [**free**](https://www.talansoft.com/vlk/downloads)  
