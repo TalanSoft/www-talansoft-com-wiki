@@ -24,7 +24,7 @@ Check out these templates:
 [Earth Defender](../VlkSamples/earth-defender)
 
 ## First person camera
-<a href="/md/docs/VlkSamples/fps">
+<a href="/md/docs/VlkSamples/First-Person-Camera-Environment">
 <img src= "https://cdn2.talansoft.com/ftp/img/www/Games-1600x1200.jpg" alt="First Person Camera Environment" />
 </a>
 
