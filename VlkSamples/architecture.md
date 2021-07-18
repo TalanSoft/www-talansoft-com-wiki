@@ -21,5 +21,5 @@ This template is an example of what can be made in Valkyrie without coding for t
 # Links
 
 You might also be interested in these templates:
-- [Car configurator](./VlkSamples/Car-Configurator)
-- [FPS](./VlkSamples/fps)
+- [Car configurator](./Car-Configurator)
+- [FPS](./fps)
