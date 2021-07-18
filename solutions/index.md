@@ -1,9 +1,9 @@
 # Solutions
 
 - [Marketing](./marketing)
-- [Education](./Education)
-- [Game Studios](./game-studio)
+- [Education](./education)
+- [Game Studio](./game-studio)
 - [IoT / PSIM / Facility Management](./facility-management)
 - [Smart Cities](./smart-cities)
 - [Architecture](./architecture)
-- [3D Artists](./3D-artists)
+- [3D Artists](./3d-artists)
