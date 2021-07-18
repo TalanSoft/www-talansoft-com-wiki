@@ -1,8 +1,58 @@
-# First Person Shooter
+# First Person Camera Template
 
-Classic FPS environment that enables your avatar to walk freely in a 3D world. This template is not only for entertainment, you could also create educational serious games or virtual tours.
+Classic First Person Camera environment that enables you to walk freely in your 3D world. This Project Template includes a set of modular building & prop pieces for you to use to create your own environment as well. 
+This Project Template allows you to quickly generate environment for you to prototype your ideas with. 
+Do ensure that Valkyrie is installed on your computer for this Project Template to run smoothly. 
 
 ![img](https://cdn2.talansoft.com/ftp/img/www/Games-1600x1200.jpg)
+
+# How to play
+
+To move around, on the keyboard
+- W to Move Forward
+- S to Move Backward
+- A to Move Left
+- D to Move Right
+
+The camera view follows the usage of the Mouse
+- To pan the camera: Hold the Right Click and Move the Mouse around.
+
+
+# How to use the Project Template
+
+### Drag the Building Pieces 
+
+##### 1) Locate the Objects 
+a) Go to the Data Files 
+b) All assets are located in the **Assets Folder** 
+c) Pick the object you want to use and **Drag it** into either the **Viewport** or **Timeline** directly.
+
+##### 2) 
+
+
+
+* Tags/Stats: Time to make, categories (3D, AR, Game, IoT, ...)
+* Download to Vpk presentation, playable in the Vlk Player that is installed by the Vlk installer or We3D on iOS & Android.
+* Download to Zip file with the Vlk project which can be opened in Vlk and used as a base for your own project.
+* 3 screenshots, intro pic, in game pic and Valkyrie UI pic
+* Overview description of the sample.
+* How to use the template? Example: once you’re Valkyrie, how to you start and maybe what can you do with it, like hmmm, change the score, background whatever.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Downloads
 
