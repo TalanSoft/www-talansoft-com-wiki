@@ -44,7 +44,7 @@ The camera view follows the usage of the Mouse
 
 **d)** This now allows the object to be have collision, allowing your camera to not go through it.
 
-**e)** **Debug Tip**. Sometimes when doing this, the object may disappear. A quick way to solve this is to have that missing object selected in your timeline. Then select the **Refresh** button.  
+**e)** **Debug Tip**. Sometimes when doing this, the object may disappear. A quick way to solve this is to have that missing object selected in your timeline. Then select the **Refresh** button and it should reappear.  
 
 ![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/04_refresh.PNG)
 
@@ -59,9 +59,28 @@ This is an **Optional** step, however it provides an ease & conveniences for all
 
 ![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/06_shared_material.PNG) 
 
-**c)** **Debug Tip**. Sometimes when doing this, the object may disappear. A quick way to solve this is to have that missing object selected in your timeline. 
+**c)** **Debug Tip**. Sometimes when doing this, the object may disappear. A quick way to solve this is to have that missing object selected in your timeline. Then select the **Refresh** button and it should reappear.  
 
 ![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/04_refresh.PNG)
+
+# Tips
+
+### Ensuring your models are perfectly placed 
+
+#### Translate Values
+Avoid having decimals values within the **Translate** values especially for the bigger pieces to avoid the misalignment. 
+
+![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/07_transform.PNG)
+
+#### Snapping Move   
+**a)** Enable the Snapping function to move specific values to ensure proper modulation among the different objects. 
+Recommended Settings 
+*  Move set to 10. This will always ensure when moving, it + or - 10 to any translate movement.
+*  Rotate to 15. This will always ensure when rotating, it + or - 15 to any translate movement.
+
+
+
+![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/08_snapmenu.PNG)
 
 
 * Tags/Stats: Time to make, categories (3D, AR, Game, IoT, ...)
@@ -70,22 +89,6 @@ This is an **Optional** step, however it provides an ease & conveniences for all
 * 3 screenshots, intro pic, in game pic and Valkyrie UI pic
 * Overview description of the sample.
 * How to use the template? Example: once you’re Valkyrie, how to you start and maybe what can you do with it, like hmmm, change the score, background whatever.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Downloads
 
