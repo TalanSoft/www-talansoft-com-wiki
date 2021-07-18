@@ -3,6 +3,8 @@
 
 Valkyrie no-code creative platform lets you easily create customized enterprise solutions to manage your infrastructure. No more outsourcing, now you can do all of your projects in-house with real-time IoT connectivity and live video-streaming.  
 
+<img src= "https://cdn2.talansoft.com/ftp/img/docs/case_studies/eyeOT/eyeOT.jpg" alt="IoT interactive dashboard" width="256"></a>
+
 Get inspired by our past projects where designers created and published interactive dashboards for data centers, malls, airports and manufacturing sites.  
 
 <img src= "https://cdn2.talansoft.com/ftp/img/www/eyeot3d-daylight-simulation.jpg" alt="Building management system" width="256">  
