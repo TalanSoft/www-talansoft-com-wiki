@@ -9,6 +9,8 @@ Using our industry specific templates, your designers can easily make immersive 
 
 Our intuitive timeline-based interface streamlines production pipelines, allowing quick and easy mixing of multi-format digital assets into interactive designs and dashboards.  
 
-Check out this smart city template:  
-<a href="https://www.talansoft.com/md/docs/home#_Samples_"><img src= "https://cdn2.talansoft.com/ftp/img/www/smart-city.png" alt="Your smart city template" width="256"></a>  
+Check out this smart city application in your browser:  
+<a href="https://www.talansoft.com/vlk/samples/wip/Test-Manhattan-Project.vpk"><img src= "https://cdn2.talansoft.com/ftp/img/www/smart-city.png" alt="Your smart city template" width="256"></a>  
+And stay tune for the ready-to-use template coming very soon!  
+
 ### Try Valkyrie [**free**](https://www.talansoft.com/vlk/downloads)  
