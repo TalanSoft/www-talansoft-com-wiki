@@ -33,8 +33,8 @@ Your digital twin and dashboard created with Valkyrie will run natively on:
 ## Realistic 3D Visualization
 Valkyrie has a powerful rendering engine that allows you to obtain AAA real-time graphics. This will allow your clients to:  
 * Identify buildings and equipment instantly with high-resolution 3D models.
-* Empower individual team members on quality management and geographic orientation.
-* Facilitate training with virtual tours and situational simulations.
+* Empower individual team members on quality management and facilitate geographic orientation.
+* Promote training with virtual tours and situational simulations.
 * Create multiple graphic modes: realistic, xRay and more.
 
 ## Robust and versatile architecture
