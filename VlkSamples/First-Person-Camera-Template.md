@@ -84,15 +84,10 @@ Recommended Settings
 
 ![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/08_snapmenu.PNG)
 
-
-* Tags/Stats: Time to make, categories (3D, AR, Game, IoT, ...)
-* Download to Vpk presentation, playable in the Vlk Player that is installed by the Vlk installer or We3D on iOS & Android.
-* Download to Zip file with the Vlk project which can be opened in Vlk and used as a base for your own project.
-
 # Downloads
 
-- [Vpk Download](https://cdn2.talansoft.com/ftp/samples/FPS-Sample.vpk). This is the exported application that you can experience on your phone with [We3D](/vlk/downloads#we3d) or desktop with [Valkyrie](/vlk/downloads#vlk).
-- [Vlk project download](https://cdn2.talansoft.com/ftp/samples/FPS-Sample.zip). This is the source project that you can tinker with in the [Valkyrie editor](/vlk/downloads#vlk).
+- [Vpk Download](https://cdn2.talansoft.com/ftp/samples/FirstPersonCamera-Sample-V03.vpk). This is the exported application that you can experience on your phone with [We3D](/vlk/downloads#we3d) or desktop with [Valkyrie](/vlk/downloads#vlk).
+- [Vlk project download](https://cdn2.talansoft.com/ftp/samples/FirstPersonCamera-Sample-V03.zip). This is the source project that you can tinker with in the [Valkyrie editor](/vlk/downloads#vlk).
 
 # Links
 
@@ -101,3 +96,6 @@ You might also be interested in these templates:
 - [Car configurator](./Car-Configurator)
 
 #Additional Screenshots 
+![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/09_ingame_01.PNG)
+
+![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/10_ingame02_01.PNG)
