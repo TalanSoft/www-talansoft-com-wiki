@@ -78,7 +78,9 @@ Recommended Settings
 *  Move set to 10. This will always ensure when moving, it + or - 10 to any translate movement.
 *  Rotate to 15. This will always ensure when rotating, it + or - 15 to any translate movement.
 
+**b)** When manipulating the object placement in the viewport, to enable the Snapping Function. Hold the **Crtl** key before you do any movement. 
 
+**c)** While holding **Ctrl** + **Shift**, you can quickly duplicate the selected object while have it snap properly. 
 
 ![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/08_snapmenu.PNG)
 
@@ -86,9 +88,6 @@ Recommended Settings
 * Tags/Stats: Time to make, categories (3D, AR, Game, IoT, ...)
 * Download to Vpk presentation, playable in the Vlk Player that is installed by the Vlk installer or We3D on iOS & Android.
 * Download to Zip file with the Vlk project which can be opened in Vlk and used as a base for your own project.
-* 3 screenshots, intro pic, in game pic and Valkyrie UI pic
-* Overview description of the sample.
-* How to use the template? Example: once you’re Valkyrie, how to you start and maybe what can you do with it, like hmmm, change the score, background whatever.
 
 # Downloads
 
@@ -100,3 +99,5 @@ Recommended Settings
 You might also be interested in these templates:
 - [Flappy bird](./flappy-bird)
 - [Car configurator](./Car-Configurator)
+
+#Additional Screenshots 
