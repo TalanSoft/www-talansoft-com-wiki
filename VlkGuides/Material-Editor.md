@@ -5,7 +5,7 @@ If the material editor is not showing in the Valkyrie workplace, you can display
 - clicking on material editor option in the **form list** on the upper right corner of the screen
 - using the shortcut **CTRL + M**
 
-![Material Editor_01](https://media.giphy.com/media/guclTOEwplgmHhk40u/giphy.gif)
+![Material_Editor](https://cdn2.talansoft.com/ftp/vids/animated_gif-downsized_large.gif)
 
 Let's now review the different options available in the editor.
 
