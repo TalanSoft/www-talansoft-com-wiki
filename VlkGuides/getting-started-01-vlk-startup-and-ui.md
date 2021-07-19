@@ -36,7 +36,7 @@ Located on the Top Left of the Screen, 3 major tabs.
 
 **A) Center (File Manager)** 
 
-![center_view_transform_button_01](uploads/4d5e3e2ad9ca4577c07b17724064af71/Screenshot_2021-07-14_at_11.15.53_AM)
+![center_view_transform_button_01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/01_Valkyrie_Startup/screenshot_2021-07-14_at_11.15.53_am.jpg)
 
 **Application**
 
@@ -54,7 +54,7 @@ Located on the Top Left of the Screen, 3 major tabs.
 
 **B) View (Viewport window)** 
 
-![center_view_transform_button_02](uploads/a3dbbbe218cf757c117a8627565adcaf/Screenshot_2021-07-14_at_11.16.48_AM)
+![center_view_transform_button_02](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/01_Valkyrie_Startup/screenshot_2021-07-14_at_11.16.48_am.jpg)
 
 **Layout**
 1. Set Single View
@@ -73,7 +73,7 @@ Located on the Top Left of the Screen, 3 major tabs.
 
 **C) Transform (Gizmo Setting)** 
 
-![center_view_transform_button_03](uploads/43f09a8f4615bc42804033bc8205b076/Screenshot_2021-07-14_at_11.24.32_AM)
+![center_view_transform_button_03](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/01_Valkyrie_Startup/screenshot_2021-07-14_at_11.24.32_am.jpg)
 
 **Gizmo**
 1. Move Tool
