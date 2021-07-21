@@ -8,13 +8,39 @@ Interactions are a set of events and actions that give life to apps & games.
 Actions & Events are a built-in Valkyrie Engine feature that allow content creators to make their assets respond to events when triggered.
 For example, focus the camera on the subject when the user presses on it | Open a door when the user taps on it | Make a character run when pressing on a key, etc.
 
+### Setting Up 
+
+- Create a **AnimMixer** from the template accessible in the **Library**. Any template is Alright to start with. 
+- This template is an example of simple animation blending using events and actions.
+
+![Open_AnimMix_01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/01_Valkyrie_Startup/animated_gif-downsized_large_(3).gif) 
+
+- Now, delete the **Entities** that we do not need by selecting the entity then clicking on the delete button in the icons list above. Delete entities **StatesMachine(Dummy)** and **dctskin_idle(character)**. Keep **CamPivot(Dummy)**, **Ground(Primitive)**, and **Light(Light)**. 
+
+![Deleting_Entities_02](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/01_Valkyrie_Startup/animated_gif-downsized_large_(1).gif) 
+
+- Go to the entities icon and drag and drop a **Primitive** in to the timeline. 
+![draganddrop](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/01_Valkyrie_Startup/animated_gif-downsized_large_(2).gif)
+
+
+- Adjust the **Primitive** with the transform tool located in the top right hand corner so that it is fully in view 
+
+![transform](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/01_Valkyrie_Startup/transform.gif)
+
+
+- In inspector on the right of your screen, under Primitive you are able to select Type and change the shape of the Primitive. For this example we will make it a sphere. 
+
+![Sphere](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/01_Valkyrie_Startup/Sphere.gif)
+
+
+- Change to materials on the right of your screen, click on **Diffuse** and change it to the colour of your choice. Click on **Specular** and turn it all the way up, **Specular** controls the reflection and sheen of the primitive.
+
+![Material_editor](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/01_Valkyrie_Startup/animated_gif-downsized_large.gif)
+
 ### Where can I find actions & events?
 
-- Create a **Camera** from the template accessible in the **Library**.
-- **Drag & Drop** the Orbit Camera level into the viewport. In this scene, an interaction is already created to orbit the camera around the sphere.
-  ![Load](https://cdn2.talansoft.com/img/docs/introduction_interactions/load_level.gif)
-
 - **Actions** are located at the bottom-left corner of the UI, next to the entities tab.
+
   ![Actions](https://cdn2.talansoft.com/img/docs/introduction_interactions/actions.gif)
 
 - By clicking on the **Actions** tab, you will discover all possible **Actions**. When pressing **CTRL** while hovering on an **Action**, its description will be displayed.
