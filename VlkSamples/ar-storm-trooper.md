@@ -1,7 +1,9 @@
-# AR Storm Trooper
-[Try it in your browser now!](/vlk/samples/ar-storm-trooper/Storm-Trooper-Sample-V2.vpk)
 
+# AR Storm Trooper
 An iconic character & a good song... Surprise people with this groovy storm trooper. This sample allows you to experiment with a rigged and animated character and sounds.
+
+
+[Try it in your browser now!](/vlk/samples/ar-storm-trooper/Storm-Trooper-Sample-V2.vpk)
 
 ![img](https://cdn2.talansoft.com/ftp/img/www/Marketing-and-Creative-Agencies.jpg)
 
