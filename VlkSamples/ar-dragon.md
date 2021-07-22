@@ -1,15 +1,19 @@
 # AR Dragon
 The Dragon flies, crouches and spits fire. See all the possibilities available with a properly rigged and animated model.
 
-![img](https://cdn2.talansoft.com/ftp/img/www/Dragon-AR-3.png)
+![img](https://cdn2.talansoft.com/ftp/img/dragon_template/01_dragon_piece.PNG) 
 
 ## How to Use 
 
-**1)** The can change between state, walking on the ground and flying. By default the dragon will be in his Walking State. 
+**1)** The can change between state, walking on the ground and flying. By default the dragon will be in his Walking State.
 
 **2)** Simply **click** (Mouse) or **Press (Touch)** the **coloured buttons** here to change to The Dragon's Flying. 
 
+![img](https://cdn2.talansoft.com/ftp/img/dragon_template/02_whole_ingame_ui.PNG)
+
 **3)** With The Dragon soaring, 2 new buttons should lit up. Lets unleash his Dragon's Breath. Select the **Bottom lit up** button to swap to his attack.
+
+![img](https://cdn2.talansoft.com/ftp/img/dragon_template/03_flying.PNG)
 
 **4)** From here, you can freely swap between all of his Modes.
 
@@ -38,7 +42,8 @@ For Local WiFi Transfer:
 * Click on the menu on the top-right corner. Your current IP address will be displayed.
 * Enter this IP Address in your web browser and you will able to access We3D subfolders & upload directly the app to your iOS Device.
 
-##### AR Screenshots
+##### AR Preview (Gif)
+![img](https://cdn2.talansoft.com/ftp/img/dragon_template/04_ar_gif.gif)
 
 
 
