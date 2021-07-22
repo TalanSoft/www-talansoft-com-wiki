@@ -4,8 +4,6 @@ An iconic character & a good song... Surprise people with this groovy storm troo
 
 [Try it in your browser now!](/vlk/samples/ar-storm-trooper/Storm-Trooper-Sample-V2.vpk)
 
-![img](https://cdn2.talansoft.com/ftp/img/storm_trooper_01/Stormtrooper_Rig_AR_01.MP4)
-
 ## AR Mode 
 The Dragon Template allows you into your AR World. Currently the best way to view it in AR is to run it in the **We3D App** on the IOS store. 
 Link on the IOS Store: https://apps.apple.com/us/app/we3d/id1044059728
@@ -32,7 +30,7 @@ For Local WiFi Transfer:
 * Enter this IP Address in your web browser and you will able to access We3D subfolders & upload directly the app to your iOS Device.
 
 ##### AR Preview
-![img](https://cdn2.talansoft.com/ftp/img/storm_trooper_01/Stormtrooper_Rig_AR_03.MP4)
+![stormtrooper_rig_ar_03](https://cdn2.talansoft.com/ftp/vids/storm_trooper_01/stormtrooper_rig_ar_03.mp4)
 
 # Downloads
 
