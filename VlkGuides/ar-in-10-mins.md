@@ -123,4 +123,4 @@ For Local WiFi Transfer:
 - Enter this IP Address in your web browser and you will able to access We3D subfolders & upload directly the app to your iOS Device.
 
 After downloading the VPK on your device, open We3D and let the magic happen!
-![18](https://cdn2.talansoft.com/img/docs/AR_Scene/Dragon-AR-2.png)
+![img](https://cdn2.talansoft.com/ftp/img/dragon_template/04_ar_gif.gif)
