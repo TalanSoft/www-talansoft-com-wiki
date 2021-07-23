@@ -2,10 +2,6 @@
 
 This tutorial will teach you the basics to navigate through the Valkyrie Engine screens and create your very first app.
 
-If you are already familiar with the User Interface, you may skip this tutorial and check the next few episodes.
-* [Getting Started 02: Import and Export](VlkGuides/getting-started-02-Import-and-Export)
-* [Getting Started 03: Introduction to Events & Action](VlkGuides/getting-started-03-intro-events-n-actions)
-
 ## Create your first project
 
 Start the Valkyrie Launcher and you will get two tabs:
@@ -34,7 +30,7 @@ The Image above shows the default User interface Layout.
 Located on the Top Left of the Screen, 3 major tabs.
 
 
-**A) Center (File Manager)** 
+**A) Center (File Manager)**
 
 ![center_view_transform_button_01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/01_Valkyrie_Startup/screenshot_2021-07-14_at_11.15.53_am.jpg)
 
@@ -52,7 +48,7 @@ Located on the Top Left of the Screen, 3 major tabs.
 **Tools**
 1. Publish the Application
 
-**B) View (Viewport window)** 
+**B) View (Viewport window)**
 
 ![center_view_transform_button_02](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/01_Valkyrie_Startup/screenshot_2021-07-14_at_11.16.48_am.jpg)
 
@@ -71,7 +67,7 @@ Located on the Top Left of the Screen, 3 major tabs.
 2. Set the VR render mode
 3. Set the AR render mode
 
-**C) Transform (Gizmo Setting)** 
+**C) Transform (Gizmo Setting)**
 
 ![center_view_transform_button_03](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/01_Valkyrie_Startup/screenshot_2021-07-14_at_11.24.32_am.jpg)
 
@@ -147,23 +143,23 @@ Adjacent to the Right section, the timeline of the entire project and individual
 
 On the Left side of the **Timeline Tab**, the list contains every single **Entity**, **Action** and **Event** that is within the viewport of the current level. From here, each item can be manipulated in a layered system where components are grouped, in a hierarchical arrangement, such that lower layers provide functions and services that support the functions and services of higher layers.
 
-Above the Outliner, a row of icons are located here to help manipulate both the timeline and the outliner. 
-![timeline_01.png](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/timeline_grp/timeline_01.png) 
+Above the Outliner, a row of icons are located here to help manipulate both the timeline and the outliner.
+![timeline_01.png](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/timeline_grp/timeline_01.png)
 
-![timeline_icon_03.png](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/timeline_grp/timeline_icon_03.png)  
+![timeline_icon_03.png](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/timeline_grp/timeline_icon_03.png)
 Icon List
 Starting from the Left
 01. **Expand Layers:** Expand or Collapse every single layers within the Outliner.
 02. **Isolate:** Single out a single selected object within the outliner.
-03. **Play Button:** Start the timeline from 0:00. 
+03. **Play Button:** Start the timeline from 0:00.
 04. **Pause Button:** Pause at the current position on the play time.
 05. **Stop Button:** Halts the entire timeline and reset the timeline play time to 0:00.
 
-![timeline_icon_02.png](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/timeline_grp/timeline_icon_02.png) 
+![timeline_icon_02.png](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/timeline_grp/timeline_icon_02.png)
 Icon List
 Starting from the Left
 01. **Reload Scene:** Reloads the entire scene.
-02. **Toggle Time Bars:** Display the timeline. 
+02. **Toggle Time Bars:** Display the timeline.
 03. **Toggle Timeline:** Hide time bars of the timeline.
 04. **Delete Selection:** Delete the selected objects in the Outliner.
 05. **Toggle Visibility Actions:** To turn the visibility of the Actions within the Outliner On or Off.
@@ -175,32 +171,32 @@ Starting from the Left
 
 
 ## 04: Inspector
-![inspector_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/inspector/inspector_gif_01.gif)  
+![inspector_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/inspector/inspector_gif_01.gif)
 
 Within the Inspector window, this is the location to go to if you need to setup any in-scene settings of individual selected object such as **Name and Identity**, **Timeline Setting**, **Transform Coordination**, **Layer Settings** and many more other specific settings based on the type of asset.
 
 ## 05: Material Editor
-![material_editor_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/material_editor/material_editor_gif_01.gif)  
+![material_editor_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/material_editor/material_editor_gif_01.gif)
 
-The Material Editor allows you to add your texture maps to individual Entities. It also provides the ability to directly manipulate how much a texture can affect in-scene. 
-For more details, [Click Here](https://gitlab.talansoft.com/Pub/Wiki/wikis/VlkGuides/Material-Editor). 
+The Material Editor allows you to add your texture maps to individual Entities. It also provides the ability to directly manipulate how much a texture can affect in-scene.
+For more details, [Click Here](https://gitlab.talansoft.com/Pub/Wiki/wikis/VlkGuides/Material-Editor).
 
 ## 06: Windows
 Every Menus and Windows mentioned above can be visibly toggled and eventually the entire menu setup can be customised to your own preference.
-![menu_window_gif 01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/windows_menu/menu_window_gif 01.gif)  
+![menu_window_gif 01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/windows_menu/menu_window_gif 01.gif)
 
 
-### Customise User Interface 
-![undocking_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/windows_menu/undocking_gif_01.gif) 
+### Customise User Interface
+![undocking_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/windows_menu/undocking_gif_01.gif)
 
-* To Undock, right click on the tabs of the window and select Undock. (Image Above for Reference)  
+* To Undock, right click on the tabs of the window and select Undock. (Image Above for Reference)
 
 ![docking_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/windows_menu/docking_gif_01.gif)
 
 * To Dock windows, hold the **Ctrl** and **Left Mouse Click** on the window dock.
-* Drag the window to the Square Icons that display the window orientation within the UI. 
-* Release both buttons to dock the newly placed windows. 
-* (Image Above for Reference) 
+* Drag the window to the Square Icons that display the window orientation within the UI.
+* Release both buttons to dock the newly placed windows.
+* (Image Above for Reference)
 
 
 # Shortcuts
