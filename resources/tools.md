@@ -10,7 +10,7 @@ A quick list that presents most of the 3rd party softwares many use to create as
 - [Autodesk 3ds Max](https://www.autodesk.com.sg/products). 3D Modeling, Rigging, Animation, Renderer & Visual Effects Tool. 	Commercial software.	
 - [Autodesk Maya](https://www.autodesk.com.sg/products). 3D Modeling, Rigging, Animation, Renderer & Visual Effects Tool. 	Commercial software.		
 - [Autodesk Mudbox](https://www.autodesk.com.sg/products). 3D Modeling and Sculpting Tool. Commercial software.	
-- [Autodesk Fusion 360]	Commercial software	
+- [Autodesk Fusion 360](https://www.autodesk.com.sg/products/fusion-360/overview): 3D Modeling. Commercial software	
 - [Blender](https://www.blender.org/): Open source 3D creation. Free to use for any purpose, forever.	
 - [Cinema 4D](https://www.maxon.net/en/cinema-4d). 3D Modeling, Rigging, Animation, Renderer & Visual Effects Tool. 	Commercial software.				
 - [Clara.io](https://clara.io/): 3D Modeling & Animation. Freemium	
