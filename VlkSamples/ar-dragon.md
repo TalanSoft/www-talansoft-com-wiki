@@ -7,12 +7,12 @@ The Dragon flies, crouches and spits fire. Test some of the possibilities availa
 
 - The Dragon can walk on the ground, fly and breathe fire.
 
-- When the Dragon is flying, the two lower buttons of the right-hand UI are active. Press the **middle button** to make the Dragon land and roam. Press the **bottom button** to unleash the Dragon's burning breath.
+- When the Dragon is flying, the two lower buttons on the right-hand UI are active. Press the **middle button** to make the Dragon land and roam. Press the **bottom button** to unleash the Dragon's burning breath.
 
 ![img](https://cdn2.talansoft.com/ftp/img/dragon_template/03_flying.PNG)
 
 
-- When the Dragon is walking, press the **top button** (circled in red) to make the Dragon fly again.
+- When the Dragon is walking, the upper button on the right-hand UI is active. Press the **top button** (circled in red) to make the Dragon fly again.
 
 ![img](https://cdn2.talansoft.com/ftp/img/dragon_template/02_whole_ingame_ui.PNG)
 
