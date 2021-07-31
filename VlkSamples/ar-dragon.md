@@ -12,7 +12,7 @@ The Dragon flies, crouches and spits fire. Test some of the possibilities availa
 ![img](https://cdn2.talansoft.com/ftp/img/dragon_template/03_flying.PNG)
 
 
-- When the Dragon is walking, the upper button on the right-hand UI is active. Press the **top button** (circled in red) to make the Dragon fly again.
+- When the Dragon is walking, the upper button on the right-hand UI is active. Press that **top button** (circled in red) to make the Dragon fly again.
 
 ![img](https://cdn2.talansoft.com/ftp/img/dragon_template/02_whole_ingame_ui.PNG)
 
