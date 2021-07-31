@@ -1,4 +1,8 @@
-# Educators
+---
+nav: <a class="md-docnav-item" href="./index">Solutions</a><a class="md-docnav-item" href="">Education</a>
+---
+
+# Education
 [Download Valkyrie](/vlk/downloads) and try it for free now!
 
 ## Gamify learning experiences without coding

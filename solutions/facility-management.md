@@ -1,4 +1,8 @@
-# Facility management
+---
+nav: <a class="md-docnav-item" href="./index">Solutions</a><a class="md-docnav-item" href="">Facility management &amp; IoT</a>
+---
+
+# Facility management & IoT
 [Download Valkyrie](/vlk/downloads) and try it for free now!
 
 ## Keep an eye on things from anywhere with IoT digital dashboards

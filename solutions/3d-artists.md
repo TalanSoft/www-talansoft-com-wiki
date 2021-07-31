@@ -1,3 +1,7 @@
+---
+nav: <a class="md-docnav-item" href="./index">Solutions</a><a class="md-docnav-item" href="">3D artists &amp; designers</a>
+---
+
 # 3D artists & designers
 [Download Valkyrie](/vlk/downloads) and try it for free now!
 

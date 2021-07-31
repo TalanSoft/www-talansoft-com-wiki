@@ -1,3 +1,7 @@
+---
+nav: <a class="md-docnav-item" href="./index">Solutions</a><a class="md-docnav-item" href="">Retail</a>
+---
+
 # Retail
 [Download Valkyrie](/vlk/downloads) and try it for free now!
 

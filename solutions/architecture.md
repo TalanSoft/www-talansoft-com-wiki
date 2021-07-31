@@ -1,4 +1,8 @@
-# Architecture
+---
+nav: <a class="md-docnav-item" href="./index">Solutions</a><a class="md-docnav-item" href="">Real estate &amp; Interior Design</a>
+---
+
+# Real estate &amp; Interior Design
 [Download Valkyrie](/vlk/downloads) and try it for free now!
 
 ## Create interactive models faster and easier

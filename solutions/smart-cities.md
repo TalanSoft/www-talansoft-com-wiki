@@ -1,4 +1,8 @@
-# Smart Cities & Industries
+---
+nav: <a class="md-docnav-item" href="./index">Solutions</a><a class="md-docnav-item" href="">Smart Cities &amp; Infrastructure</a>
+---
+
+# Smart Cities & Infrastructure
 [Download Valkyrie](/vlk/downloads) and try it for free now!
 
 ## A city at your fingertips in interactive 3D
