@@ -5,25 +5,25 @@ The Dragon flies, crouches and spits fire. See all the possibilities available w
 
 ## How to use the Vpk
 
-- The Dragon can walk on the ground, fly and breath fire.
+- The Dragon can walk on the ground, fly and breathe fire.
 
-- When the Dragon is flying the two bottom buttons are active. Press the **bottom button** to unleash the Dragon's firey breath.
+- When the Dragon is flying, the two lower buttons of the right-hand UI are active. Press the **middle button** to make the Dragon land and roam. Press the **bottom button** to unleash the Dragon's burning breath.
 
 ![img](https://cdn2.talansoft.com/ftp/img/dragon_template/03_flying.PNG)
 
 
-- Press the **top button** (red circled) to make the Dragon fly.
+- When the Dragon is walking, press the **top button** (circled in red) to make the Dragon fly again.
 
 ![img](https://cdn2.talansoft.com/ftp/img/dragon_template/02_whole_ingame_ui.PNG)
 
 # View in AR
 
-To view it in AR on your iOS device <a class="umami--click--bt_download_we3d_ios_appstore__ar-storm-trooper" href="/vlk/downloads#we3d">install We3D</a> and then open the vpk file on your phone.
+To view the scene in augmented reality on your iOS device, <a class="umami--click--bt_download_we3d_ios_appstore__ar-storm-trooper" href="/vlk/downloads#we3d">install We3D</a>, and then open the vpk file on your phone.
 
 The vpk works like any regular document, to open it on your mobile device you can:
 - Open this [link](https://cdn2.talansoft.com/ftp/samples/Dragon-Sample-V2.vpk) from your device's web browser after you've <a class="umami--click--bt_download_we3d_ios_appstore__ar-storm-trooper" href="/vlk/downloads#we3d">installed We3D</a>.
 - [Download](https://cdn2.talansoft.com/ftp/samples/Dragon-Sample-V2.vpk) the vpk on your computer and then air drop it to your phone.
-- [Download](https://cdn2.talansoft.com/ftp/samples/Dragon-Sample-V2.vpk) the vpk on your computer, email it to yourself and then open the file from within the Mail app on your phone.
+- [Download](https://cdn2.talansoft.com/ftp/samples/Dragon-Sample-V2.vpk) the vpk on your computer, email it to yourself and then open the file from within the Mail app on your phone. Same goes for Whatsapp, Slack or any other messaging app that would replace an email.
 
 ## Preview
 ![img](https://cdn2.talansoft.com/ftp/img/dragon_template/04_ar_gif.gif)
