@@ -21,8 +21,8 @@ The Dragon flies, crouches and spits fire. Test some of the possibilities availa
 To view the scene in augmented reality on your iOS device, <a class="umami--click--bt_download_we3d_ios_appstore__ar-storm-trooper" href="/vlk/downloads#we3d">install We3D</a>, and then open the vpk file on your phone.
 
 The vpk works like any regular document, to open it on your mobile device you can:
-- Open this [link](https://cdn2.talansoft.com/ftp/samples/Dragon-Sample-V2.vpk) from your device's web browser after you've <a class="umami--click--bt_download_we3d_ios_appstore__ar-storm-trooper" href="/vlk/downloads#we3d">installed We3D</a>.
-- [Download](https://cdn2.talansoft.com/ftp/samples/Dragon-Sample-V2.vpk) the vpk on your computer and then air drop it to your phone.
+- Open this [link](https://cdn2.talansoft.com/ftp/samples/Dragon-Sample-V2.vpk) from your device's web browser to download the file, and click on the file which will open in We3D directly.
+- [Download](https://cdn2.talansoft.com/ftp/samples/Dragon-Sample-V2.vpk) the vpk on your mac and then AirDrop it to your phone.
 - [Download](https://cdn2.talansoft.com/ftp/samples/Dragon-Sample-V2.vpk) the vpk on your computer, email it to yourself and then open the file from within the Mail app on your phone. Same goes for Whatsapp, Slack or any other messaging app that would replace an email.
 
 ## Preview
