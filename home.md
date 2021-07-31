@@ -19,6 +19,8 @@
 - [Earth Defender](./VlkSamples/earth-defender) (Web, 3D, touch based game)
 - [Flappy Bird](./VlkSamples/flappy-bird) (Web, 3D, touch based game)
 - [FPS Environment](./VlkSamples/First-Person-Camera-Environment) (3D, mouse & keyboard game)
+- [IoT / PSIM / Facility Management](./VlkSamples/facility-management) (enterprise application)
+- [Smart Cities](./VlkSamples/smart-cities) (enterprise application)
 
 # Valkyrie References
 - [Forms](./Vlk/RefForms)
