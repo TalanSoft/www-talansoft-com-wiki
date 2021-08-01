@@ -2,7 +2,7 @@
 nav: <a class="md-docnav-item" href="./index">Solutions</a><a class="md-docnav-item" href="">Marketing &amp; Creative agencies</a>
 ---
 
-# Marketing & Creative agencies
+# Valkyrie Solution for Marketing & Creative agencies
 [Download Valkyrie](/vlk/downloads) and try it for free now!
 
 ## Let your design team create interactive apps and prototypes
@@ -13,5 +13,8 @@ Now you can make immersive AR experiences in real-time without endless video ren
 
 Our intuitive timeline-based interface streamlines production pipelines, allowing easy mixing of multi-format digital assets into interactive designs and applications.
 
-Check out this AR template:
+## Template
+Download the storm trooper template and use it to start building your own application.  
+
+<a class="btn btn-primary" href="/md/docs/VlkSamples/ar-storm-trooper">Go to template</a>  
 <a href="/md/docs/VlkSamples/ar-storm-trooper"><img src= "https://cdn2.talansoft.com/ftp/img/www/Marketing-and-Creative-Agencies.jpg" alt="Your AR template" /></a>

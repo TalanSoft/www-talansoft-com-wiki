@@ -1,7 +1,9 @@
-# Earth Defender
-[Try it in your browser now!](/vlk/samples/earth-defender/EarthDefender.vpk)
-
+# Earth Defender Template
 Join the *Exquisite And Rapid Terrain Helper* or E.A.R.T.H and help defend Earth against a shower of dangerous meteors! A single touch game with score tracking.
+
+<a class="btn btn-primary umami--click--bt_launch_earthdefender_template" href="/vlk/samples/earth-defender/EarthDefender.vpk">Launch Earth Defender Template</a>
+
+Click on the button above to try it in your browser now! The web version of the template will load and allow you to interact with the end product.
 
 ![ed_02_titlescreen.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/ed_02_titlescreen.png)
 

@@ -2,7 +2,7 @@
 nav: <a class="md-docnav-item" href="./index">Solutions</a><a class="md-docnav-item" href="">Education</a>
 ---
 
-# Education
+# Valkyrie Solution for Education
 [Download Valkyrie](/vlk/downloads) and try it for free now!
 
 ## Gamify learning experiences without coding
@@ -11,7 +11,10 @@ Valkyrie no-code creative platform lets you easily create interactive and engagi
 
 Our intuitive timeline-based interface requires no coding skills, allowing quick and easy mixing of multi-format digital assets into interactive designs and projects.
 
-Check out this education template:
+## Template 
+Download the AR education template and use it to start building your own application.  
+
+<a class="btn btn-primary" href="/md/docs/VlkSamples/ar-education">Go to template</a>  
 <a href="/md/docs/VlkSamples/ar-education">
 <img src= "https://cdn2.talansoft.com/ftp/img/www/Education-1600x1200.jpg" alt="Your education template" />
 </a>

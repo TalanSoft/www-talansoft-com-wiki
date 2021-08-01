@@ -30,6 +30,7 @@
 
 # Resources
 - [Frequently Asked Questions](./resources/faq)
+- [Online Distribution](./resources/online-distribution)
 - [Toolkit](./resources/tools)
 
 # System Version

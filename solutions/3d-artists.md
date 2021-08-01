@@ -2,7 +2,7 @@
 nav: <a class="md-docnav-item" href="./index">Solutions</a><a class="md-docnav-item" href="">3D artists &amp; designers</a>
 ---
 
-# 3D artists & designers
+# Valkyrie Solution for 3D Artists & Designers
 [Download Valkyrie](/vlk/downloads) and try it for free now!
 
 ## Easily create interactive apps, prototypes and designs
@@ -17,7 +17,10 @@ Prepare for the reality of tomorrow’s market and become a professional capable
 
 Our intuitive timeline-based interface streamlines production pipelines, allowing quick and easy mixing of multi-format digital assets into interactive designs and prototypes.
 
-Check out this AR template:
+## Template
+Download the AR dragon template and use it to start building your own application.  
+
+<a class="btn btn-primary" href="/md/docs/VlkSamples/ar-dragon">Go to template</a>  
 <a href="/md/docs/VlkSamples/ar-dragon">
 <img src= "https://cdn2.talansoft.com/ftp/img/www/Dragon-AR-3.png" alt="AR dragon template" />
 </a>

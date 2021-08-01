@@ -1,5 +1,9 @@
-# Architecture
-With the architecture template you are able to view a house or apartment, moving through rooms, and opening doors. 
+# Architecture Template
+With this template you are able to view a house or apartment, move through the rooms and open the doors.  
+
+<a class="btn btn-primary umami--click--bt_launch_architecture_template" href="/vlk/samples/architecture/Architecture-Template-V2.vpk">Launch Architecture Template</a>
+
+Click on the button above to try it in your browser now! The web version of the template will load and allow you to interact with the end product.
 
 This template is an example of what can be made in Vlk with no-code for the real estate and interior design industries.
 

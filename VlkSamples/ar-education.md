@@ -1,7 +1,9 @@
-# AR Education
-[Try it in your browser now!](/vlk/samples/ar-education/AR-Sample-V2.vpk)
-
+# AR Education Template
 Teach your students how to use AR to anchor different 3D models, animated or static, in the real world. Switch between models with the built in UI.
+
+<a class="btn btn-primary umami--click--bt_launch_education_template" href="/vlk/samples/ar-education/AR-Sample-V2.vpk">Launch Education Template</a>
+
+Click on the button above to try it in your browser now! The web version of the template will load and allow you to interact with the end product.
 
 ![AR1](https://cdn2.talansoft.com/ftp/img/www/Education-1600x1200.jpg)
 

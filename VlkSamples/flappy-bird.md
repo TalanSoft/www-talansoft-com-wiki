@@ -1,7 +1,9 @@
-# Flappy Bird
-[Try it in your browser now!](/vlk/samples/flappy-bird/FlappyBird.vpk)
-
+# Flappy Bird Template
 Help Amelia Birdhart navigate through a series of Bald Trees! A single touch game with score tracking.
+
+<a class="btn btn-primary umami--click--bt_launch_flappybird_template" href="/vlk/samples/flappy-bird/FlappyBird.vpk">Launch Flappy Bird Template</a>
+
+Click on the button above to try it in your browser now! The web version of the template will load and allow you to interact with the end product.
 
 ![fb_04_title.png](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/fb_04_title.png)
 

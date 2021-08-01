@@ -1,7 +1,10 @@
-# AR Storm Trooper
-An iconic character & a good song... Surprise people with this groovy storm trooper. This sample allows you to experiment with a rigged and animated character and sounds.
+# AR Storm Trooper Template
 
-[Try it in your browser now!](/vlk/samples/ar-storm-trooper/Storm-Trooper-Sample-V2.vpk)
+An iconic character & a good song... Surprise people with this groovy storm trooper. This sample allows you to experiment with a rigged & animated character and integrate a music track.
+
+<a class="btn btn-primary umami--click--bt_launch_trooper_template" href="/vlk/samples/ar-storm-trooper/Storm-Trooper-Sample-V2.vpk">Launch Trooper Template</a>
+
+Click on the button above to try it in your browser now! The web version of the template will load and allow you to interact with the end product.
 
 # View in AR
 

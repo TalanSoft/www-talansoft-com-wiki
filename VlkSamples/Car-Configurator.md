@@ -1,9 +1,11 @@
-# Car Configurator
-[Try it in your browser now!](/vlk/samples/Car-Configurator/Tesla-Template-Version-1.vpk)
+# Car Configurator Template
+Customize your Tesla with the Car Configurator. Choose the colors, design and engine of your future car before ordering it!
 
-Customize your Tesla with the Car Configurator. Choose the colors, design & engine of your future car before ordering it!
+<a class="btn btn-primary umami--click--bt_launch_car_configurator" href="/vlk/samples/Car-Configurator/Tesla-Template-Version-1.vpk">Launch Car Configurator</a>
 
-This sample is a a practical example of what can be made in Vlk with no-code for the automotive industry. Of course you can tweak it as you please to fit the needs of any other industry.
+Click on the button above to try it in your browser now! The web version of the template will load and allow you to interact with the end product.
+
+This sample is a a practical example for the automotive industry of what you can build in Valkyrie with no code. Of course you can tweak the configurator as you please to fit your needs in any other industry.
 
 ![tesla_01](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_01.jpg)
 

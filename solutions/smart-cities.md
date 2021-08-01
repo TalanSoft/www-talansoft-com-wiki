@@ -2,22 +2,26 @@
 nav: <a class="md-docnav-item" href="./index">Solutions</a><a class="md-docnav-item" href="">Smart Cities &amp; Infrastructure</a>
 ---
 
-# Smart Cities & Infrastructure
+# Valkyrie Solution for Smart Cities & Infrastructure
 [Download Valkyrie](/vlk/downloads) and try it for free now!
 
 ## A city at your fingertips in interactive 3D
 
 Valkyrie no-code creative platform allows cities to easily create cutting edge interactive dashboards and large-scale 3D data visualizations. Use life-like AR, Geo-positioning data and live video streaming as you consolidate data from multiple sources. Import BIM & GIS data directly and connect IoT sensors and video.
 
-<img src= "https://cdn2.talansoft.com/ftp/img/docs/case_studies/eyeOT/eyeOT.jpg" alt="IoT interactive dashboard" />
+<img src= "https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/Manhattan_smart-city.jpg" alt="Valkyrie Smart City" />
 
 Using our industry specific templates, your designers can easily make immersive 3D experiences in real-time without endless video rendering and without any programming.
 
-Vizualize in your browser an example of what you can produce with Valkyrie:
+Visualize in your browser an example of what you can produce with Valkyrie:  
+<a class="btn btn-primary umami--click--bt_launch_smartcity_template" href="/vlk/samples/smart-cities/ManhattanProject-Beta.vpk">Launch Smart city app</a>
 
-<a href="/vlk/samples/wip/Test-Manhattan-Project.vpk"><img src= "https://cdn2.talansoft.com/ftp/img/www/smart-city.png" alt="Your smart city template" /></a>
+## Template
+Our intuitive timeline-based interface streamlines production pipelines, allowing quick and easy mixing of multi-format digital assets into interactive designs and dashboards.  
 
-Our intuitive timeline-based interface streamlines production pipelines, allowing quick and easy mixing of multi-format digital assets into interactive designs and dashboards.
+Download the smart-city template and use it to start building your own dashboard or present an MVP to the town council.  
+<a class="btn btn-primary" href="/md/docs/VlkSamples/smart-cities">Go to template</a>  
+<a href="/md/docs/VlkSamples/smart-cities"><img src= "https://cdn2.talansoft.com/ftp/img/www/smart-city.png" alt="Your smart city template" /></a>
 
 ## Real-time Connectivity
 Whoever the commissioner, whatever they want from an interactive dashboard, you can implement all your IoT specification requirements with Valkyrie:
@@ -31,6 +35,7 @@ Foster a collaborative experience within the supply chain by enabling everyone t
 Your digital twin and dashboard created with Valkyrie will run natively on:
 * Windows & macOS desktop clients.
 * Windows, Android & iOS mobile devices.
+<img src= "https://cdn2.talansoft.com/ftp/img/docs/case_studies/eyeOT/eyeOT.jpg" alt="IoT interactive dashboard" />
 
 ## Realistic 3D Visualization
 Valkyrie has a powerful rendering engine that allows you to obtain AAA real-time graphics. This will allow your clients to:
