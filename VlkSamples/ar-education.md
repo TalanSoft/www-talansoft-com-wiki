@@ -1,4 +1,9 @@
-# AR Education Template
+---
+title: AR Education | Valkyrie Template
+---
+
+# AR Education Valkyrie Template
+
 Teach your students how to use AR to anchor different 3D models, animated or static, in the real world. Switch between models with the built in UI.
 
 <a class="btn btn-primary umami--click--bt_launch_education_template" href="/vlk/samples/ar-education/AR-Sample-V2.vpk">Launch Education Template</a>

@@ -1,4 +1,8 @@
-# AR Storm Trooper Template
+---
+title: AR Storm Trooper | Valkyrie Template
+---
+
+# AR Storm Trooper Valkyrie Template
 
 An iconic character & a good song... Surprise people with this groovy storm trooper. This sample allows you to experiment with a rigged & animated character and integrate a music track.
 

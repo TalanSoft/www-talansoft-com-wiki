@@ -1,4 +1,9 @@
-# Flappy Bird Template
+---
+title: Flappy Bird | Valkyrie Template
+---
+
+# Flappy Bird Valkyrie Template
+
 Help Amelia Birdhart navigate through a series of Bald Trees! A single touch game with score tracking.
 
 <a class="btn btn-primary umami--click--bt_launch_flappybird_template" href="/vlk/samples/flappy-bird/FlappyBird.vpk">Launch Flappy Bird Template</a>

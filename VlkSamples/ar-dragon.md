@@ -1,4 +1,9 @@
-# AR Dragon Template
+---
+title: AR Dragon | Valkyrie Template
+---
+
+# AR Dragon Valkyrie Template
+
 The Dragon flies, crouches and spits fire. Test some of the possibilities available to you with a properly rigged and animated model.
 
 ![img](https://cdn2.talansoft.com/ftp/img/dragon_template/01_dragon_piece.PNG)

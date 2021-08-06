@@ -1,4 +1,9 @@
-# Car Configurator Template
+---
+title: Car Configurator | Valkyrie Template
+---
+
+# Car Configurator Valkyrie Template
+
 Customize your Tesla with the Car Configurator. Choose the colors, design and engine of your future car before ordering it!
 
 <a class="btn btn-primary umami--click--bt_launch_car_configurator" href="/vlk/samples/Car-Configurator/Tesla-Template-Version-1.vpk">Launch Car Configurator</a>

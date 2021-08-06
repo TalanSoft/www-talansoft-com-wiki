@@ -1,4 +1,9 @@
-# Earth Defender Template
+---
+title: Earth Defender | Valkyrie Template
+---
+
+# Earth Defender Valkyrie Template
+
 Join the *Exquisite And Rapid Terrain Helper* or E.A.R.T.H and help defend Earth against a shower of dangerous meteors! A single touch game with score tracking.
 
 <a class="btn btn-primary umami--click--bt_launch_earthdefender_template" href="/vlk/samples/earth-defender/EarthDefender.vpk">Launch Earth Defender Template</a>

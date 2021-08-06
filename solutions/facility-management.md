@@ -1,8 +1,10 @@
 ---
+title: Facility management & Industry | Valkyrie Solutions
 nav: <a class="md-docnav-item" href="./index">Solutions</a><a class="md-docnav-item" href="">Facility management &amp; Industry</a>
 ---
 
 # Valkyrie Solution for Facility management & Industry
+
 [Download Valkyrie](/vlk/downloads) and try it for free now!
 
 ## Keep an eye on things from anywhere with IoT digital dashboards
@@ -20,9 +22,9 @@ Using our industry specific EyeOT-3D template, your designers can easily make mo
 Managers can monitor their facilities, manage their maintenance activities and control their connected devices from anywhere in the world with mobile 3D dashboards made with Valkyrie.
 
 ## Template
-Download the digital twin template and use it to start building your own application or present an MVP to your client.  
+Download the digital twin template and use it to start building your own application or present an MVP to your client.
 
-<a class="btn btn-primary" href="/md/docs/VlkSamples/facility-management">Go to template</a>  
+<a class="btn btn-primary" href="/md/docs/VlkSamples/facility-management">Go to template</a>
 <a href="/md/docs/VlkSamples/facility-management"><img src= "https://cdn2.talansoft.com/ftp/img/www/Facility-Management-1600x1200.jpg" alt="Your digital twin template" /></a>
 
 ### Try Valkyrie [**free**](/vlk/downloads)

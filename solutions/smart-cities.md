@@ -1,8 +1,10 @@
 ---
+title: Smart Cities & Infrastructure | Valkyrie Solutions
 nav: <a class="md-docnav-item" href="./index">Solutions</a><a class="md-docnav-item" href="">Smart Cities &amp; Infrastructure</a>
 ---
 
 # Valkyrie Solution for Smart Cities & Infrastructure
+
 [Download Valkyrie](/vlk/downloads) and try it for free now!
 
 ## A city at your fingertips in interactive 3D
@@ -13,14 +15,14 @@ Valkyrie no-code creative platform allows cities to easily create cutting edge i
 
 Using our industry specific templates, your designers can easily make immersive 3D experiences in real-time without endless video rendering and without any programming.
 
-Visualize in your browser an example of what you can produce with Valkyrie:  
+Visualize in your browser an example of what you can produce with Valkyrie:
 <a class="btn btn-primary umami--click--bt_launch_smartcity_template" href="/vlk/samples/smart-cities/ManhattanProject-Beta.vpk">Launch Smart city app</a>
 
 ## Template
-Our intuitive timeline-based interface streamlines production pipelines, allowing quick and easy mixing of multi-format digital assets into interactive designs and dashboards.  
+Our intuitive timeline-based interface streamlines production pipelines, allowing quick and easy mixing of multi-format digital assets into interactive designs and dashboards.
 
-Download the smart-city template and use it to start building your own dashboard or present an MVP to the town council.  
-<a class="btn btn-primary" href="/md/docs/VlkSamples/smart-cities">Go to template</a>  
+Download the smart-city template and use it to start building your own dashboard or present an MVP to the town council.
+<a class="btn btn-primary" href="/md/docs/VlkSamples/smart-cities">Go to template</a>
 <a href="/md/docs/VlkSamples/smart-cities"><img src= "https://cdn2.talansoft.com/ftp/img/www/smart-city.png" alt="Your smart city template" /></a>
 
 ## Real-time Connectivity

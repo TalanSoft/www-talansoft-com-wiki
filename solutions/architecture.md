@@ -1,4 +1,5 @@
 ---
+title: Real estate &amp; Interior Design | Valkyrie Solutions
 nav: <a class="md-docnav-item" href="./index">Solutions</a><a class="md-docnav-item" href="">Real estate &amp; Interior Design</a>
 ---
 
@@ -14,9 +15,9 @@ Import your AutoCAD or Revit files directly and quickly, then combine them with 
 Our intuitive timeline-based interface streamlines production pipelines, allowing  easy mixing of multi-format digital assets into interactive walkthroughs, designs and prototypes.
 
 ## Template
-Download the architecture template and use it to start building your own application.  
+Download the architecture template and use it to start building your own application.
 
-<a class="btn btn-primary" href="/md/docs/VlkSamples/architecture">Go to template</a>  
+<a class="btn btn-primary" href="/md/docs/VlkSamples/architecture">Go to template</a>
 <a href="/md/docs/VlkSamples/architecture">
 <img src= "https://cdn2.talansoft.com/ftp/img/www/Design-and-Construction-1600x1200-v2.jpg" alt="Your Architecture template" />
 </a>
