@@ -41,3 +41,15 @@ A quick list that presents most of the 3rd party softwares many use to create as
 - [ViaCAD](https://www.punchcad.com/): Engineering Focused. Commercial software	
 - [ZBrush](http://pixologic.com/): 3D Sculpting Tool. Commercial software.	
 - [Zmodeler](https://www.zmodeler3.com/): 3D Hard Surface modeling Tool, Integrated in **Zbrush** as well. Commercial software.	
+
+
+# Free 3D Assets Site
+- [Cults 3D](https://cults3d.com/en): High Quality Models, supports 3D Printing Assets. Has Free & Paid Options. Known for fashion, art, jewelry, home, architecture, or gadgets. 
+- [Pinshape](https://pinshape.com/): Mixed range of assets, supports 3D Printing Assets. Has Free & Paid Options.  
+- [3DShook](http://www.3dshook.com/): Mixed range of assets, supports 3D Printing Assets. Has some Free but mostly Paid Options. Known for 'Fun' and hobby-like assets. 
+- [Thingiverse](https://www.thingiverse.com/): Mixed range of assets, offers free-to-use STL files only. 
+- [GrabCAD](https://grabcad.com/): High Quality Models, Has Free & Paid Options. Known for technical, engineering, and scale models only. 
+- [3D Warehouse](https://3dwarehouse.sketchup.com/?hl=en): Geometrical assets, supports 3D Printing Assets.. Has Free & Paid Options. Known for architecture, product design or scale models. 
+- [CGTrader](https://www.cgtrader.com/): Mixed range of assets. Has Free & Paid Options.
+- [TurboSquid](https://www.turbosquid.com/): High Quality Models. Has Free & Paid Options.
+- [Yeggi](https://www.yeggi.com/): Mixed range of assets. Has Free & Paid Options. supports 3D Printing Assets.
