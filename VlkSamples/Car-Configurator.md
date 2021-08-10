@@ -33,7 +33,7 @@ Press & Hold **Right Click** to **Rotate** the camera.
 
 Use the **Mouse Wheel** to **Zoom In / Out**.
 
-When using **We3D**, switch to landscape mode to display the user interface.
+When using **[We3D](/vlk/downloads#we3d)**, switch to landscape mode to display the user interface.
 
 Click on the paint color of your choice to change the color of the car.
 ![tesla_paint_02](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_paint_02.gif)
@@ -49,6 +49,10 @@ Click on the door icons to **Open / Close** the doors of your choice.
 
 Click on airflow icon to visualize the computational fluid dynamics.
 ![tesla_cfd_06](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_cfd_06.gif)
+
+# Other Version
+Check out another project based on this Configurator Project Template.
+- [Watch Configurator](./watch_configurator)
 
 # Links
 
