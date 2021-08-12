@@ -15,7 +15,7 @@
 -   [LeaveRayHit](./Event/LeaveLookAt)
 -   [MessageReceived](./Event/MessageReceived)
 -   [MessageReceivedStrEq](./Event/MessageReceivedStrEq)
--   [Pinch](./Event/Pinch) TODO
+-   [Pinch](./Event/Pinch)
 -   [PlaybackOrientation](./Event/PlaybackOrientation) TODO
 -   [PlaybackPaused](./Event/PlaybackPaused) TODO
 -   [PlaybackRenderMode](./Event/PlaybackRenderMode) TODO
@@ -24,4 +24,4 @@
 -   [PlaybackUnpaused](./Event/PlaybackUnpaused) TODO
 -   [PropertyChanged](./Event/PropertyChanged)
 -   [Swipe](./Event/Swipe)
--   [Wheel](./Event/Wheel) TODO
+-   [Wheel](./Event/Wheel)
