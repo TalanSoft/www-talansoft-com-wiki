@@ -13,4 +13,6 @@ The scale factor is a relative value:
 
 <img src="https://latex.codecogs.com/svg.image?ScaleFactor=&space;\frac{LastValue}{CurrentValue}" title="ScaleFactor= \frac{LastValue}{CurrentValue}" />
 
-To make your life easier, drag & drop the pinch interactions template into your project.
+When a user pinches, the OS of the device sends the scale factor information to Valkyrie as VarA.
+
+To make your life easier, drag & drop the pinch interaction template into your project.
