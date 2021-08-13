@@ -19,3 +19,7 @@
 | **Do I need to save my assets (3d models, textures...) in the Documents/User/VlkProjects folder?** |
 | ------ |
 | You need to save your assets in the same folder as your Valkyrie project folder. That is the good practice we recommend in order to compile your application faster. |
+
+| **I have purchased a license however the free version watermark is still displayed on my exported projects. What gives?** |
+| ------ |
+| A common mistake is that you did not paste your token correctly in the export panel. Make sure that you did not insert any space before or after the token. |
