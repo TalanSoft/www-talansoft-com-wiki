@@ -90,8 +90,8 @@ Recommended Settings
 
 # Downloads
 
-- [Vpk Download](https://cdn2.talansoft.com/ftp/samples/FirstPersonCamera-Sample-V03.vpk). This is the exported application that you can experience on your phone with [We3D](/vlk/downloads#we3d) or desktop with [Valkyrie](/vlk/downloads#vlk).
-- [Vlk project download](https://cdn2.talansoft.com/ftp/samples/FirstPersonCamera-Sample-V03.zip). This is the source project that you can tinker with in the [Valkyrie editor](/vlk/downloads#vlk).
+- [Vpk Download](https://cdn2.talansoft.com/ftp/samples/FPS-Sample_v2.vpk). This is the exported application that you can experience on your phone with [We3D](/vlk/downloads#we3d) or desktop with [Valkyrie](/vlk/downloads#vlk).
+- [Vlk project download](https://cdn2.talansoft.com/ftp/samples/FPS-Sample_v2.zip). This is the source project that you can tinker with in the [Valkyrie editor](/vlk/downloads#vlk).
 
 # Links
 
