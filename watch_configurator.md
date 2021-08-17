@@ -5,7 +5,7 @@ title: Watch Configurator | Valkyrie Template
 # Watch Configurator Valkyrie Template
 Customize your Watch with the Configurator. Choose the model, colors & design before ordering. 
 
-<a class="btn btn-primary umami--click--bt_launch_watch_configurator" href="/vlk/samples/watch_configurator/Watch_Preview.vpk">Launch Watch Configurator</a>  
+<a class="btn btn-primary umami--click--bt_launch_watch_configurator" href="/vlk/samples/watch_configurator/Watch_Config_v6.vpk">Launch Watch Configurator</a>  
 
 Click on the button above to try it in your browser now! The web version of the template will load and allow you to interact with the end product.  
 
@@ -14,8 +14,8 @@ The Watch Configurator is a variation of the **Car Configurator** template. Clic
 
 # Downloads
 
-- [Vpk Download](https://cdn2.talansoft.com/ftp/samples/Watch_Preview.vpk). This is the exported application that you can experience on your phone with [We3D](/vlk/downloads#we3d) or desktop with [Valkyrie](/vlk/downloads#vlk).
-- [Vlk Project Download](https://cdn2.talansoft.com/ftp/samples/Watch_Preview.zip). This is the source project that you can tinker with in the [Valkyrie editor](/vlk/downloads#vlk).
+- [Vpk Download](https://cdn2.talansoft.com/ftp/samples/Watch_Config_v6.vpk). This is the exported application that you can experience on your phone with [We3D](/vlk/downloads#we3d) or desktop with [Valkyrie](/vlk/downloads#vlk).
+- [Vlk Project Download](https://cdn2.talansoft.com/ftp/samples/Watch_Config_v6.zip). This is the source project that you can tinker with in the [Valkyrie editor](/vlk/downloads#vlk).
 
 # VPK Guide
 
