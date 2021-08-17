@@ -12,6 +12,7 @@
 
 # Project Templates
 - [Car Configurator](./VlkSamples/Car-Configurator) (Web, AR, 3D)
+- [Watch Configurator](./VlkSamples/watch_configurator) (Web, AR, 3D)
 - [AR Education](./VlkSamples/ar-education) (Web, AR, 3D)
 - [AR Dragon](./VlkSamples/ar-dragon) (AR, 3D)
 - [AR Storm Trooper with music](./VlkSamples/ar-storm-trooper) (Web, AR, 3D, Audio)
