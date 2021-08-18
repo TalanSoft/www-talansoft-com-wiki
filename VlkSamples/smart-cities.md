@@ -6,7 +6,7 @@ title: Smart City | Valkyrie Template
 
 Visualize the electricity consumption in KwH of each individual building in Manhattan by clicking on it, and get an overview of the Covid-19 cases live data.
 
-<a class="btn btn-primary umami--click--bt_launch_smartcity_template" href="/vlk/samples/smart-cities/ManhattanProject-Beta.vpk">Launch Smart city Template</a>
+<a class="btn btn-primary umami--click--bt_launch_smartcity_template" href="/vlk/samples/smart-cities/ManhattanProject-Beta-v2.vpk">Launch Smart city Template</a>
 
 Click on the button above to try it in your browser now! The web version of the template will load and allow you to interact with the end product. Note: this template is quite big, it might take some time to load completely.
 
@@ -14,8 +14,8 @@ Click on the button above to try it in your browser now! The web version of the 
 
 # Downloads
 
-- [Vpk Download](https://cdn2.talansoft.com/ftp/samples/ManhattanProject-Beta.vpk). This is the exported application that you can experience on your phone with [We3D](/vlk/downloads#we3d) or desktop with [Valkyrie](/vlk/downloads#vlk).
-- [Vlk Project Download](https://cdn2.talansoft.com/ftp/samples/ManhattanProject-Beta.zip). This is the source project that you can tinker with in the [Valkyrie editor](/vlk/downloads#vlk).
+- [Vpk Download](https://cdn2.talansoft.com/ftp/samples/ManhattanProject-Beta-v2.vpk). This is the exported application that you can experience on your phone with [We3D](/vlk/downloads#we3d) or desktop with [Valkyrie](/vlk/downloads#vlk).
+- [Vlk Project Download](https://cdn2.talansoft.com/ftp/samples/ManhattanProject-Beta-v2.zip). This is the source project that you can tinker with in the [Valkyrie editor](/vlk/downloads#vlk).
 
 # Vpk guide
 
