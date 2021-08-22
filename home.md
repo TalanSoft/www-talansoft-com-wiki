@@ -6,6 +6,7 @@
 # Advanced Valkyrie Guides
 - [How to create a selection menu](VlkGuides/How-to-create-a-selection-menu)
 - [AR in less that 10 minutes](VlkGuides/ar-in-10-mins)
+- [AR markers for your scene](VlkGuides/ar-marker) (QR codes)
 - [Make a simple User Interface with Valkyrie](VlkGuides/make-a-simple-ui)
 - [A simple daylight system](VlkGuides/automatic-daylight-system)
 - [Retrieve live bitcoin USD value from a Web API](VlkGuides/retrieve-btc-usd-http-web-api)
