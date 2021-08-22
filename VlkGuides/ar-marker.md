@@ -1,5 +1,5 @@
 # How to use an AR Marker
-We often want to position an **augmented reality** scene on a specific location identified by a physical marker like a **QR code**. This allows you to control exactly how your users will experience your scene. You could print a marker on business cards, pamphlets, magazines and have your scene anchor on it. We propose to show you how in this tutorial.  
+We often want to position an **augmented reality** scene on a specific location identified by a physical marker like a **QR code**. This allows you to control exactly how your users will experience your scene. You could print a marker on **business cards, pamphlets, magazines...** and have your scene anchor on it. We propose to show you how in this tutorial.  
 
 ## Basic display mode
 First of all in AR, you are probably used to scanning your environment for an anchor as shown in this video. This is the basic display mode for most augmented reality scenes:  
@@ -13,7 +13,7 @@ Print that QR code or display it on a screen, and your augmented reality scene w
 
 ## Set up your own AR marker in Valkyrie
 Finally let's now see how to include your own **AR marker** in your project so that your scene can anchor on it.  
-For the sake of the example we will show you how to add the we3d-ar-marker-qr-code.png image shown to you in the previous section to a VLK project, but of couse, just take your own marker.  
+For the sake of the example we will show you how to add the *we3d-ar-marker-qr-code.png* image shown to you in the previous section to a VLK project, but of course, when you do it just take your own marker.  
 First, copy your marker image in your VLK project directory:  
 ![Windows explorer](https://cdn2.talansoft.com/ftp/img/tutorial_ar-marker/windows-explorer.png)  
 Then inside your project, select the **level** and go to the **Publish section** to find the field armarker_image:  
