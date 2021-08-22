@@ -8,13 +8,15 @@ The Current Version supports these formats:
 
 ### Import Step 01
 Within Valkyrie, select the **File Explorer** icon from the **Library panel** to open the Data Folder of your current project.  
+
 ![data_file_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/recent/data_file_gif_01.gif)  
 
 ### Import Step 02 
-Drag any related files and assets you want to use in your project in this Data Folder. (Texture, 3D Mesh, Rigs, Etc.)  
+Drag any files and assets you want to use in your project in the Data Folder you just opened (Texture, 3D Mesh, Rigs, Etc.).  
 
 ### Import Step 03
 To review all the imported assets within Valkyrie, select the **File Explorer** icon within the **Library panel**. All of your imported files will appear here.  
+
 ![data_file_vlk_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/recent/data_file_vlk_gif_01.gif)  
 
 Tips: You can refresh the Library tab by clicking on the **Refresh Icon** beside the **File Explorer Icon**.  
@@ -35,6 +37,7 @@ Use Project mode to generate a compressed Archive (.zip file) of your entire pro
 
 ### Export Step 01
 On the top left corner of Valkyrie, in the **Center** tab and the **Tools** section, select the **Publish Application** Button.  
+
 ![export_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/export/export_gif_01.gif)  
 
 ### Export Step 02
