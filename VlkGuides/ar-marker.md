@@ -2,7 +2,7 @@
 We often want to position an **augmented reality** scene on a specific location identified by a physical marker like a **QR code**. This allows you to control exactly how your users will experience your scene. You could print a marker on **business cards, pamphlets, magazines...** and have your scene anchor on it. We propose to show you how in this tutorial.  
 
 ## Basic display mode
-First of all in AR, you are probably used to scanning your environment for an anchor as shown in this video. This is the basic display mode for most augmented reality scenes:  
+First of all, in AR, you are probably used to scanning your environment for an anchor as shown in this video. This is the basic display mode for most augmented reality scenes:  
 ![AR Anchor](https://cdn2.talansoft.com/ftp/img/tutorial_ar-marker/AR_anchor_Bag.MP4)  
 
 ## Standard Valkyrie setup
@@ -15,7 +15,7 @@ Print that QR code or display it on a screen, and your augmented reality scene w
 ## Set up your own AR marker in Valkyrie
 Finally let's now see how to include your own **AR marker** in your project so that your scene can anchor on it.  
 
-For the sake of the example we will show you how to add the *we3d-ar-marker-qr-code.png* image shown to you in the previous section to a VLK project. Of course, when you do it, just use your own marker.  
+For the sake of the example, we will show you how to add the *we3d-ar-marker-qr-code.png* image shown to you in the previous section to a VLK project. Of course, when you do it, just use your own marker.  
 
 First, copy your marker image in your VLK project directory:  
 ![Windows explorer](https://cdn2.talansoft.com/ftp/img/tutorial_ar-marker/windows-explorer.png)  
@@ -23,14 +23,14 @@ First, copy your marker image in your VLK project directory:
 Then inside your project, select the **level** and go to the **Publish section** to find the field **armarker_image**:  
 ![Level selection](https://cdn2.talansoft.com/ftp/img/tutorial_ar-marker/level-selection.png)  
 
-Finally just drag & drop the AR marker onto the field:  
+Finally, just drag & drop the AR marker onto the field:  
 ![Slide AR marker](https://cdn2.talansoft.com/ftp/img/tutorial_ar-marker/slide-ar-marker.png)  
 
 That is all you need to know.  
 Now if you export your project on mobile, your scene will lock on this AR marker you just added.  
 
 ## How to create your AR marker
-You can use any design tool your want to create an image. The idea however is that your image contains enough contrasted elements to make it easy for mobile devices to scan it, which is why we chose a rich black & white QR code for ours.  
+You can use any design tool you want to create your image. The idea however is that your image contains enough contrasted elements to make it easy for mobile devices to scan it, which is why we chose a rich black & white QR code for ours.  
 
 If you play with this feature, you will also notice that your AR scene will scale according to the size of your AR marker. Just take note that the smaller the marker, the harder it will be for your device to scan, and your scene might not be as stable as with a bigger marker.  
 
