@@ -1,17 +1,18 @@
-Hi guys,
+# Automatic daylight system
 
-I created a daylight system that gets the time from the device your application is running on.
-It converts it into a float value and stores it in a datatable.
-For example 18h30 = 18,5.
+We created a daylight system that triggers a light to rotate 360 degrees around your scene, simulating the sun rotation around Earth (For all Flat Earthers, please contact us if you want a daylight system for your configuration ^^). A little script is necessary for this complex system.  
 
-The next operation is to divide 360 degrees by 24 hours to get a 15 degree increment per hour.
+First we need to get the time from the device your application is running on.  
+We then convert that time into a float value and store it in a **Datatable**.  
+For example 18h30 = 18,5.  
 
-The last stage is to multiply the float value by 15 to get the adequate angle.
+The next operation is to divide 360 degrees by 24 hours, which gives us a 15 degree increment per hour.  
+lastly, we multiply the float value by 15 to get the adequate angle for the light, depending on the time it is on your device.  
 
-The sunlight is contained in a dummy object onto which the rotation transformation is applied every time the time changes.
+The sunlight is contained in a dummy object onto which the rotation transformation is applied every time the time changes.  
 
-You can add new rules to this by using the Property changed event.
-Copy past the snippet below into your scene to test it.
+You can add new rules to this by using the Property changed event.  
+Copy & paste the snippet below into your scene to test it.  
 
     Template:Light:Day-Night-System(DataTable)
     ---VLK-BEGIN---
