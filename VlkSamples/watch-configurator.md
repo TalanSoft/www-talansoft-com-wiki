@@ -1,5 +1,6 @@
 ---
 title: Watch Configurator | Valkyrie Template
+meta content: Create your own 3D watch configurator in hours using our ready-made template
 ---
 
 # Watch Configurator Valkyrie Template
