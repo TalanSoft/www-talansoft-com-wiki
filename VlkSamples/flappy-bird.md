@@ -1,5 +1,6 @@
 ---
 title: Flappy Bird | Valkyrie Template
+meta content: Create your own 2D game using our Flappy Bird ready-made template
 ---
 
 # Flappy Bird Valkyrie Template
