@@ -1,5 +1,6 @@
 ---
 title: Earth Defender | Valkyrie Template
+meta content: Create your own 2D game using our Earth Defender ready-made template
 ---
 
 # Earth Defender Valkyrie Template
