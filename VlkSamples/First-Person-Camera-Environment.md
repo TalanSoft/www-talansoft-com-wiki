@@ -1,5 +1,6 @@
 ---
 title: First Person Camera | Valkyrie Template
+meta content: Create your own First Person Camera game or virtual tour using our ready-made template
 ---
 
 # First Person Camera Valkyrie Template
@@ -11,7 +12,7 @@ Do ensure that Valkyrie is installed on your computer for this Project Template 
 ![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/01_ingame_03.png)
 Captured inside Valkyrie.
 
-# How to play
+## How to play
 
 To move around, on the keyboard
 - W to Move Forward
@@ -23,7 +24,7 @@ The camera view follows the usage of the Mouse
 - To pan the camera: Hold the Right Click and Move the Mouse around.
 
 
-# How to use the Project Template
+## How to use the Project Template
 
 ### Drag the Building Pieces
 
@@ -67,7 +68,7 @@ This is an **Optional** step, however it provides an ease & conveniences for all
 
 ![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/04_refresh.PNG)
 
-# Tips
+## Tips
 
 ### Ensuring your models are perfectly placed
 
@@ -88,18 +89,18 @@ Recommended Settings
 
 ![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/08_snapmenu.PNG)
 
-# Downloads
+## Downloads
 
 - [Vpk Download](https://cdn2.talansoft.com/ftp/samples/FPS-Sample_v2.vpk). This is the exported application that you can experience on your phone with [We3D](/vlk/downloads#we3d) or desktop with [Valkyrie](/vlk/downloads#vlk).
 - [Vlk project download](https://cdn2.talansoft.com/ftp/samples/FPS-Sample_v2.zip). This is the source project that you can tinker with in the [Valkyrie editor](/vlk/downloads#vlk).
 
-# Links
+## Links
 
 You might also be interested in these templates:
 - [Flappy bird](./flappy-bird)
 - [Car configurator](./Car-Configurator)
 
-# Additional Screenshots
+## Additional Screenshots
 ![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/09_ingame_01.png)
 
 ![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/10_ingame02_01.png)
