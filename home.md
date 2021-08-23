@@ -20,7 +20,7 @@
 - [Architecture](./VlkSamples/architecture) (Web, AR, 3D)
 - [Earth Defender](./VlkSamples/earth-defender) (Web, 2D, touch based game)
 - [Flappy Bird](./VlkSamples/flappy-bird) (Web, 2D, touch based game)
-- [FPS Environment](./VlkSamples/First-Person-Camera-Environment) (3D, mouse & keyboard game)
+- [First Person Camera Environment](./VlkSamples/First-Person-Camera-Environment) (3D, mouse & keyboard FPS-like game)
 - [Facility Management](./VlkSamples/facility-management) (enterprise application)
 - [Smart Cities](./VlkSamples/smart-cities) (enterprise application)
 
