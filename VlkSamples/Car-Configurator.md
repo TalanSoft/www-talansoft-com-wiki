@@ -12,7 +12,7 @@ Click on the button above to try it in your browser now! The web version of the 
 
 This sample is a a practical example for the automotive industry of what you can build in Valkyrie with no code. Of course you can tweak the configurator as you please to fit your needs in any other industry.
 
-![tesla_01](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_01.jpg)
+![tesla 3D car configurator](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_01.jpg)
 
 # Downloads
 
@@ -36,19 +36,19 @@ Use the **Mouse Wheel** to **Zoom In / Out**.
 When using **[We3D](/vlk/downloads#we3d)**, switch to landscape mode to display the user interface.
 
 Click on the paint color of your choice to change the color of the car.
-![tesla_paint_02](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_paint_02.gif)
+![tesla 3D car configurator change colors](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_paint_02.gif)
 
 Click on the exterior, interior or chassis buttons to switch to the relevant view.
-![tesla_view_03](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_view_03.gif)
+![tesla 3D car configurator chassis](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_view_03.gif)
 
 Click on the interior color of your choice to change the color of the interior.
-![tesla_interior_04](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_interior_04.gif)
+![tesla 3D car configurator interior](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_interior_04.gif)
 
 Click on the door icons to **Open / Close** the doors of your choice.
-![tesla_doors_05](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_doors_05.gif)
+![tesla 3D car configurator doors and trunk](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_doors_05.gif)
 
 Click on airflow icon to visualize the computational fluid dynamics.
-![tesla_cfd_06](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_cfd_06.gif)
+![tesla 3D car configurator airflow dynamics](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_cfd_06.gif)
 
 # Other Version
 Check out another project based on this Configurator Project Template.
