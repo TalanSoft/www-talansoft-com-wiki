@@ -135,7 +135,7 @@ Adjacent to the Right section, you will find the timeline of the entire project 
 #### Outliner
 On the Left side of the **Timeline Tab**, the list contains every single **Entity**, **Action** and **Event** that is within the current level. From here, each item can be manipulated in a layered system where components are grouped, in a hierarchical arrangement, such that lower layers provide functions and services that support the functions and services of higher layers.
 
-Above the Outliner, a row of icons are located here to help manipulate both the timeline and the outliner.  
+Above the Outliner, a row of icons are located here to help manipulate both the timeline and the Outliner.  
 ![timeline_01.png](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/timeline_grp/timeline_01.png)  
 
 ![timeline_icon_03.png](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/timeline_grp/timeline_icon_03.png)  
@@ -173,8 +173,8 @@ The Material Editor allows you to add your texture maps to individual Entities. 
 For more details, [Click Here](https://gitlab.talansoft.com/Pub/Wiki/wikis/VlkGuides/Material-Editor).  
 
 ### 06: Windows
-Every Menus and Windows mentioned above can be visibly toggled and eventually the entire menu setup can be customised to your own preference.  
-![menu_window_gif 01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/windows_menu/menu_window_gif 01.gif)  
+Every Menus and Windows mentioned above can be visibly toggled and eventually the entire menu setup can be customized to your own preference.  
+![menu_window_gif 01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/windows_menu/menu_window_gif_01.gif)  
 
 #### Customize User Interface
 ![undocking_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/windows_menu/undocking_gif_01.gif)  
