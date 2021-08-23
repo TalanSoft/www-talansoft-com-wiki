@@ -19,7 +19,7 @@ Get inspired by our past projects where designers created and published interact
 
 Using our industry specific EyeOT-3D template, your designers can easily make mobile immersive 2D, 3D & AR monitoring and management experiences in real-time without any programming or endless video rendering.
 
-Managers can monitor their facilities, manage their maintenance activities and control their connected devices from anywhere in the world with mobile 3D dashboards made with Valkyrie.
+Managers can monitor their facilities or Smart Factories, manage their maintenance activities and control their connected devices from anywhere in the world with mobile 3D dashboards made with Valkyrie.
 
 ## Template
 Download the digital twin template and use it to start building your own application or present an MVP to your client.
