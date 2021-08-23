@@ -1,5 +1,6 @@
 ---
 title: Car Configurator | Valkyrie Template
+meta content: Create your own 3D car configurator in hours using our ready-made template
 ---
 
 # Car Configurator Valkyrie Template
