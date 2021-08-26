@@ -1,6 +1,6 @@
 ---
 title: Interior Design | Valkyrie Template
-meta content: Create your own 3D & AR Interior Design interactive app in hours using our ready-made template
+meta-description: Create your own 3D & AR Interior Design interactive app in hours using our ready-made template
 ---
 
 # Architecture Valkyrie Template
