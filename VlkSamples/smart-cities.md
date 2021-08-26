@@ -1,6 +1,6 @@
 ---
 title: Smart City | Valkyrie Template
-meta content: Create your own Smart City dashboard using our ready-made template
+meta-description: Create your own Smart City dashboard using our ready-made template
 ---
 
 # Smart City Valkyrie Template
