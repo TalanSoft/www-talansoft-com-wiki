@@ -1,6 +1,6 @@
 ---
 title: Educative AR Scene | Valkyrie Template
-meta content: Create your own Educative AR Scene in minutes using our ready-made template
+meta-description: Create your own Educative AR Scene in minutes using our ready-made template
 ---
 
 # AR Education Valkyrie Template
