@@ -1,6 +1,6 @@
 ---
 title: AR Storm Trooper | Valkyrie Template
-meta content: Play with this AR Storm Trooper and create your own Augmented Reality scene in minutes using our ready-made template
+meta-description: Play with this AR Storm Trooper and create your own Augmented Reality scene in minutes using our ready-made template
 ---
 
 # AR Storm Trooper Valkyrie Template
