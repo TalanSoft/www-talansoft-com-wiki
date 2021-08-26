@@ -11,7 +11,7 @@ Customize your Watch with the Configurator. Choose the model, colors & design be
 Click on the button above to try it in your browser now! The web version of the template will load and allow you to interact with the end product.  
 
 The Watch Configurator is a variation of the **Car Configurator** template. Click below to check it out.  
-[Car Configurator](VlkGuides/Car-Configurator) 
+[Car Configurator](./Car-Configurator) 
 
 # Downloads
 
@@ -39,6 +39,6 @@ Click on the Model Name to swap between different Models.
 
 # Links
 Check out the other variations of the Configurator Project as well as the other VLK projects.
-- [Car Configurator](VlkGuides/Car-Configurator)
+- [Car Configurator](./Car-Configurator)
 - [AR dragon](./ar-dragon)
  
