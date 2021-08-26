@@ -1,6 +1,6 @@
 ---
 title: First Person Camera | Valkyrie Template
-meta content: Create your own First Person Camera game or virtual tour using our ready-made template
+meta-description: Create your own First Person Camera game or virtual tour using our ready-made template
 ---
 
 # First Person Camera Valkyrie Template
@@ -101,6 +101,6 @@ You might also be interested in these templates:
 - [Car configurator](./Car-Configurator)
 
 ## Additional Screenshots
-![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/09_ingame_01.png)
+![first person camera Valkyrie](https://cdn2.talansoft.com/ftp/img/first_person_camera/09_ingame_01.png)
 
-![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/10_ingame02_01.png)
+![first person camera Valkyrie 2](https://cdn2.talansoft.com/ftp/img/first_person_camera/10_ingame02_01.png)
