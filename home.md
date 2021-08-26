@@ -25,7 +25,7 @@
 - [Smart Cities](./VlkSamples/smart-cities) (enterprise application)
 
 # Demos
-- [List of demos](./VlkSamples/demos) (Not as polished as Templates, but good for inspiration)
+- [List of demos](./demos/demo-list) (Not as polished as Templates, but good for inspiration)
 
 # Valkyrie References
 - [Forms](./Vlk/RefForms)
