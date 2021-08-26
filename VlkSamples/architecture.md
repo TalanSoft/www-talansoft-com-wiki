@@ -28,16 +28,16 @@ This template can be used on Valkyrie's mobile app, We3D, that allows you to vie
 - **Left Click** to complete **Basic Actions**
 
 **Left Click** on the glasses icon to view the house from **Street View**.  
-![Street_view_01](https://cdn2.talansoft.com/ftp/vids/animatedgif-original.gif)  
+![Street_view_01](https://cdn2.talansoft.com/ftp/img/architecture/part_01_gif.gif)  
 
 Use the **W,S,A,D** keys and hold **Right Click** on the mouse to **Move** around the house.  
-![Moving_around_02](https://cdn2.talansoft.com/ftp/vids/animatedgif-original(1).gif)  
+![Moving_around_02](https://cdn2.talansoft.com/ftp/img/architecture/part_02_gif.gif)  
 
 **Left Click** on a door, and it will **Open** to enable you to move between rooms.  
-![Opening_door_03](https://cdn2.talansoft.com/ftp/vids/animatedgif-original(2)copy.gif)  
+![Opening_door_03](https://cdn2.talansoft.com/ftp/img/architecture/part_03_gif.gif)  
 
 **Left Click** on the planet icon to switch back to **Birds Eye View**.  
-![Bird's_eye_view_04](https://cdn2.talansoft.com/ftp/vids/animatedgif-original(3).gif)  
+![Bird's_eye_view_04](https://cdn2.talansoft.com/ftp/img/architecture/part_04_gif.gif)  
 
 # Links
 
