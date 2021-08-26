@@ -24,6 +24,9 @@
 - [Facility Management](./VlkSamples/facility-management) (enterprise application)
 - [Smart Cities](./VlkSamples/smart-cities) (enterprise application)
 
+# Demos
+- [List of demos](./VlkSamples/demos) (Not as polished as Templates, but good for inspiration)
+
 # Valkyrie References
 - [Forms](./Vlk/RefForms)
 - [Entities](./Vlk/RefEntities)
