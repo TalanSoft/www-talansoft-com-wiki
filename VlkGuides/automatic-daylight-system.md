@@ -1,6 +1,6 @@
 # Automatic daylight system
 
-We created a daylight system that triggers a light to rotate 360 degrees around your scene, simulating the sun rotation around Earth (For all Flat Earthers, please contact us if you want a daylight system for your configuration ^^). A little script is necessary for this complex system.  
+We created a daylight system that triggers a light to rotate 360 degrees around your scene, simulating the sun rotation around Earth. A little script is necessary for this complex system.  
 
 First we need to get the time from the device your application is running on.  
 We then convert that time into a float value and store it in a **Datatable**.  
