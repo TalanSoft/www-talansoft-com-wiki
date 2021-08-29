@@ -1,17 +1,19 @@
 # Automatic daylight system
 
 We created a daylight system that triggers a light to rotate 360 degrees around your scene, simulating the sun rotation around Earth.  
-First we need to get the time from the device your application is running on.  
-We then convert that time into a float value and store it in a **Datatable**.  
-For example 18h30 = 18,5.  
 
-The next operation is to divide 360 degrees by 24 hours, which gives us a 15 degree increment per hour.  
-lastly, we multiply the float value by 15 to get the adequate angle for the light, depending on the time it is on your device.  
+- First we need to get the time from the device your application is running on.  
+- We then convert that time into a float value and store it in a **Datatable**.  
+For example 18h30 = 18,5.  
+- The next operation is to divide 360 degrees by 24 hours, which gives us a 15 degree increment per hour.  
+- Lastly, we multiply the float value by 15 to get the adequate angle for the light, depending on the time it is on your device.  
 
 The sunlight is contained in a dummy object onto which the rotation transformation is applied every time the time changes.  
 
 You can add new rules to this by using the Property changed event.  
-Copy & paste the snippet below into your scene to test it.  
+
+Open your Valkyrie Project in the editor, then copy & paste the snippet below to test it.  
+You just need to select the layer or entity you want to paste this daylight system in your **Valkyrie timeline** and then paste it (CTRL + V).  
 
     Template:Light:Day-Night-System(DataTable)
     ---VLK-BEGIN---
