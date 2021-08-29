@@ -3,14 +3,14 @@ We often want to position an **augmented reality** scene on a specific location 
 
 ## Basic display mode
 First of all, in AR, you are probably used to scanning your environment for an anchor as shown in this video. This is the basic display mode for most augmented reality scenes:  
-![AR Anchor](https://cdn2.talansoft.com/ftp/img/tutorial_ar-marker/AR_anchor_Bag.MP4)  
+![AR Anchor](https://cdn2.talansoft.com/ftp/img/tutorial_ar-marker/ar_anchor_bag.mp4)  
 
 ## Standard Valkyrie setup
 Now, if you want to avoid scanning the environment and want your scene to be displayed at a specific location, you should know that all VPK files created with Valkyrie and played on our mobile platform [We3D](https://www.talansoft.com/vlk/downloads#we3d) will respond to the standardized **Valkyrie QR code** below:  
 ![AR Marker](https://cdn2.talansoft.com/ftp/img/tutorial_ar-marker/we3d-ar-marker-qr-code.png)  
 
 Print that QR code or display it on a screen, and your augmented reality scene will anchor on it right away as shown in this video:  
-![AR Marker Anchor](https://cdn2.talansoft.com/ftp/img/tutorial_ar-marker/ar_marker_anchor_bag.MP4)  
+![AR Marker Anchor](https://cdn2.talansoft.com/ftp/img/tutorial_ar-marker/ar_marker_anchor_bag.mp4)  
 
 ## Set up your own AR marker in Valkyrie
 Finally let's now see how to include your own **AR marker** in your project so that your scene can anchor on it.  
