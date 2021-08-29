@@ -4,6 +4,7 @@
 - ARKit3 (for Lidar and occlusion)
 - High performance networking client/server/p2p entities, actions & events
 - Physics-based and IK animations and MMD support
+- Voxel editor
 
 ## Services
 - Asset marketplace (2D, 3D, music, sounds and video)  
