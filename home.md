@@ -12,12 +12,12 @@
 - [Retrieve live bitcoin USD value from a Web API](VlkGuides/retrieve-btc-usd-http-web-api)
 
 # Project Templates
-- [Car Configurator](./VlkSamples/Car-Configurator) (Web, AR, 3D, DIY: 1 hour)
-- [Watch Configurator](./VlkSamples/watch-configurator) (Web, AR, 3D, DIY: 1 hour)
-- [AR Education](./VlkSamples/ar-education) (Web, AR, 3D, DIY: 1 hour)
-- [AR Dragon](./VlkSamples/ar-dragon) (AR, 3D, DIY: 1 hour)
-- [AR Storm Trooper with music](./VlkSamples/ar-storm-trooper) (Web, AR, 3D, Audio, DIY: 1 hour)
-- [Architecture](./VlkSamples/architecture) (Web, AR, 3D, DIY: 4 hours)
+- [Car Configurator](./VlkSamples/Car-Configurator) (Web, AR, 3D, **DIY: 1 hour**)
+- [Watch Configurator](./VlkSamples/watch-configurator) (Web, AR, 3D, **DIY: 1 hour**)
+- [AR Education](./VlkSamples/ar-education) (Web, AR, 3D, **DIY: 1 hour**)
+- [AR Dragon](./VlkSamples/ar-dragon) (AR, 3D, **DIY: 1 hour**)
+- [AR Storm Trooper with music](./VlkSamples/ar-storm-trooper) (Web, AR, 3D, Audio, **DIY: 1 hour**)
+- [Architecture](./VlkSamples/architecture) (Web, AR, 3D, **DIY: 4 hours**)
 - [Earth Defender](./VlkSamples/earth-defender) (Web, 3D, touchscreen game)
 - [Flappy Bird](./VlkSamples/flappy-bird) (Web, 3D, touchscreen game)
 - [First Person Camera Environment](./VlkSamples/First-Person-Camera-Environment) (3D, mouse & keyboard FPS-like game)
