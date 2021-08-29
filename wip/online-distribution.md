@@ -4,7 +4,7 @@ WIP!
 
 ## Embed in an iframe on your website
 Example:  
-<iframe loading="lazy" src="https://cdn2.talansoft.com/ftp/webplayer/v20210715/Vlk/bin/web-js/VlkPlayerSA_ra.html?OpenFile=https://cdn2.talansoft.com/ftp/samples/Tesla-Template-Version-1.vpk" scrolling="yes" class="iframe-class" width="100%" height="900" frameborder="0"></iframe>
+`<iframe loading="lazy" src="https://cdn2.talansoft.com/ftp/webplayer/v20210715/Vlk/bin/web-js/VlkPlayerSA_ra.html?OpenFile=https://cdn2.talansoft.com/ftp/samples/Tesla-Template-Version-1.vpk" scrolling="yes" class="iframe-class" width="100%" height="900" frameborder="0"></iframe>`
 
 ## Publish your VPK file from Valkyrie
 
