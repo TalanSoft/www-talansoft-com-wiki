@@ -37,6 +37,7 @@
 - [Frequently Asked Questions](./resources/faq)
 - [Toolkit](./resources/tools)
 - [About 3D Printers formats](./resources/3d-printers) (GCODE, STL, OBJ)
+- [Future Roadmap](./resources/future-roadmap) 
 
 # System Version
 - [Valkyrie for Windows](./Valkyrie-for-Windows)
