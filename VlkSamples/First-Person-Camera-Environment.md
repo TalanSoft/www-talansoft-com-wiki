@@ -12,6 +12,11 @@ Do ensure that Valkyrie is installed on your computer for this Project Template 
 ![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/01_ingame_03.png)
 Captured inside Valkyrie.
 
+## Downloads
+
+- [Vpk Download](https://cdn2.talansoft.com/ftp/samples/FPS-Sample_v2.vpk). This is the exported application that you can experience on your phone with [We3D](/vlk/downloads#we3d) or desktop with [Valkyrie](/vlk/downloads#vlk).
+- [Vlk project download](https://cdn2.talansoft.com/ftp/samples/FPS-Sample_v2.zip). This is the source project that you can tinker with in the [Valkyrie editor](/vlk/downloads#vlk).
+
 ## How to play
 
 To move around, on the keyboard
@@ -88,11 +93,6 @@ Recommended Settings
 **c)** While holding **Ctrl** + **Shift**, you can quickly duplicate the selected object while have it snap properly.
 
 ![img](https://cdn2.talansoft.com/ftp/img/first_person_camera/08_snapmenu.PNG)
-
-## Downloads
-
-- [Vpk Download](https://cdn2.talansoft.com/ftp/samples/FPS-Sample_v2.vpk). This is the exported application that you can experience on your phone with [We3D](/vlk/downloads#we3d) or desktop with [Valkyrie](/vlk/downloads#vlk).
-- [Vlk project download](https://cdn2.talansoft.com/ftp/samples/FPS-Sample_v2.zip). This is the source project that you can tinker with in the [Valkyrie editor](/vlk/downloads#vlk).
 
 ## Links
 
