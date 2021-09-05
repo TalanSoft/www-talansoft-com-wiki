@@ -14,6 +14,7 @@
 # Project Templates
 - [Car Configurator](./VlkSamples/Car-Configurator) (Web, AR, 3D, DIY: 1 hour)
 - [Watch Configurator](./VlkSamples/watch-configurator) (Web, AR, 3D, DIY: 1 hour)
+- [Shoe Configurator](./VlkSamples/shoe-configurator) (Web, AR, 3D, DIY: 2 hour)
 - [AR Education](./VlkSamples/ar-education) (Web, AR, 3D, DIY: 1 hour)
 - [AR Dragon](./VlkSamples/ar-dragon) (AR, 3D, DIY: 1 hour)
 - [AR Storm Trooper with music](./VlkSamples/ar-storm-trooper) (Web, AR, 3D, Audio, DIY: 1 hour)
