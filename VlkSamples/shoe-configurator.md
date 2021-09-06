@@ -38,7 +38,7 @@ When the White dot buttons are revealed, selected any of the white dots to custo
 ![shoe_03](https://cdn2.talansoft.com/ftp/img/shoe_configurator/shoe_03.gif)
 
 With the a selected part, you can then choose a colour on the right side of the screen. 
-![shoe_04](https://cdn2.talansoft.com/ftp/img/shoe_configurator/shoe_04.gif)
+![shoe_05](https://cdn2.talansoft.com/ftp/img/shoe_configurator/shoe_05.gif)
 
 # Links
 Check out the other variations of the Configurator Project as well as the other VLK projects.
