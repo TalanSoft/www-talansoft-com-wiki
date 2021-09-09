@@ -9,6 +9,7 @@
 ## Services
 - Asset marketplace (2D, 3D, music, sounds and video)  
 - VPK hosting and publishing services  
+- Cloud-based workplace
 
 ## Platforms
 - Valkyrie editor for iPad  
