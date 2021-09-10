@@ -26,13 +26,15 @@
 -   [FactorySpawn](./Action/FactorySpawn)
 -   [FactorySpawnGrid](./Action/FactorySpawnGrid)
 
-## Collide Character & Simple Physics
+## Collide Character / Physics / Ray Cast
 
 -   [CCChangeHeight](./Action/CCChangeHeight)
 -   [CCSetAcceleration](./Action/CCSetAcceleration)
 -   [CCSetDeceleration](./Action/CCSetDeceleration)
 -   [CCSetMaxVelocity](./Action/CCSetMaxVelocity)
 -   [CCSetVelocity](./Action/CCSetVelocity)
+-   [InputRayCast](./Action/InputRayCast)
+-   [RayCast](./Action/RayCast)
 
 ## DataTables
 
