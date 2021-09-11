@@ -32,6 +32,10 @@ We also included a little trick to stimulate your imagination. Find the **Libert
 
 ![Manhattan-smart-city-condo](https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/Manhattan_condo.jpg)
 
+# Preview
+
+![Manhattan smart city presentation](https://cdn2.talansoft.com/ftp/img/smart-cities/smart-city-presentation.mp4)
+
 # Links
 
 You might also be interested in these templates:
