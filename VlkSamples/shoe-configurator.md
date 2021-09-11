@@ -28,16 +28,16 @@ Use the **Mouse Wheel** to **Zoom In / Out**.
 
 When using **[We3D](/vlk/downloads#we3d)**, switch to landscape mode to display the user interface.
 
-Click on the the different Shoe Designs to preview the Selected Design.  
+Click on the the different designs to preview how cool your shoes would look like.  
 ![shoe_01](https://cdn2.talansoft.com/ftp/img/shoe_configurator/shoe_01.gif)
 
-For the First Shoe, this is the custom coloring shoe. Select the first image to enter this special mode.  
+Select the first shoe thumbnail to get access to a special customization mode where all different parts of the shoe can be configured according to your taste.  
 ![shoe_02](https://cdn2.talansoft.com/ftp/img/shoe_configurator/shoe_02.gif)
 
-When the White dot buttons are revealed, selected any of the white dots to custom that specific part of the shoe.  
+Select any of the white dots in order to color that specific part of the shoe.  
 ![shoe_03](https://cdn2.talansoft.com/ftp/img/shoe_configurator/shoe_03.gif)
 
-With the a selected part, you can then choose a color on the right side of the screen.  
+Upon selection, you can adjust the color with the right-hand side panel.  
 ![shoe_05](https://cdn2.talansoft.com/ftp/img/shoe_configurator/shoe_05.gif)
 
 # Links
