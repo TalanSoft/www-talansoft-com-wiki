@@ -10,6 +10,8 @@ Customize your Watch with the Configurator. Choose the model, colors & design be
 
 Click on the button above to try it in your browser now! The web version of the template will load and allow you to interact with the end product.  
 
+![watch configurator template](https://cdn2.talansoft.com/ftp/img/watch_configurator/watch-configurator.jpg)
+
 The Watch Configurator is a variation of the **Car Configurator** template. Click below to check it out.  
 [Car Configurator](./Car-Configurator) 
 
@@ -29,13 +31,13 @@ Use the **Mouse Wheel** to **Zoom In / Out**.
 When using **[We3D](/vlk/downloads#we3d)**, switch to landscape mode to display the user interface.
 
 Click on the View Mode icons to get a glimpse of the Watch from within.
-![viewmode](https://cdn2.talansoft.com/ftp/img/watch_configurator/videomode_gif.gif)
+![watch configurator viewmode](https://cdn2.talansoft.com/ftp/img/watch_configurator/videomode_gif.gif)
 
 Click on the Color Mode icons to preview the different color schemes of the models.
-![colourmode](https://cdn2.talansoft.com/ftp/img/watch_configurator/colourmode_gif.gif)
+![watch configurator color mode](https://cdn2.talansoft.com/ftp/img/watch_configurator/colourmode_gif.gif)
 
 Click on the Model Name to swap between different Models. 
-![modelmode](https://cdn2.talansoft.com/ftp/img/watch_configurator/modelmode_gif.gif)
+![watch configurator model mode](https://cdn2.talansoft.com/ftp/img/watch_configurator/modelmode_gif.gif)
 
 # Links
 Check out the other variations of the Configurator Project as well as the other VLK projects.
