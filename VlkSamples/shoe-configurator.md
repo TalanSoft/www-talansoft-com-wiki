@@ -4,7 +4,7 @@ meta-description: Create your own 3D shoe configurator in hours using our ready-
 ---
 
 # Shoe Configurator Valkyrie Template
-Customize your Nike Air Force 1 shoe with this 3D Configurator. Choose the model, colors & design before ordering your model. The shoes design is changed in real-time on the dancer in the scene.
+Customize your Nike Air Force 1 shoe with this 3D Configurator. Choose the model, colors & design before ordering your model. As you select your favorite, the shoes design is changed in real-time on the dancer in the scene.
 
 <a class="btn btn-primary umami--click--bt_launch_shoe_configurator" href="/vlk/samples/shoe-configurator/Nike-Shoe-Template-v4.vpk">Launch Shoe Configurator</a>
 
