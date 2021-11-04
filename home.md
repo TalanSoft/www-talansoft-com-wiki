@@ -24,6 +24,7 @@
 - [First Person Camera Environment](./VlkSamples/First-Person-Camera-Environment) (3D, mouse & keyboard FPS-like game)
 - [Facility Management](./VlkSamples/facility-management) (enterprise application)
 - [Smart Cities](./VlkSamples/smart-cities) (enterprise application)
+- [Space Invaders](./VlkSamples/space-invaders) (Web, 3D, touchscreen game)
 
 # Demos
 - [List of demos](./demos/demo-list) (Not as polished as Templates, but good for inspiration)
