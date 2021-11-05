@@ -33,9 +33,11 @@ This few sections are here to help those who want to play around with the Valkyr
 You can update the first splash screen with your own pic or logo:  
 ![space_invaders_splash_screen1](https://cdn2.talansoft.com/ftp/img/space-invaders/space_invaders_splash_screen1.jpg)  
 
+### Changing the splash screen 2
 You can update the second splash screen with your own pic or logo:  
 ![space_invaders_splash_screen2](https://cdn2.talansoft.com/ftp/img/space-invaders/space_invaders_splash_screen2.jpg)  
 
+### Changing the title screen
 You can update the game title screen with your own pic or logo:  
 ![space_invaders_title_screen](https://cdn2.talansoft.com/ftp/img/space-invaders/space_invaders_title_screen.jpg)  
 
