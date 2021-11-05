@@ -27,7 +27,7 @@ Spacebar = Fire
 R = App reset  
 
 # Editor guide
-This few section are here to help those who wants to play around with the Valkyrie project file.
+This few sections are here to help those who want to play around with the Valkyrie project file.
 
 ### Changing the splash screen 1
 You can update the first splash screen with your own pic or logo:  
