@@ -1,3 +1,8 @@
+---
+title: Valkyrie getting started 03 | Material Editor
+meta-description: Get started with Valkyrie - material editor
+---
+
 # Material Editor
 Whether you're into physically based or stylized shaders, Valkyrie's **Material Editor** allows you to create any type of shaders in an intuitive way.
 
