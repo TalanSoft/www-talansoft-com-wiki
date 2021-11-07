@@ -1,3 +1,8 @@
+---
+title: Valkyrie getting started 02 | Import and Export
+meta-description: Get started with Valkyrie - import and export of assets
+---
+
 # Getting Started 02: Import & Export
 
 ## Import your assets
