@@ -1,6 +1,6 @@
 ---
 title: Valkyrie getting started 01 | Startup and User Interface
-meta-description: Valkyrie user interface introduction
+meta-description: Get started with Valkyrie - user interface introduction
 ---
 
 # Getting Started 01: Valkyrie Startup and Intro to User Interface
