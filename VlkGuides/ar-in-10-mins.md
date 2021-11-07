@@ -1,4 +1,8 @@
-# Create an AR scene in less than 10 minutes!
+---
+title: Create an AR scene in less than 10 minutes with Valkyrie
+meta-description: tutorial to create an augmented reality experience with Valkyrie
+---
+# Create an AR scene in less than 10 minutes with Valkyrie!
 
 Software Requirements:
 - [Valkyrie Engine](https://www.talansoft.com/vlk/downloads) to build the project and play it on your computer
@@ -6,13 +10,13 @@ Software Requirements:
 
 In this tutorial we are going to explain how to create a simple scene with an animated 3D asset that you can showcase in AR with your mobile.
 
-## Step 1: Prepare your assets
+## Step 1: Prepare the assets need for your AR scene
 After designing your assets with your preferred 3D modelling suite, export them in one of following formats:
 - FBX or DAE for animated & static assets.
 - OBJ is also an option for static assets.
 - JPG, PNG or TGA for textures (It is recommended to set a maximum texture resolution of 2048x2048px).
 
-## Step 2: Create a Valkyrie project
+## Step 2: Create your AR scene Valkyrie project
 - Open the Valkyrie Launcher & click on the New App tab.
 - Select the template of your choice & click on create button located at the bottom-right corner.
   ![1](https://cdn2.talansoft.com/img/docs/AR_Scene/1.png)
@@ -33,7 +37,7 @@ After designing your assets with your preferred 3D modelling suite, export them 
 - If you save your scene using **CTRL+S** the changes made to the level you are working on will be saved without creating a new level.
 - You have also the possibility to save your scene incrementally using **CTRL+SHIFT+S**. A new level will then be created.
 
-## Step 3: Import your assets
+## Step 3: Import the assets of your AR scene
 
 - Go to your application folder (C:/Users/Username/Documents/VlkApps/App_Name).
 - Place **all your assets** in the **Data folder**.
@@ -45,7 +49,7 @@ After designing your assets with your preferred 3D modelling suite, export them 
 
 - Your assets will now be displayed in the library.
 
-## Step 4: Set up your project
+## Step 4: Set up your AR scene Valkyrie project
 
 - Disable the template’s assets you don’t need.
   ![6](https://cdn2.talansoft.com/img/docs/AR_Scene/6.gif)
@@ -98,7 +102,7 @@ After designing your assets with your preferred 3D modelling suite, export them 
 - Press **ALT+SPACE** to preview your app’s Final visual result & **CTRL+SPACE** to play it.
   ![15](https://aws1.discourse-cdn.com/standard11/uploads/talansoft/optimized/1X/16526e4a4810b735fc741e1eaaee90f43d2f20c9_2_690x422.gif)
 
-## Step 5 Export your scene
+## Step 5: Export your AR scene
 - Click on the **Export** tab and select the file format you wish to export to:
 - Use *Player* to generate a **VPK** file that can be played on iOS devices with our app **We3D**, but also on all Mac / Windows computers that have Valkyrie Engine software installed.
 - Use *EXE* to generate a **Microsoft Windows Executable** file.
@@ -108,7 +112,7 @@ After designing your assets with your preferred 3D modelling suite, export them 
 - Clicking on the **Explore** button will open the location of the VPK file. By default in (C:/Users/Username/Documents/VlkApps/App_Name/Publish/Level/Player)
   ![17](https://cdn2.talansoft.com/img/docs/AR_Scene/17.png)
 
-## Step 6 Share with the world!
+## Step 6: Share your AR scene with the world!
 
 Your VPK file is now ready, there are multiple methods to send it to your iOS devices.
 
