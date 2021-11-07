@@ -1,8 +1,8 @@
 ---
-title: How to use an AR Marker in Valkyrie
+title: How to use an AR Marker in Valkyrie (augmented reality image anchoring)
 meta-description: tutorial to create a marker-based augmented reality experience with Valkyrie
 ---
-# How to use an AR Marker in Valkyrie
+# How to use an AR Marker in Valkyrie (augmented reality image anchoring)
 An augmented reality experience needs to locate where to place the content in the real world, hence the software needs an "anchor".  
 Valkyrie proposes 2 types of anchors for you to place your AR scene in the real world:  
 - Standard horizontal plane anchor
