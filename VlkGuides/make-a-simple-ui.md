@@ -1,24 +1,26 @@
-# Make a simple User Interface with Valkyrie
+---
+title: Create a simple user interface with Valkyrie
+meta-description: tutorial to create a simple user interface with Valkyrie
+---
+# Create a simple user interface with Valkyrie
 
-## Introduction
+In this tutorial, you will learn how to position your UI elements on the screen.  
+We recommend for you to be familiar with setting up interactions in Valkyrie.  
 
-In this tutorial, you will learn how to position your UI elements on the screen.
-We recommend that you read the [Introduction to interactions 4](https://forum.talansoft.com/t/tutorial-introduction-to-interactions/21) tutorial in order to make your GUI interactive.
-
-Depending on the look and feel you’re after, you may want to design your GUI in the image editor of your choice.
+Depending on the look and feel you are seeking, you may want to design your GUI in the image editor of your choice.
 
 What you will need:
 
 - Valkyrie Engine
-- (Optional) GUI images in PNG, TGA or JPG format.
-- 30 minutes.
+- (Optional) GUI images in PNG, TGA or JPG format
+- 30 minutes
 
 You can play with the final result in the *GUI template* included in the Valkyrie Engine launcher.
 ![img](https://aws1.discourse-cdn.com/standard11/uploads/talansoft/optimized/1X/426e650b3a9f6dca492a2c14a89dc0100d5e447b_2_471x375.jpeg)
 
 Now without further ado, let’s get started!
 
-## Target User Interface
+### Target User Interface in Valkyrie
 
 We will reproduce the GUI featured in the concept art below:
 ![img](https://aws1.discourse-cdn.com/standard11/uploads/talansoft/optimized/1X/a5a203684516734474cf12e1627d78c14364c17e_2_690x388.jpeg)
@@ -28,7 +30,7 @@ Notice the 5 UI sections in the design:
 
 Let’s first learn how to build the Bottom center bar element (UI Section 3), and then we will take a closer look at the Right side collapsible menu (UI Section 5).
 
-## Setup UI Layer
+### Setup UI Layer
 
 Create a new application in Valkyrie Engine or use an existing one.
 
@@ -58,7 +60,7 @@ Drag & drop the camera entity from the library to your GUI layer. We will call t
 
 All assets entering the field of view of this camera will be visible in the GUI layer.
 
-## Bottom center bar element (UI Section 3)
+### Bottom center bar element (UI Section 3)
 
 Create a primitive by drag & dropping the Primitive entity into your GUI layer and position it within the field of view of your GUI-Cam.
 ![img](https://aws1.discourse-cdn.com/standard11/uploads/talansoft/optimized/1X/304dfba6e972549d820a21d1f6e6ef4e2579482a_2_690x371.gif)
@@ -107,7 +109,7 @@ You can tweak the primitive’s position if there is a gap between the asset and
 Our UI element is now correctly anchored in the viewport.
 ![img](https://aws1.discourse-cdn.com/standard11/uploads/talansoft/optimized/1X/20163ba350d1819e883230a8da9f9dd4362621c1_2_690x377.png)
 
-## Top Left UI element (UI Section 1)
+### Top Left UI element (UI Section 1)
 
 We will repeat this process for all UI elements.
 ![img](https://aws1.discourse-cdn.com/standard11/uploads/talansoft/optimized/1X/bd809e8c63d68b3d75ab61d61e153d39f8989813_2_690x371.gif)
@@ -116,7 +118,7 @@ We will repeat this process for all UI elements.
 
 UI Sections 2 and 4 are skipped in this tutorial as there is little added value to show it.
 
-## Right side collapsible menu (UI Section 5)
+### Right side collapsible menu (UI Section 5)
 
 One of the UI elements is partially hidden. So let’s see how to handle this kind of exception.
 
@@ -184,7 +186,7 @@ Let’s add a TimelineJumpTo action to both EnterRayHit events and set the time 
 Behold, your UI is now complete! Clicking on the UI element reveals and collapses it. Notice also how the UI elements are anchored to the right side of the screen.
 ![img](https://tsdata2.blob.core.windows.net/img/create_user_interface/32.gif)
 
-## Conclusion
+### Conclusion
 
 With what you’ve learned, you can add more granularity to your own UI elements and create sophisticated user interfaces.
 The interactions you create in your UI layer can affect elements in the 3D layers underneath, so go ahead and try.
