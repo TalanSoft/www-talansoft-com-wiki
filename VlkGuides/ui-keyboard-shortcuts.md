@@ -1,4 +1,11 @@
-# Shortcuts
+---
+title: UI keyboard shortcuts | Valkyrie
+meta-description: Valkyrie user interface keyboard shortcuts tutorial
+---
+
+# Valkyrie User Interface Keyboard Shortcuts Tutorial
+
+Use these different key combinations in order to work faster on your Valkyrie projects.
 
 ## Navigation
 
