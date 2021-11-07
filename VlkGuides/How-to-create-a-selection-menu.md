@@ -1,10 +1,19 @@
-In this guide you will learn how to create a selection menu using a DataTable and Primitives.
+---
+title: Create a selection menu in Valkyrie
+meta-description: tutorial to create a selection menu in Valkyrie
+---
 
-It is recommended to read the following guides before starting this tutorial:
+# Create a selection menu in Valkyrie
+In this guide you will learn how to create a selection menu using a DataTable and Primitives Valkyrie entities. The menu will consist of 5 buttons and a highlight that will move around 
+the last clicked button.  
+![valkyrie 5 buttons user interface](https://cdn2.talansoft.com/ftp/img/selection_menu_tutorial/selection_menu_16.gif)
+
+It is recommended to be familiar with the following elements before starting this tutorial:
 - Creating a User Interface Layer
 - Understanding Object hierarchies
 - Understanding DataTables
 
+Download the template file below in order to manipulate the software while reading this tutorial:  
 [**Vlk Project Download**](https://cdn2.talansoft.com/ftp/samples/Selection-Menu-Tutorial.zip)
 
 ---
