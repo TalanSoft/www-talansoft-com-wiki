@@ -1,3 +1,8 @@
+---
+title: Valkyrie getting started 01 | Startup and User Interface
+meta-description: Valkyrie user interface introduction
+---
+
 # Getting Started 01: Valkyrie Startup and Intro to User Interface
 
 This tutorial will teach you the basics to navigate through the Valkyrie Engine screens and create your very first app.
