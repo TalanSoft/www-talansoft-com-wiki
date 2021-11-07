@@ -7,7 +7,7 @@ meta-description: Get started with Valkyrie - user interface introduction
 
 This tutorial will teach you the basics to navigate through the Valkyrie Engine screens and create your very first app.
 
-## Create your first project
+## Create your first project in Valkyrie
 
 Start the Valkyrie Launcher and you will get two tabs:
 
@@ -22,12 +22,12 @@ Select a **Name** for your application.
 Choose the directory where you want to save your app in the Location field & proceed by clicking on **Create**. The application will be created and saved in your documents.
 Note that by default, applications are located in **C:/User/USER_NAME/Vlk Projects/** on Windows and **/Users/USER_NAME/Vlk Projects** on macOS.
 
-## User Interface
+## Valkyrie User Interface
 ![entire_vlk_scene_01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/entire_vlk_scene_01.png)  
 
 The Image above shows the default User interface Layout.
 
-### 01: Project Manager & Viewport Tools
+### Project Manager & Viewport Tools
 
 ![Center_View___Transform_Gif](uploads/c140f5e1b6b4130a9ecc3ff6763e7d5e/Center_View___Transform_Gif.gif)  
 ![center_view_transform_button_01](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/center_view/center_view_transform_button_01.png)  
@@ -94,7 +94,7 @@ Located on the Top Left of the Screen, 3 major tabs.
 1. Move Angular Snap
 2. Rotate Angular Snap
 
-### 02 Library Overview
+### Library Overview
 
 The **Library menu** allows you to import assets inside your application and it is split into 7 tabs:  
 ![Library Menu](https://aws1.discourse-cdn.com/standard11/uploads/talansoft/original/1X/a82238140f51d83700488b27723c7ae27f4fb8b9.jpeg)
@@ -131,8 +131,8 @@ For the full list, [Click Here for Event](https://gitlab.talansoft.com/Pub/Wiki/
 - Refreshes the data folder for newly added and overwritten files.
 
 
-### 03 Timeline & Outliner
-![timeline_outliner_gif.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/timeline_grp/timeline_outliner_gif.gif)
+### Timeline & Outliner
+![Valkyrie timeline](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/timeline_grp/timeline_outliner_gif.gif)
 
 #### Timeline
 Adjacent to the Right section, you will find the timeline of the entire project and individual time bars for each **Entity**, **Action** and **Event** that is within the current level.
@@ -166,18 +166,18 @@ Starting from the Left
 09. **Toggle Visibility Camera:** To turn the visibility of the Camera within the Outliner On or Off.  
 10. **Toggle Visibility Lights:** To turn the visibility of the Light within the Outliner On or Off.  
 
-### 04: Inspector
+### Inspector
 ![inspector_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/inspector/inspector_gif_01.gif)  
 
 Within the Inspector window, this is the location to go to if you need to setup any in-scene settings of individual selected object such as **Name and Identity**, **Timeline Setting**, **Transform Coordination**, **Layer Settings** and many more other specific settings based on the type of asset.  
 
-### 05: Material Editor
+### Material Editor
 ![material_editor_gif_01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/material_editor/material_editor_gif_01.gif)  
 
 The Material Editor allows you to add your texture maps to individual Entities. It also provides the ability to directly manipulate how much a texture can affect in-scene.  
 For more details, [Click Here](https://gitlab.talansoft.com/Pub/Wiki/wikis/VlkGuides/Material-Editor).  
 
-### 06: Windows
+### Windows
 Every Menus and Windows mentioned above can be visibly toggled and eventually the entire menu setup can be customized to your own preference.  
 ![menu_window_gif 01.gif](https://cdn2.talansoft.com/ftp/img/tutorial_basic_image/windows_menu/menu_window_gif_01.gif)  
 
