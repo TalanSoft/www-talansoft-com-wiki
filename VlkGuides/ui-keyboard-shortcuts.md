@@ -7,7 +7,7 @@ meta-description: Valkyrie user interface keyboard shortcuts tutorial
 
 Use these different key combinations in order to work faster on your Valkyrie projects.
 
-## Navigation
+# Navigation
 
 Use the following controls to navigate in your scene:
 
@@ -23,7 +23,7 @@ Use the following controls to navigate in your scene:
 - **Double mouse right click** on the Final camera mode of a First Person Camera: Start playing the timeline and capture mouse movement input. Press **Esc** to release the input capture.
 - **CTRL + Enter**: Toggle Full Screen.
 
-## Workplace
+# Workplace
 
 - **CTRL + Hover**: Show tooltips.
 - **CTRL + move** on a form: Rearrange screens layout and dock the panels.
@@ -35,7 +35,7 @@ Use the following controls to navigate in your scene:
 - **CTRL + M**: Toggle on/off the Material Editor.
 - **CTRL + Alt + P**: Advanced display options.
 
-## Selection
+# Selection
 
 - **Left Click**: Object Selection.
 - **CTRL + F** or **Alt + 0**: Focus on selected entity.
@@ -49,7 +49,7 @@ Use the following controls to navigate in your scene:
 - **CTRL + T**: Toggle entity bounding box.
 - **Shift + move/resize a timeline bar**: Move all the timelines of the linked & sub-elements.
 
-## Gizmo
+# Gizmo
 
 - **CTRL + E**: Toggle the scale controls.
 - **CTRL + Q**: Translation mode.
