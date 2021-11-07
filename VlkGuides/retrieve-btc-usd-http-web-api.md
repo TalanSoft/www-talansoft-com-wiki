@@ -1,10 +1,14 @@
-# How to create a project that retrieves live bitcoin USD value on the web
+---
+title: How to create a project that retrieves live bitcoin USD value on the web in Valkyrie
+meta-description: tutorial to retrieve live bitcoin USD value on the web in Valkyrie
+---
+# How to create a project that retrieves live bitcoin USD value on the web in Valkyrie
 
 This is a simple example of an advanced functionality of Valkyrie Engine, where you will learn how to pull data from the web and display it in your scene.
 
 We will use a publicly available API that requires neither registration nor API key and displays parameters of various cryptocurrencies: [https://www.coinlore.com/cryptocurrency-data-api 1](https://www.coinlore.com/cryptocurrency-data-api)
 
-## Get request Example
+### Get request Example
 Here is an example of the GET request method I am going to use for illustrative purposes: [https://api.coinlore.com/api/ticker/?id=90 2](https://api.coinlore.com/api/ticker/?id=90)
 This request will return the following properties and values:
 
@@ -28,7 +32,7 @@ This request will return the following properties and values:
 
 Now let’s implement this in Valkyrie.
 
-## How to create a GET request method in Valkyrie
+### How to create a GET request method in Valkyrie
 
 I start with a new level:
 
@@ -86,13 +90,13 @@ This is it, I just created an app that will retrieve the USD bitcoin value in re
 
 ![Sample pic](https://aws1.discourse-cdn.com/standard11/uploads/talansoft/optimized/1X/9bbcced4e12017d6efa8c090ae1b588d1c1ab37e_2_690x201.png)
 
-## Downloads
+### Downloads
 - **Download** the tutorial project: TODO
 - **Download** the end result: TODO
 
 Note that it can take a little time before the USD value of the bitcoin is refreshed. These parameters depend on the API provider.
 
-## Limitations
+### Limitations
 
 You can do any HTTP GET request which receives a flat JSON object as response.
 
