@@ -1,4 +1,8 @@
-# Automatic daylight system
+---
+title: Automatic daylight system in Valkyrie
+meta-description: tutorial to implement an automatic daylight system in Valkyrie
+---
+# Automatic daylight system in Valkyrie
 
 We created a daylight system that triggers a light to rotate 360 degrees around your scene, simulating the sun rotation around Earth.  
 
