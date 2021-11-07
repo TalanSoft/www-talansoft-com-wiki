@@ -1,4 +1,5 @@
 # Basic Valkyrie Guides
+- [User Interface Keyboad Shortcuts](VlkGuides/ui-keyboard-shortcuts)
 - [Getting Started 01: Valkyrie Startup and Intro to User Interface](VlkGuides/getting-started-01-vlk-startup-and-ui)
 - [Getting Started 02: Import and Export](VlkGuides/import_and_export)
 - [Getting Started 03: The Material Editor](VlkGuides/Material-Editor)
