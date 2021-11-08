@@ -20,7 +20,7 @@ The first release is bound to have some unforeseen issues. Typos, bugs, missing 
 - [Vlk project download](https://cdn2.talansoft.com/ftp/samples/spaceinvaders.zip). This is the source project that you can tinker with in the [Valkyrie editor](/vlk/downloads#vlk).
 
 # Vpk guide
-Objective: Shoot the invaders before they destroy you, or before they reach your base! You have 3 lives.  
+Objective: Shoot the invaders before they destroy you, or before they reach your base! You have 2 lives.  
 
 A/D = Move player Left and Right  
 Spacebar = Fire  
@@ -47,4 +47,4 @@ You can update the game title screen with your own pic or logo:
 # Links
 You might also be interested in these more complex game templates:
 - [Earth Defender](./earth-defender)
-- [AR dragon](./flappy-bird)
+- [Flappy bird](./flappy-bird)
