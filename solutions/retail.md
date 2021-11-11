@@ -22,16 +22,16 @@ Our intuitive timeline-based interface streamlines production pipelines, allowin
 Download one of these configurator template and use it to start building your own application.
 
 <a class="btn btn-primary" href="/md/docs/VlkSamples/car-configurator">Go to template</a>
-<a href="/md/docs/VlkSamples/car-configurator">
+<a href="/md/docs/VlkSamples/car-configurator">  
 <img src= "https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_01.jpg" alt="car configurator template for Valkyrie" />
 </a>
 
 <a class="btn btn-primary" href="/md/docs/VlkSamples/shoe-configurator">Go to template</a>
-<a href="/md/docs/VlkSamples/shoe-configurator">
+<a href="/md/docs/VlkSamples/shoe-configurator">  
 <img src= "https://cdn2.talansoft.com/ftp/img/shoe_configurator/shoe_05.gif" alt="shoe configurator template for Valkyrie" />
 </a>
 
 <a class="btn btn-primary" href="/md/docs/VlkSamples/watch-configurator">Go to template</a>
-<a href="/md/docs/VlkSamples/watch-configurator">
+<a href="/md/docs/VlkSamples/watch-configurator">  
 <img src= "https://cdn2.talansoft.com/ftp/img/watch_configurator/watch-configurator.jpg" alt="watch configurator template for Valkyrie" />
 </a>
