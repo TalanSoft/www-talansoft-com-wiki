@@ -1,6 +1,7 @@
 ---
 title: Retail | Valkyrie Solutions
 nav: <a class="md-docnav-item" href="./index">Solutions</a><a class="md-docnav-item" href="">Retail</a>
+meta-description: Discover Valkyrie Solutions for retail - create product configurators
 ---
 
 # Valkyrie Solution for Retail
@@ -17,10 +18,20 @@ Now you can allow your customers to customize your products to their taste, in r
 
 Our intuitive timeline-based interface streamlines production pipelines, allowing quick and easy mixing of multi-format digital assets into interactive apps.
 
-## Template
-Download the car configurator template and use it to start building your own application.
+## Templates
+Download one of these configurator template and use it to start building your own application.
 
 <a class="btn btn-primary" href="/md/docs/VlkSamples/car-configurator">Go to template</a>
 <a href="/md/docs/VlkSamples/car-configurator">
-<img src= "https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_01.jpg" alt="car configurator template" />
+<img src= "https://cdn2.talansoft.com/ftp/img/tutorial_sample_images/tesla_01.jpg" alt="car configurator template for Valkyrie" />
+</a>
+
+<a class="btn btn-primary" href="/md/docs/VlkSamples/shoe-configurator">Go to template</a>
+<a href="/md/docs/VlkSamples/shoe-configurator">
+<img src= "https://cdn2.talansoft.com/ftp/img/shoe_configurator/shoe_05.gif" alt="shoe configurator template for Valkyrie" />
+</a>
+
+<a class="btn btn-primary" href="/md/docs/VlkSamples/watch-configurator">Go to template</a>
+<a href="/md/docs/VlkSamples/watch-configurator">
+<img src= "https://cdn2.talansoft.com/ftp/img/watch_configurator/watch-configurator.jpg" alt="watch configurator template for Valkyrie" />
 </a>
