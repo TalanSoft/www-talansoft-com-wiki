@@ -18,7 +18,7 @@ Now you can allow your customers to customize your products to their taste, in r
 
 Our intuitive timeline-based interface streamlines production pipelines, allowing quick and easy mixing of multi-format digital assets into interactive apps.
 
-## Templates
+## Application Templates for Retail
 Download one of these configurator template and use it to start building your own application.
 
 <a class="btn btn-primary" href="/md/docs/VlkSamples/car-configurator">Go to template</a>
