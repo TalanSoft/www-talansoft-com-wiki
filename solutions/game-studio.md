@@ -14,7 +14,7 @@ Valkyrie no-code creative platform lets you easily create cutting edge games, in
 
 Our intuitive timeline-based interface streamlines production pipelines, allowing quick and easy mixing of multi-format digital assets into interactive designs and prototypes.
 
-## Templates
+## Application Templates for Video Games
 Download the different templates below and use it to start building your own games and prototypes.
 
 ### Space Invaders
