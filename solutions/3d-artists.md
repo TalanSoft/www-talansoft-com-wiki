@@ -1,6 +1,7 @@
 ---
 title: 3D Artists & Designers | Valkyrie Solutions
 nav: <a class="md-docnav-item" href="./index">Solutions</a><a class="md-docnav-item" href="">3D artists &amp; designers</a>
+meta-description: Discover Valkyrie Solutions for 3D artists - turn imagination into real-time apps with no code
 ---
 
 # Valkyrie Solution for 3D Artists & Designers
@@ -19,7 +20,7 @@ Prepare for the reality of tomorrow’s market and become a professional capable
 
 Our intuitive timeline-based interface streamlines production pipelines, allowing quick and easy mixing of multi-format digital assets into interactive designs and prototypes.
 
-## Template
+## Application Templates for 3D artists, designers and hobbyists
 Download the AR dragon template and use it to start building your own application.
 
 <a class="btn btn-primary" href="/md/docs/VlkSamples/ar-dragon">Go to template</a>
