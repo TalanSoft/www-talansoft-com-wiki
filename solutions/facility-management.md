@@ -1,6 +1,7 @@
 ---
 title: Facility management & Industry | Valkyrie Solutions
 nav: <a class="md-docnav-item" href="./index">Solutions</a><a class="md-docnav-item" href="">Facility management &amp; Industry</a>
+meta-description: Discover Valkyrie Solutions for facility management - create IoT-connected 3D digital twins
 ---
 
 # Valkyrie Solution for Facility management & Industry
