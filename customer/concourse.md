@@ -5,6 +5,7 @@ meta-description: Read the customer success story of Concourse, that created a 3
 
 # Concourse Success Story - 3D Booth Configurator
 
+![3D booth configurator anchored in the street](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-1.jpg)
 
 ## Business Case Description
 Many businesses in F&B, the event industry or Travel Retail use booth rental services.  
@@ -12,6 +13,12 @@ The issue one client who provides these rental services had, was to help his cus
 After an introductory workshop to Valkyrie, our client was able to ship a 3D booth configurator that helped him shorten his sales cycle and increase his customers' satisfaction by managing their expectations regarding the products.  
 Whether it is for a pop-up store implementation, an event stall, or frequent shopping environment changes required for brand activation, the 3D configurator goes everywhere with the sales persons thanks in their smartphone or tablet.  
 
+![3D booth configurator anchored in the street](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-2.jpg)  
+![3D booth configurator anchored in the street](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-3.jpg)  
+![3D booth configurator anchored in the street](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-4.jpg)  
+![3D booth configurator anchored in the street](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-5.jpg)  
+![3D booth configurator anchored in the street](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-6.jpg)  
+![3D booth configurator anchored in the street](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-7.jpg)  
 
 coffee, pizza or poke bar.
 frame colour
@@ -34,8 +41,6 @@ Click on the button above to try it in your browser now! The web version of the 
 - Use the **Mouse Wheel** to **Zoom In / Out**.
 
 When using **[We3D](/vlk/downloads#we3d)**, switch to landscape mode to display the user interface.
-
-![3D booth configurator template](https://cdn2.talansoft.com/ftp/img/shoe_configurator/nike-shoe-template.jpg)
 
 ## Links
 
