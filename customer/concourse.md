@@ -8,19 +8,17 @@ meta-description: Read the customer success story of Concourse, that created a 3
 ![3D booth configurator anchored in the street](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-1.jpg)
 
 ## Business Case Description
-Many businesses in F&B, the event industry or Travel Retail use booth rental services.  
-The issue our client, Concourse, who provides these rental services had, was to help his customers get the sizing and feeling of how a booth would look like in their environment, and assist them in picking the right accessories and colors for their rental booth.  
+Travel retail display company Concourse was looking for a way to assist sales people in proposing their booth rental services (whether it is for a pop-up store implementation, an event stall, or frequent shopping environment changes required for brand activation).  
+The idea was to find a solution in order to help customers get the sizing and feeling of how a booth would look like in their environment, and assist them in picking the right accessories and colors for their rental booth.  
 
 ## What Valkyrie enabled
-After an introductory workshop to Valkyrie, Concourse was able to ship a 3D booth configurator 
-
-You can showcase the product to customers by configuring the following elements in real-time:  
+After an introductory workshop to Valkyrie, Concourse was able to ship a 3D booth configurator in a few days (including the 3D asset design) which assists salesmen to showcase their product by configuring the following elements in real-time:  
 - Booth frame color
 - Infill panels color
 - Light fixture type: modern, rattan, industrial
 - Equipment: oven, fridge, cash register, coffee machine, consumables
 
-Find below a few combinations possible:  
+Have a peek into a few of the combinations made available:  
 - Coffee shop  
 ![3D booth configurator coffee shop](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-4.jpg)  
 ![3D booth configurator display menu](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-3.jpg)  
@@ -32,9 +30,11 @@ Find below a few combinations possible:
 ![3D booth configurator pizza stall bare](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-6.jpg)    
 
 ## Results
-Since an app developed in Valkyrie is natively available on any smartphone or tablet, the 3D configurator now goes everywhere with Concourse sales persons.  
-The app helps sales people shorten the sales cycle and increase customers' satisfaction by managing their expectations regarding the end-products they will receive.  
-Whether it is for a pop-up store implementation, an event stall, or frequent shopping environment changes required for brand activation, Concourse local design team can update the app in a few hours to fit new models, colors or fixtures. All is made in-house.  
+Thanks to Valkyrie, Concourse achieved its business goals. The company was able to:
+- Rapidly obtain a 3D configurator that now goes everywhere with Concourse sales persons, as an app developed in Valkyrie is natively available on any smartphone or tablet.  
+- Help sales people shorten their sales cycle.
+- Increase customers' satisfaction by managing their expectations regarding the end-products they will receive.  
+- Enable frequent changes in-house, as the ease of use of Valkyrie lets Concourse local design team update the app in a few hours to fit new models, colors or fixtures...
 
 <a class="btn btn-primary umami--click--bt_launch_booth_configurator" href="/vlk/samples/booth-configurator/booth_config_v1.vpk">Launch Booth Configurator</a>
 
