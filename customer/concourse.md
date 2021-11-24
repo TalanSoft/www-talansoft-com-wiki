@@ -48,9 +48,15 @@ Quick guide to using the app on browser or desktop:
 
 When using **[We3D](/vlk/downloads#we3d)**, switch to landscape mode to display the user interface.
 
+## Customer testimonial
+"Valkyrie is a Swiss Army knife. It can do pretty much everything and is easy to use once you have spent a few hours on it. Besides, Talansoft really act as a partner for implementation which is what we were looking for."  
+Duncan Craig, Global Project Director, Concourse
+
 ## About Concourse
 Concourse Display Management strives to unleash brand and operator potential within global duty free and travel retail. They manage to do so with their great knowledge of shop fitting, fixture manufacturing and customer experience development.  
 
 ## Links
 The Booth Configurator is a variation of our **Car Configurator** template. Click below to check out the template and start working on your own project.  
-[Car Configurator](/vlk/VlkSamples/Car-Configurator) 
+[Car Configurator Template](/vlk/VlkSamples/Car-Configurator)  
+If you want a step by step guide on how to import a booth (or any other 3D asset) in Valkyrie and visualize it in AR, please watch the following training Concourse received.  
+[Video Tutorial on importing a booth in AR](https://youtu.be/8APB9Y7grtM)
