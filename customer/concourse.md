@@ -20,12 +20,12 @@ After an introductory workshop to Valkyrie, Concourse was able to ship a 3D boot
 
 Have a peek into a few of the combinations made available:  
 - Coffee shop  
-![3D booth configurator coffee shop](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-4.jpg)  
+![3D booth configurator coffee shop](https://cdn2.talansoft.com/ftp/img/concourse/coffee_corner.jpeg)  
 ![3D booth configurator display menu](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-3.jpg)  
 - Poke bar  
-![3D booth configurator poke bar](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-5.jpg)  
+![3D booth configurator poke bar](https://cdn2.talansoft.com/ftp/img/concourse/poke_bar.jpeg)  
 - Pizza stall  
-![3D booth configurator pizza stall](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-6.jpg)  
+![3D booth configurator pizza stall](https://cdn2.talansoft.com/ftp/img/concourse/pizzeria.jpeg)  
 - Pizza stall without equipment  
 ![3D booth configurator pizza stall bare](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-6.jpg)    
 
@@ -49,8 +49,13 @@ Quick guide to using the app on browser or desktop:
 When using **[We3D](/vlk/downloads#we3d)**, switch to landscape mode to display the user interface.
 
 ## Customer testimonial
-"Valkyrie is a Swiss Army knife. It can do pretty much everything and is easy to use once you have spent a few hours on it. Besides, Talansoft really act as a partner for implementation which is what we were looking for."  
-Duncan Craig, Global Project Director, Concourse
+"We approached Valkyrie to help us develop a prototype to create highly modular restaurant designs in 3D and Augmented Reality. The software was fast and easy to learn and use. Our design team were up and running in only a few hours. It also enables our non-technical clients to realize their vision quickly.  
+The Valkyrie support team was always there when we needed them and because of that support, our implementation was a huge success.  
+We look to bolt on the Valkyrie software into our design suite to help us stay ahead of the competition."  
+
+Duncan Craig, Global Project Director, Concourse  
+
+![3D booth configurator pizza stall bare](https://cdn2.talansoft.com/ftp/img/concourse/office.jpeg) 
 
 ## About Concourse
 Concourse Display Management strives to unleash brand and operator potential within global duty free and travel retail. They manage to do so with their great knowledge of shop fitting, fixture manufacturing and customer experience development.  
