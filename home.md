@@ -32,6 +32,7 @@ meta-description: Valkyrie tutorials, Templates, FAQs and Resources
 - [Flappy Bird](./VlkSamples/flappy-bird) (Web, 3D, touchscreen game)
 - [Earth Defender](./VlkSamples/earth-defender) (Web, 3D, touchscreen game)
 ### IoT Dashboards
+- [Simple IoT Dashboard](./VlkSamples/iot_dashboard) (enterprise application)
 - [Smart Cities](./VlkSamples/smart-cities) (enterprise application)
 - [Facility Management](./VlkSamples/facility-management) (enterprise application)
 ### Miscellaneous
