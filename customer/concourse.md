@@ -27,7 +27,7 @@ Have a peek into a few of the combinations made available:
 - Pizza stall  
 ![3D booth configurator pizza stall](https://cdn2.talansoft.com/ftp/img/concourse/pizzeria.jpeg)  
 - Pizza stall without equipment  
-![3D booth configurator pizza stall bare](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-6.jpg)    
+![3D booth configurator pizza stall bare](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-7.jpg)    
 
 ## Results
 Thanks to Valkyrie, Concourse achieved its business goals. The company was able to:
@@ -55,7 +55,7 @@ We look to bolt on the Valkyrie software into our design suite to help us stay a
 
 Duncan Craig, Global Project Director, Concourse  
 
-![3D booth configurator pizza stall bare](https://cdn2.talansoft.com/ftp/img/concourse/office.jpeg) 
+![VR inside Concourse DM office](https://cdn2.talansoft.com/ftp/img/concourse/office.jpeg) 
 
 ## About Concourse
 Concourse Display Management strives to unleash brand and operator potential within global duty free and travel retail. They manage to do so with their great knowledge of shop fitting, fixture manufacturing and customer experience development.  
