@@ -1,39 +1,21 @@
 ---
 title: Heineken | Valkyrie Success Story
-meta-description: Read the customer success story of Heineken, that created a PoC for an Augmented Reality marketing experience using our ready-made templates
+meta-description: Read the customer success story of Heineken, that created a PoC for an Augmented Reality marketing experience in Singapore using our ready-made templates
 ---
 
-# Heineken Success Story - Augmented Reality Marketing Experience
+# Heineken Success Story - Augmented Reality Marketing Experience for the Singapore Market
 
 ![3D booth configurator anchored in the street](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-1.jpg)
 
 ## Business Case Description
-for a new generation of marketing
+`to fill new generation of marketing  `
 
 ## What Valkyrie enabled
-After an introductory workshop to Valkyrie, Concourse was able to ship a 3D booth configurator in a few days (including the 3D asset design) which assists salesmen to showcase their product by configuring the following elements in real-time:  
-- Booth frame color
-- Infill panels color
-- Light fixture type: modern, rattan, industrial
-- Equipment: oven, fridge, cash register, coffee machine, consumables
-
-Have a peek into a few of the combinations made available:  
-- Coffee shop  
-![3D booth configurator coffee shop](https://cdn2.talansoft.com/ftp/img/concourse/coffee_corner.jpeg)  
-![3D booth configurator display menu](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-3.jpg)  
-- Poke bar  
-![3D booth configurator poke bar](https://cdn2.talansoft.com/ftp/img/concourse/poke_bar.jpeg)  
-- Pizza stall  
-![3D booth configurator pizza stall](https://cdn2.talansoft.com/ftp/img/concourse/pizzeria.jpeg)  
-- Pizza stall without equipment  
-![3D booth configurator pizza stall bare](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-7.jpg)    
+`to fill  `
 
 ## Results
-Thanks to Valkyrie, Concourse achieved its business goals. The company was able to:
-- Rapidly obtain a 3D configurator that now goes everywhere with Concourse sales persons, as an app developed in Valkyrie is natively available on any smartphone or tablet.  
-- Help sales people shorten their sales cycle.
-- Increase customers' satisfaction by managing their expectations regarding the end-products they will receive.  
-- Enable frequent changes in-house, as the ease of use of Valkyrie lets Concourse local design team update the app in a few hours to fit new models, colors or fixtures...
+Thanks to Valkyrie,  
+`to fill  `
 
 <a class="btn btn-primary umami--click--bt_launch_heineken_marketing" href="/vlk/samples/heineken-marketing/Heineken-Marketing.vpk">Launch Heineken AR experience</a>
 
@@ -45,22 +27,18 @@ Quick guide to using the app on browser or desktop:
 - Press & Hold **Left Click** to **Move** the camera
 - Use the **Mouse Wheel** to **Zoom In / Out**
 
-When using **[We3D](/vlk/downloads#we3d)**, switch to landscape mode to display the user interface.
+When using **[We3D](/vlk/downloads#we3d)**, switch to landscape mode to display the full user interface.  
+- Press & Hold **one finger** to **Move** the camera
+- Use the **2 fingers pinch** action to **Zoom In / Out**
 
 ## Customer testimonial
-"We approached Valkyrie to help us develop a prototype to create highly modular restaurant designs in 3D and Augmented Reality. The software was fast and easy to learn and use. Our design team were up and running in only a few hours. It also enables our non-technical clients to realize their vision quickly.  
-The Valkyrie support team was always there when we needed them and because of that support, our implementation was a huge success.  
-We look to bolt on the Valkyrie software into our design suite to help us stay ahead of the competition."  
+`"to ask"  `
 
-Duncan Craig, Global Project Director, Concourse  
+Mr T, Project Director, Heineken
 
-![VR inside Concourse DM office](https://cdn2.talansoft.com/ftp/img/concourse/office.jpeg) 
-
-## About Concourse
-Concourse Display Management strives to unleash brand and operator potential within global duty free and travel retail. They manage to do so with their great knowledge of shop fitting, fixture manufacturing and customer experience development.  
+## About Heineken
+Is there a need to present the world's leading lager beer company? The family business was started in 1873 and now, everyday, 25 million of their beers are served across 192 countries. Whether you're going to an F&B outlet or a supermarket, you're very likely to find Heineken's products right there.
 
 ## Links
-The Booth Configurator is a variation of our **Car Configurator** template. Click below to check out the template and start working on your own project.  
-[Car Configurator Template](/vlk/VlkSamples/Car-Configurator)  
-If you want a step by step guide on how to import a booth (or any other 3D asset) in Valkyrie and visualize it in AR, please watch the following training Concourse received.  
-[Video Tutorial on importing a booth in AR](https://youtu.be/8APB9Y7grtM)
+This Heineken marketing experience is a variation of our **AR Storm Trooper** Star Wars-inspired template. Click below to check out the template and start working on your own project.  
+[AR Storm Trooper Template](/vlk/VlkSamples/ar-storm-trooper)  
