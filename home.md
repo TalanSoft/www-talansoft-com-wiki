@@ -50,6 +50,7 @@ meta-description: Valkyrie tutorials, Templates, FAQs and Resources
 
 ## FAQs & Third Party Resources
 - [Frequently Asked Questions](./resources/faq)
+- [Valkyrie vs Unreal](./resources/valkyrie_vs_unreal)
 - [Toolkit](./resources/tools)
 - [About 3D Printers formats](./resources/3d-printers) (GCODE, STL, OBJ)
 - [Valkyrie Development Roadmap](./resources/roadmap) 
