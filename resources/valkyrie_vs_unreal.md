@@ -1,3 +1,7 @@
+---
+title: Valkyrie vs Unreal | Valkyrie FAQ
+meta-description: Valkyrie vs Unreal, comparing the two game engines
+---
 # Valkyrie vs Unreal: What you really need to know
 
 There are some things you really can't avoid or not do, like paying your taxes, avoiding the impact of COVID, or making comparisons. The last one is a fundamental human condition. We've been doing it since childhood, like comparing who's got the better Transformer toy or telling your schoolyard nemesis your father's achievements are better than theirs. "My dad’s better than your dad..."<br>
