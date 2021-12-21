@@ -5,12 +5,12 @@ meta-description: Read the customer success story of Heineken, that created a Po
 
 # Heineken Success Story - Augmented Reality Marketing Experience for the Singapore Market
 
-![heineken ar marketing sentosa island](https://cdn2.talansoft.com/ftp/img/heineken/sentosa-Heineken marketing.jpg)
+![heineken ar marketing sentosa island](https://cdn2.talansoft.com/ftp/img/heineken/sentosa-heineken-marketing.jpg)
 
 ## Business Case Description
 The main target for all brands is to find a way to stand out from the crowd and generate positive feelings towards their products. One way to achieve this is to use augmented reality, as the more immersive an experience is, the more you generate emotional attachment.<br>
 Heineken Singapore wanted to explore an reality experience with one of their marketing agencies, to engage consumers on their mobile devices and encourage conversion. <br>
-![heineken ar marketing marina bay sands](https://cdn2.talansoft.com/ftp/img/heineken/mbs-Heineken marketing.jpg)
+![heineken ar marketing marina bay sands](https://cdn2.talansoft.com/ftp/img/heineken/mbs-heineken-marketing.jpg)
 
 ## What Valkyrie enabled
 The requirement was to prepare 2 scenes of a marketing campaign for the Singapore market (the iconic Sentosa Beach and Marina Bay Sands City skyline) while building a lightweight application that would be fast to load on the web.<br>
