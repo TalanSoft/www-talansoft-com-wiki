@@ -8,7 +8,7 @@ meta-description: Read the customer success story of Heineken, that created a Po
 ![heineken ar marketing sentosa island](https://cdn2.talansoft.com/ftp/img/heineken/sentosa-heineken-marketing.jpg)
 
 ## Business Case Description
-The main target for all brands is to find a way to stand out from the crowd and generate positive feelings towards their products. One way to achieve this is to use augmented reality, as the more immersive an experience is, the more you generate emotional attachment.<br>
+The main target for all brands is to find a way to stand out from the crowd and generate positive feelings towards their products. One way to achieve this is to use augmented reality, as the more immersive an experience is, the more it generates emotional attachment.<br>
 Heineken Singapore wanted to explore an augmented reality experience with one of their marketing agencies, to engage consumers on their mobile devices and encourage conversion. <br>
 ![heineken ar marketing marina bay sands](https://cdn2.talansoft.com/ftp/img/heineken/mbs-heineken-marketing.jpg)
 
@@ -21,7 +21,7 @@ The challenge in compositing the scene was to make the AR display dynamic and ex
 Once the 3D work was done with, the marketing agency working with team Valkyrie was able to create a working prototype in a few days.<br>
 
 ## Results
-Upon launching the app on the web, the animation scenes of two iconic structures of the Singapore city pop out of thin air, putting together the stage to showcase the Heineken products embedded in the scene.<br>
+Upon launching the app on the web, the animation scenes of two of the most iconic structures of Singapore pop out of thin air, putting together the stage to showcase the Heineken products embedded in the scene.<br>
 The customers have the option to display the scene in AR and take pictures or videos to share with their friends.<br>
 Augmented Reality enables a new generation of marketing content.<br>
 
