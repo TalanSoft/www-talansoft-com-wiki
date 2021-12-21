@@ -19,14 +19,6 @@ This sample is a a practical example for the BIM/IoT industry of what you can bu
 - [Vpk Download](https://cdn2.talansoft.com/ftp/samples/IoT_Dashboard_2.vpk). This is the exported application that you can experience on your phone with [We3D](/vlk/downloads#we3d) or desktop with [Valkyrie](/vlk/downloads#vlk).
 - [Vlk Project Download](https://cdn2.talansoft.com/ftp/samples/Hotel_01_VLK.zip). This is the source project that you can tinker with in the [Valkyrie editor](/vlk/downloads#vlk).
 
-# Editor guide
-
-Setting up an IPCAM texture file
-- You can open one of your “IPCAM” file with a notepad and update the ipcam url accordingly
-![IPCAM URL in notepad](https://cdn2.talansoft.com/ftp/img/iot_dashboard/IPCAM-change-notepad.png)
-- The “IPCAM” file can be used as a texture by simply drag & dropping it into the **Diffuse channel** of your material
-![IPCAM diffuse channel settings](https://cdn2.talansoft.com/ftp/img/iot_dashboard/IPCAM-diffuse-channel.png)
-
 # Vpk guide
 
 Quick guide to using the app on browser or desktop:  
@@ -50,6 +42,14 @@ Here are the main features of the IoT dashboard template:
 ![IoT dashboard top-down view with fire alarm](https://cdn2.talansoft.com/ftp/img/iot_dashboard/top-down-view-fire-alarm.jpg)
 5) Evacuation route visualization<br>
 ![IoT dashboard evacuation route](https://cdn2.talansoft.com/ftp/img/iot_dashboard/fire-exit.jpg)
+
+# Editor guide
+Here are a few hints if you want to edit the template to build your own application.
+## Setting up an IPCAM texture file
+- You can open one of your “IPCAM” file with a notepad and update the ipcam url accordingly
+![IPCAM URL in notepad](https://cdn2.talansoft.com/ftp/img/iot_dashboard/IPCAM-change-notepad.png)
+- The “IPCAM” file can be used as a texture by simply drag & dropping it into the **Diffuse channel** of your material
+![IPCAM diffuse channel settings](https://cdn2.talansoft.com/ftp/img/iot_dashboard/IPCAM-diffuse-channel.png)
 
 # Other Version
 Check out another project based on this Configurator Project Template.
