@@ -22,9 +22,9 @@ This sample is a a practical example for the BIM/IoT industry of what you can bu
 # Editor guide
 
 Setting up an IPCAM texture file
-- You can open up an “IPCAM” file with a notepad and change the ipcam url accordingly
+- You can open one of your “IPCAM” file with a notepad and update the ipcam url accordingly
 ![IPCAM URL in notepad](https://cdn2.talansoft.com/ftp/img/iot_dashboard/IPCAM-change-notepad.png)
-- The “IPCAM” files can be used as a texture by simply drag & dropping it into the **Diffuse channel** of your material
+- The “IPCAM” file can be used as a texture by simply drag & dropping it into the **Diffuse channel** of your material
 ![IPCAM diffuse channel settings](https://cdn2.talansoft.com/ftp/img/iot_dashboard/IPCAM-diffuse-channel.png)
 
 # Vpk guide
@@ -39,16 +39,16 @@ When using **[We3D](/vlk/downloads#we3d)**:
 - Use the **2 fingers pinch** action to **Zoom In / Out**
 
 Here are the main features of the IoT dashboard template:
-1) Navigation by floor no.
+1) Navigation by floor no.<br>
 ![IoT dashboard floor selection panel](https://cdn2.talansoft.com/ftp/img/iot_dashboard/floor-panel.jpg)
-2) Perspective camera mode and 2D Orthogonal camera mode (top-down view)
+2) Perspective camera mode and 2D Orthogonal camera mode (top-down view)<br>
 ![IoT dashboard top-down view](https://cdn2.talansoft.com/ftp/img/iot_dashboard/top-down-view-cctv.jpg)
-3) CCTV display with controllable field of vision
+3) CCTV display with controllable field of vision<br>
 ![IoT dashboard CCTV feed](https://cdn2.talansoft.com/ftp/img/iot_dashboard/cctv-feed.jpg)
-4) Fire Alarm system by room
+4) Fire Alarm monitoring by floor and flashing room<br>
 ![IoT dashboard fire alarm panel](https://cdn2.talansoft.com/ftp/img/iot_dashboard/fire-alarm-panel.jpg)<br>
 ![IoT dashboard top-down view with fire alarm](https://cdn2.talansoft.com/ftp/img/iot_dashboard/top-down-view-fire-alarm.jpg)
-5) Evacuation route visualization
+5) Evacuation route visualization<br>
 ![IoT dashboard evacuation route](https://cdn2.talansoft.com/ftp/img/iot_dashboard/fire-exit.jpg)
 
 # Other Version
