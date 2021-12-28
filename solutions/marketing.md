@@ -15,6 +15,10 @@ Now you can make immersive AR experiences in real-time without endless video ren
 
 Our intuitive timeline-based interface streamlines production pipelines, allowing easy mixing of multi-format digital assets into interactive designs and applications.
 
+## Customer Success Story
+Learn how a multinational brewing company, **Heineken**, leveraged Valkyrie to build an augmented reality marketing application.
+[Heineken success story](/customer/heineken)
+
 ## Template
 Download the storm trooper template and use it to start building your own application.
 
