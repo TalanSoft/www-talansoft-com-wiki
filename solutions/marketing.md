@@ -17,6 +17,7 @@ Our intuitive timeline-based interface streamlines production pipelines, allowin
 
 ## Customer Success Story
 Learn how a multinational brewing company, **Heineken**, leveraged Valkyrie to build an augmented reality marketing application.
+
 [Heineken success story](/customer/heineken)
 
 ## Template
