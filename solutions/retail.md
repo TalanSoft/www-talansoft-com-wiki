@@ -20,6 +20,7 @@ Our intuitive timeline-based interface streamlines production pipelines, allowin
 
 ## Customer Success Story
 Learn how a travel retail company, **Concourse DM**, leveraged Valkyrie to build their augmented reality product configurator and engage their customers.
+
 [Concourse success story](/customer/concourse)
 
 ## Application Templates for Retail
