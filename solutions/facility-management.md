@@ -25,13 +25,18 @@ Get inspired by our past projects where we created and published interactive das
 
 Using our industry specific digital twin template, your designers can easily make mobile immersive 2D, 3D & AR monitoring and management experiences in real-time without any programming or endless video rendering.
 
+<img src= "https://cdn2.talansoft.com/ftp/img/www/Facility-Management-1600x1200.jpg" alt="Xray view for BIM" />
+
 Managers can monitor their facilities or Smart Factories, manage their maintenance activities and control their connected devices from anywhere in the world with mobile 3D dashboards made with Valkyrie.
+
+An example of how our customers use a facility management dashboard made with Valkyrie in real life:  
+![Foxconn smart factory](https://cdn2.talansoft.com/ftp/img/facility-management/foxconn-smart-factory.jpg)
 
 ## Template
 Download the digital twin template and use it to start building your own application or present an MVP to your client.
 
 <a class="btn btn-primary" href="/md/docs/VlkSamples/facility-management">Go to template</a>
-<a href="/md/docs/VlkSamples/facility-management"><img src= "https://cdn2.talansoft.com/ftp/img/www/Facility-Management-1600x1200.jpg" alt="Your digital twin template" /></a>
+<a href="/md/docs/Vlksamples/iot_dashboard"><img src= "https://cdn2.talansoft.com/ftp/img/iot_dashboard/top-down-view-fire-alarm.jpg" alt="Your digital twin template" /></a>
 
 Try Valkyrie [**free**](/vlk/downloads)  
 
