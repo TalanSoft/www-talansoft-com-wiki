@@ -31,7 +31,7 @@ When using **[We3D](/vlk/downloads#we3d)**:
 - Use the **2 fingers pinch** action to **Zoom In / Out**
 
 Here are the main features of the IoT dashboard template:
-![IoT dashboard floor selection panel](https://cdn2.talansoft.com/ftp/img/iot_dashboard/iot dashboard menu guide.jpg) 
+![IoT dashboard menu guide](https://cdn2.talansoft.com/ftp/img/iot_dashboard/iot-dashboard-menu-guide.jpg) 
 1) Fire Alarm monitoring by floor Panel - Toggle ON/OFF<br>
 2) Evacuation route - Toggle ON/OFF<br>
 3) Fire Alarm monitoring by floor Panel<br>
@@ -43,11 +43,8 @@ Here are the main features of the IoT dashboard template:
 9) Navigation by floor no. Panel - Toggle ON/OFF<br>
 
 ![IoT dashboard evacuation route](https://cdn2.talansoft.com/ftp/img/iot_dashboard/fire-exit.jpg)
-![IoT dashboard fire alarm panel](https://cdn2.talansoft.com/ftp/img/iot_dashboard/fire-alarm-panel.jpg)<br>
-![IoT dashboard top-down view with fire alarm](https://cdn2.talansoft.com/ftp/img/iot_dashboard/top-down-view-fire-alarm.jpg)
 ![IoT dashboard CCTV feed](https://cdn2.talansoft.com/ftp/img/iot_dashboard/cctv-feed.jpg)
 ![IoT dashboard top-down view](https://cdn2.talansoft.com/ftp/img/iot_dashboard/top-down-view-cctv.jpg)
-![IoT dashboard floor selection panel](https://cdn2.talansoft.com/ftp/img/iot_dashboard/floor-panel.jpg)
 
 # Editor guide
 Here are a few hints if you want to edit the template to build your own application.
