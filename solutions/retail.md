@@ -35,3 +35,7 @@ Download one of these configurator template and use it to start building your ow
 <a href="/md/docs/VlkSamples/watch-configurator">  
 <img src= "https://cdn2.talansoft.com/ftp/img/watch_configurator/watch-configurator.jpg" alt="watch configurator template for Valkyrie" />
 </a>
+
+## Customer Success Story
+Learn how a travel retail company, **Concourse DM**, leveraged Valkyrie to build their augmented reality product configurator and engage their customers.
+[Concourse DM](/customer/concourse)
