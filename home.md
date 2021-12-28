@@ -9,7 +9,7 @@ meta-description: Valkyrie tutorials, Templates, FAQs and Resources
 <div class="col-md-6">
 <a class="mr-4" href="https://discord.gg/ZuBJtpN4Ce" target="_blank" class="umami--click--bt_discord_join__footer"><span class="fab fa-discord fa-lg"></span> Discord</a>
 <a class="mr-4" href="https://www.youtube.com/channel/UC747bZf7cnsnCwTaTackCNw" target="_blank" class="umami--click--bt_youtube__footer"><span class="fab fa-youtube fa-lg"></span> Youtube</a>
-<a class="mr-4" href="https://instagram.com/valkyrieengine" target="_blank" class="umami--click--bt_instagram__footer"><span class="fab fa-instagram fa-lg"></span> Instragram</a>
+<a class="mr-4" href="https://instagram.com/valkyrieengine" target="_blank" class="umami--click--bt_instagram__footer"><span class="fab fa-instagram fa-lg"></span> Instagram</a>
 <a class="mr-4" href="https://twitter.com/talansoft" target="_blank" class="umami--click--bt_twitter__footer"><span class="fab fa-twitter fa-lg"></span> Twitter</a>
 <a class="mr-4" href="https://www.linkedin.com/company/talansoft" target="_blank" class="umami--click--bt_linkedin__footer"><span class="fab fa-linkedin fa-lg"></span> Linkedin</a>
 </div>
