@@ -33,9 +33,9 @@ An example of how our customers use a facility management dashboard made with Va
 ![Foxconn smart factory](https://cdn2.talansoft.com/ftp/img/facility-management/foxconn-smart-factory.jpg)
 
 ## Template
-Download the digital twin template and use it to start building your own application or present an MVP to your client.
+Download one of our IoT digital twin template and use it to start building your own application or present an MVP to your clients.
 
-<a class="btn btn-primary" href="/md/docs/VlkSamples/facility-management">Go to template</a>
+<a class="btn btn-primary" href="/md/docs/VlkSamples/iot_dashboard">Go to template</a>
 <a href="/md/docs/Vlksamples/iot_dashboard"><img src= "https://cdn2.talansoft.com/ftp/img/iot_dashboard/top-down-view-fire-alarm.jpg" alt="Your digital twin template" /></a>
 
 Try Valkyrie [**free**](/vlk/downloads)  
