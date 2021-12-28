@@ -23,18 +23,22 @@ meta-description: Valkyrie tutorials, Templates, FAQs and Resources
 - [Car Configurator](./VlkSamples/Car-Configurator) (Web, AR, 3D, DIY: 1 hour)
 - [Shoe Configurator](./VlkSamples/shoe-configurator) (Web, AR, 3D, Mixamo, DIY: 2 hour)
 - [Watch Configurator](./VlkSamples/watch-configurator) (Web, AR, 3D, DIY: 1 hour)
+
 ### Marketing Stunts
 - [AR Storm Trooper with music](./VlkSamples/ar-storm-trooper) (Web, AR, 3D, Audio, DIY: 1 hour)
 - [AR Dragon](./VlkSamples/ar-dragon) (AR, 3D, DIY: 1 hour)
+
 ### Games
 - [Space Invaders](./VlkSamples/space-invaders) (Web, 3D, touchscreen game)
 - [First Person Camera Environment](./VlkSamples/First-Person-Camera-Environment) (3D, mouse & keyboard FPS-like game)
 - [Flappy Bird](./VlkSamples/flappy-bird) (Web, 3D, touchscreen game)
 - [Earth Defender](./VlkSamples/earth-defender) (Web, 3D, touchscreen game)
+
 ### IoT Dashboards
 - [Simple IoT Dashboard](./VlkSamples/iot_dashboard) (enterprise application)
 - [Smart Cities](./VlkSamples/smart-cities) (enterprise application)
 - [Facility Management](./VlkSamples/facility-management) (enterprise application)
+
 ### Miscellaneous
 - [Architecture](./VlkSamples/architecture) (Web, AR, 3D, DIY: 4 hours)
 - [AR Education](./VlkSamples/ar-education) (Web, AR, 3D, DIY: 1 hour)
@@ -42,11 +46,9 @@ meta-description: Valkyrie tutorials, Templates, FAQs and Resources
 ## Demos
 - [List of demos](./demos/demo-list) (Not as polished as Templates, but good for inspiration)
 
-## Valkyrie References - Documentation on the different functions available
-- [Forms](./Vlk/RefForms)
-- [Entities](./Vlk/RefEntities)
-- [Events](./Vlk/RefEvents)
-- [Actions](./Vlk/RefActions)
+## Customer success stories
+- [Concourse DM](./customer/concourse)
+- [Heineken](./customer/heineken)
 
 ## FAQs & Third Party Resources
 - [Frequently Asked Questions](./resources/faq)
@@ -54,6 +56,12 @@ meta-description: Valkyrie tutorials, Templates, FAQs and Resources
 - [Toolkit](./resources/tools)
 - [About 3D Printers formats](./resources/3d-printers) (GCODE, STL, OBJ)
 - [Valkyrie Development Roadmap](./resources/roadmap) 
+
+## Valkyrie References - Documentation on the different functions available
+- [Forms](./Vlk/RefForms)
+- [Entities](./Vlk/RefEntities)
+- [Events](./Vlk/RefEvents)
+- [Actions](./Vlk/RefActions)
 
 ## Supported Operating Systems & Platforms
 - [Valkyrie for Windows](./Valkyrie-for-Windows)
