@@ -14,6 +14,8 @@ This sample is a a practical example for the BIM/IoT industry of what you can bu
 
 ![Valkyrie IoT dashboard](https://cdn2.talansoft.com/ftp/img/iot_dashboard/iot-dashboard.jpg)
 
+![IoT dashboard evacuation route](https://cdn2.talansoft.com/ftp/img/iot_dashboard/fire-exit.jpg)
+
 # Downloads
 
 - [Vpk Download](https://cdn2.talansoft.com/ftp/samples/IoT_Dashboard_2.vpk). This is the exported application that you can experience on your phone with [We3D](/vlk/downloads#we3d) or desktop with [Valkyrie](/vlk/downloads#vlk).
@@ -32,18 +34,18 @@ When using **[We3D](/vlk/downloads#we3d)**:
 
 Here are the main features of the IoT dashboard template:
 ![IoT dashboard menu guide](https://cdn2.talansoft.com/ftp/img/iot_dashboard/iot-dashboard-menu-guide.jpg) 
-1) Fire Alarm monitoring by floor Panel - Toggle ON/OFF<br>
-2) Evacuation route - Toggle ON/OFF<br>
-3) Fire Alarm monitoring by floor Panel<br>
-4) CCTV field of vision and feed display<br>
-5) Navigation by floor no. Panel<br>
-6) Move to upper/lower floor<br>
-7) Refresh the UI and recenter the camera on the building<br>
-8) Switch between Perspective camera mode and 2D Orthogonal camera mode (top-down view)<br>
-9) Navigation by floor no. Panel - Toggle ON/OFF<br>
 
-![IoT dashboard evacuation route](https://cdn2.talansoft.com/ftp/img/iot_dashboard/fire-exit.jpg)
-![IoT dashboard CCTV feed](https://cdn2.talansoft.com/ftp/img/iot_dashboard/cctv-feed.jpg)
+1. Fire Alarm monitoring by floor Panel - Toggle ON/OFF
+2. Evacuation route - Toggle ON/OFF
+3. Fire Alarm monitoring by floor Panel
+4. CCTV field of vision and feed display
+5. Navigation by floor no. Panel
+6. Move to upper/lower floor
+7. Refresh the UI and recenter the camera on the building
+8. Switch between Perspective camera mode and 2D Orthogonal camera mode (top-down view)
+9. Navigation by floor no. Panel - Toggle ON/OFF
+
+Screenshot of the CCTV feed:
 ![IoT dashboard top-down view](https://cdn2.talansoft.com/ftp/img/iot_dashboard/top-down-view-cctv.jpg)
 
 # Editor guide
