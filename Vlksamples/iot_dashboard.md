@@ -31,17 +31,23 @@ When using **[We3D](/vlk/downloads#we3d)**:
 - Use the **2 fingers pinch** action to **Zoom In / Out**
 
 Here are the main features of the IoT dashboard template:
-1) Navigation by floor no.<br>
-![IoT dashboard floor selection panel](https://cdn2.talansoft.com/ftp/img/iot_dashboard/floor-panel.jpg)
-2) Perspective camera mode and 2D Orthogonal camera mode (top-down view)<br>
-![IoT dashboard top-down view](https://cdn2.talansoft.com/ftp/img/iot_dashboard/top-down-view-cctv.jpg)
-3) CCTV display with controllable field of vision<br>
-![IoT dashboard CCTV feed](https://cdn2.talansoft.com/ftp/img/iot_dashboard/cctv-feed.jpg)
-4) Fire Alarm monitoring by floor and flashing room<br>
+![IoT dashboard floor selection panel](https://cdn2.talansoft.com/ftp/img/iot_dashboard/iot dashboard menu guide.jpg) 
+1) Fire Alarm monitoring by floor Panel - Toggle ON/OFF<br>
+2) Evacuation route - Toggle ON/OFF<br>
+3) Fire Alarm monitoring by floor Panel<br>
+4) CCTV field of vision and feed display<br>
+5) Navigation by floor no. Panel<br>
+6) Move to upper/lower floor<br>
+7) Refresh the UI and recenter the camera on the building<br>
+8) Switch between Perspective camera mode and 2D Orthogonal camera mode (top-down view)<br>
+9) Navigation by floor no. Panel - Toggle ON/OFF<br>
+
+![IoT dashboard evacuation route](https://cdn2.talansoft.com/ftp/img/iot_dashboard/fire-exit.jpg)
 ![IoT dashboard fire alarm panel](https://cdn2.talansoft.com/ftp/img/iot_dashboard/fire-alarm-panel.jpg)<br>
 ![IoT dashboard top-down view with fire alarm](https://cdn2.talansoft.com/ftp/img/iot_dashboard/top-down-view-fire-alarm.jpg)
-5) Evacuation route visualization<br>
-![IoT dashboard evacuation route](https://cdn2.talansoft.com/ftp/img/iot_dashboard/fire-exit.jpg)
+![IoT dashboard CCTV feed](https://cdn2.talansoft.com/ftp/img/iot_dashboard/cctv-feed.jpg)
+![IoT dashboard top-down view](https://cdn2.talansoft.com/ftp/img/iot_dashboard/top-down-view-cctv.jpg)
+![IoT dashboard floor selection panel](https://cdn2.talansoft.com/ftp/img/iot_dashboard/floor-panel.jpg)
 
 # Editor guide
 Here are a few hints if you want to edit the template to build your own application.
