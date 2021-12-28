@@ -2,6 +2,7 @@
 title: Resources | Valkyrie
 meta-description: Valkyrie tutorials, Templates, FAQs and Resources
 ---
+
 # Valkyrie tutorials, Templates, FAQs and Resources
 
 ## Basic Valkyrie Guides - Get started with Valkyrie
@@ -10,7 +11,7 @@ meta-description: Valkyrie tutorials, Templates, FAQs and Resources
 - [Getting Started 02: Import and Export](VlkGuides/import_and_export)
 - [Getting Started 03: The Material Editor](VlkGuides/Material-Editor)
 
-## Advanced Valkyrie Guides - Get proficient with Valkyrie 
+## Advanced Valkyrie Guides - Get proficient with Valkyrie
 - [How to create a selection menu](VlkGuides/How-to-create-a-selection-menu)
 - [AR in less that 10 minutes](VlkGuides/ar-in-10-mins)
 - [How to use an AR marker](VlkGuides/ar-marker) (augmented reality image anchoring)
@@ -19,10 +20,11 @@ meta-description: Valkyrie tutorials, Templates, FAQs and Resources
 - [Retrieve live bitcoin USD value from a Web API](VlkGuides/retrieve-btc-usd-http-web-api)
 
 ## Customer success stories
-- [Concourse DM](./customer/concourse)
-- [Heineken](./customer/heineken)
+- [Concourse DM](./customers/concourse)
+- [Heineken](./customers/heineken)
 
 ## Project Templates - Build your own applications with Valkyrie
+
 ### Product Configurators
 - [Car Configurator](./VlkSamples/Car-Configurator) (Web, AR, 3D, DIY: 1 hour)
 - [Shoe Configurator](./VlkSamples/shoe-configurator) (Web, AR, 3D, Mixamo, DIY: 2 hour)
@@ -55,7 +57,7 @@ meta-description: Valkyrie tutorials, Templates, FAQs and Resources
 - [Valkyrie vs Unreal](./resources/valkyrie_vs_unreal)
 - [Toolkit](./resources/tools)
 - [About 3D Printers formats](./resources/3d-printers) (GCODE, STL, OBJ)
-- [Valkyrie Development Roadmap](./resources/roadmap) 
+- [Valkyrie Development Roadmap](./resources/roadmap)
 
 ## Valkyrie References - Documentation on the different functions available
 - [Forms](./Vlk/RefForms)
