@@ -18,6 +18,10 @@ meta-description: Valkyrie tutorials, Templates, FAQs and Resources
 - [A simple daylight system](VlkGuides/automatic-daylight-system)
 - [Retrieve live bitcoin USD value from a Web API](VlkGuides/retrieve-btc-usd-http-web-api)
 
+## Customer success stories
+- [Concourse DM](./customer/concourse)
+- [Heineken](./customer/heineken)
+
 ## Project Templates - Build your own applications with Valkyrie
 ### Product Configurators
 - [Car Configurator](./VlkSamples/Car-Configurator) (Web, AR, 3D, DIY: 1 hour)
@@ -45,10 +49,6 @@ meta-description: Valkyrie tutorials, Templates, FAQs and Resources
 
 ## Demos
 - [List of demos](./demos/demo-list) (Not as polished as Templates, but good for inspiration)
-
-## Customer success stories
-- [Concourse DM](./customer/concourse)
-- [Heineken](./customer/heineken)
 
 ## FAQs & Third Party Resources
 - [Frequently Asked Questions](./resources/faq)
