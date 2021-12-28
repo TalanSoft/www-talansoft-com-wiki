@@ -55,13 +55,3 @@ Here are a few hints if you want to edit the template to build your own applicat
 ![IPCAM URL in notepad](https://cdn2.talansoft.com/ftp/img/iot_dashboard/IPCAM-change-notepad.png)
 - The “IPCAM” file can be used as a texture by simply drag & dropping it into the **Diffuse channel** of your material
 ![IPCAM diffuse channel settings](https://cdn2.talansoft.com/ftp/img/iot_dashboard/IPCAM-diffuse-channel.png)
-
-# Other Version
-Check out another project based on this Configurator Project Template.
-- [Watch Configurator](./watch_configurator)
-
-# Links
-
-You might also be interested in these templates:
-- [AR education](./ar-education)
-- [AR dragon](./ar-dragon)
