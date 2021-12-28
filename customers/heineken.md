@@ -3,7 +3,9 @@ title: Heineken | Valkyrie Success Story
 meta-description: Read the customer success story of Heineken, that created a PoC for an Augmented Reality marketing experience in Singapore using our ready-made templates
 ---
 
-# Heineken Success Story - Augmented Reality Marketing Experience for the Singapore Market
+# Heineken Success Story
+
+Augmented Reality Marketing Experience for the Singapore Market
 
 ![heineken ar marketing sentosa island](https://cdn2.talansoft.com/ftp/img/heineken/sentosa-heineken-marketing.jpg)
 

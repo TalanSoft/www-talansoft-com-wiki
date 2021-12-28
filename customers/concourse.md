@@ -3,7 +3,9 @@ title: Concourse | Valkyrie Success Story
 meta-description: Read the customer success story of Concourse, that created a 3D booth configurator in hours using our ready-made template
 ---
 
-# Concourse Success Story - 3D Booth Configurator
+# Concourse Success Story
+
+3D Booth Configurator
 
 ![3D booth configurator anchored in the street](https://cdn2.talansoft.com/ftp/img/concourse/booth-configurator-1c.jpg)
 

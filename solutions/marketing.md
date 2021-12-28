@@ -18,7 +18,7 @@ Our intuitive timeline-based interface streamlines production pipelines, allowin
 ## Customer Success Story
 Learn how a multinational brewing company, **Heineken**, leveraged Valkyrie to build an augmented reality marketing application.
 
-[Heineken success story](/customer/heineken)
+- [Heineken success story](../customers/heineken)
 
 ## Template
 Download the storm trooper template and use it to start building your own application.
