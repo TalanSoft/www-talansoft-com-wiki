@@ -13,8 +13,6 @@ For preview click on the button above to try it in your browser now! The web ver
 
 ![img](https://cdn2.talansoft.com/ftp/img/dragon_template/3d-dragon-fire-spitting.jpg)
 
-![img](https://cdn2.talansoft.com/ftp/img/dragon_template/01_dragon_piece.jpg)
-
 # Downloads
 - [Vpk Download](https://cdn2.talansoft.com/ftp/samples/Dragon-Sample-Web_v2.vpk). This is the exported application that you can experience on your phone with [We3D](/vlk/downloads#we3d) or desktop with [Valkyrie](/vlk/downloads#vlk).
 - [Vlk Project Download](https://cdn2.talansoft.com/ftp/samples/Dragon-Sample-V2.zip). This is the source project that you can tinker with in the [Valkyrie editor](/vlk/downloads#vlk).
